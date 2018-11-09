@@ -1,8 +1,8 @@
 # awesome-Face_Recognition   
 this collecting the papers (main from arxiv.org) about bellow themes:  
-**face detection**;   
-**face alignment**;   
-**face recognition**;  
+> * **face detection**;   
+> * **face alignment**;   
+> * **face recognition**;  
 Face Reconstruction;   
 Face Tracking;   
 Face Super-Resolution && Face Deblurring;   
@@ -637,3 +637,5 @@ Face Verification.
 
 ---
 ## Face Verification
+
+。
