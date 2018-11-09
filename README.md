@@ -110,9 +110,9 @@ this collecting the papers about face detection, face aignment, face recognition
 - Alexandre Attia, Sharone Dayan .[Detecting and counting tiny faces](https://arxiv.org/pdf/1801.06504) .[J] arXiv preprint arXiv:1801.06504.
 - Changzheng Zhang, Xiang Xu, Dandan Tu .[Face Detection Using Improved Faster RCNN](https://arxiv.org/pdf/1802.02142) .[J] arXiv preprint arXiv:1802.02142.
 - Anand Bhattad, Jason Rock, David Forsyth .[Detecting Anomalous Faces with 'No Peeking' Autoencoders](https://arxiv.org/pdf/1802.05798) .[J] arXiv preprint arXiv:1802.05798.
--  .[Beyond Context: Exploring Semantic Similarity for Tiny Face Detection](https://arxiv.org/pdf/1803.01555) .[J] arXiv preprint arXiv:1803.01555.
--  .[Face Spoofing Detection by Fusing Binocular Depth and Spatial Pyramid  Coding Micro-Texture Features](https://arxiv.org/pdf/1803.04722) .[J] arXiv preprint arXiv:1803.04722.
--  .[Face-MagNet: Magnifying Feature Maps to Detect Small Faces](https://arxiv.org/pdf/1803.05258) .[J] arXiv preprint arXiv:1803.05258.
+- Yue Xi, Jiangbin Zheng, Xiangjian He, Wenjing Jia, Hanhui Li.[Beyond Context: Exploring Semantic Similarity for Tiny Face Detection](https://arxiv.org/pdf/1803.01555) .[J] arXiv preprint arXiv:1803.01555.
+- Xiao Song, Xu Zhao, Tianwei Lin.[Face Spoofing Detection by Fusing Binocular Depth and Spatial Pyramid  Coding Micro-Texture Features](https://arxiv.org/pdf/1803.04722) .[J] arXiv preprint arXiv:1803.04722.
+- Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa.[Face-MagNet: Magnifying Feature Maps to Detect Small Faces](https://arxiv.org/pdf/1803.05258) .[J] arXiv preprint arXiv:1803.05258.
 - Zhiwen Shao, Zhilei Liu, Jianfei Cai, Lizhuang Ma .[Deep Adaptive Attention for Joint Facial Action Unit Detection and Face  Alignment](https://arxiv.org/pdf/1803.05588) .[J] arXiv preprint arXiv:1803.05588.
 - Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .[PyramidBox: A Context-assisted Single Shot Face Detector](https://arxiv.org/pdf/1803.07737) .[J] arXiv preprint arXiv:1803.07737.
 - Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics: A Large-scale Video Dataset for Forgery Detection in  Human Faces](https://arxiv.org/pdf/1803.09179) .[J] arXiv preprint arXiv:1803.09179.
