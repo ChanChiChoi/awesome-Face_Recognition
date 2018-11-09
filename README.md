@@ -616,3 +616,12 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 
 ---
 ## Face Anti-Spoofing
+
+---
+## Face Retrieval
+
+---
+## Face Identification
+
+---
+## Face Verification
