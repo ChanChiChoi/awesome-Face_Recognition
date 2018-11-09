@@ -1,6 +1,6 @@
 # awesome-Face_Recognition   
-this collecting the papers (main from arxiv.org) about the following themes:  
-**Face Detection**;   
+this collecting papers (main from arxiv.org) about the following themes:  
+> * **Face Detection**;   
 **Face Alignment**;   
 **Face Recognition**;  
 Face Reconstruction;   
@@ -12,6 +12,9 @@ Face Anti-Spoofing;
 Face Retrieval;   
 Face Identification;   
 Face Verification.  
+
+also, some papers and datasets links collected from:
+- [1] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
 
 ---
 ## Face Detection
