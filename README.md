@@ -4,6 +4,147 @@ this collecting the papers about face detection, face aignment, face recognition
 ---
 ## Face Detection
 
+### 2008
+- Seyyed Majid Valiollahzadeh, Abolghasem Sayadiyan, Mohammad Nazari .[Face Detection Using Adaboosted SVM-Based Component Classifier](https://arxiv.org/pdf/0812.02575) .[J] arXiv preprint arXiv:0812.02575.
+
+### 2010
+- Raphael Sznitman, Bruno Jedynak .[Active Testing for Face Detection and Localization](https://arxiv.org/pdf/1003.05249) .[J] arXiv preprint arXiv:1003.05249.
+- Daniele S. M. Alves, Mariangela Lisanti, Jay G. Wacker .[The Poker Face of Inelastic Dark Matter: Prospects at Upcoming Direct  Detection Experiments](https://arxiv.org/pdf/1005.05421) .[J] arXiv preprint arXiv:1005.05421.
+- S. M. Kamruzzaman, Firoz Ahmed Siddiqi, Md. Saiful Islam, Md. Emdadul Haque, Mohammad Shamsul Alam .[Rotation Invariant Face Detection Using Wavelet, PCA and Radial Basis  Function Networks](https://arxiv.org/pdf/1009.04974) .[J] arXiv preprint arXiv:1009.04974.
+- Sakrapee Paisitkriangkrai, Chunhua Shen, Jian Zhang .[Face Detection with Effective Feature Extraction](https://arxiv.org/pdf/1009.05758) .[J] arXiv preprint arXiv:1009.05758.
+
+### 2011
+- Yingjie Miao, Jason J. Corso .[Hamiltonian Streamline Guided Feature Extraction with Applications to  Face Detection](https://arxiv.org/pdf/1108.03525) .[J] arXiv preprint arXiv:1108.03525.
+- Divya Jyoti, Aman Chadha, Pallavi Vaidya, M. Mani Roja .[A robust, low-cost approach to Face Detection and Face Recognition](https://arxiv.org/pdf/1111.01090) .[J] arXiv preprint arXiv:1111.01090.
+
+### 2012
+- Vibekananda Dutta, Dr Nishtha Kesswani, Deepti Gahalot .[Novel Architecture for 3D model in virtual communities from detected  face](https://arxiv.org/pdf/1210.06157) .[J] arXiv preprint arXiv:1210.06157.
+
+### 2013
+- Faizan Ahmad, Aaima Najam, Zeeshan Ahmed .[Image-based Face Detection and Recognition: "State of the Art"](https://arxiv.org/pdf/1302.06379) .[J] arXiv preprint arXiv:1302.06379.
+- Parama Bagchi, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu .[A Novel Approach in detecting pose orientation of a 3D face required for  face](https://arxiv.org/pdf/1309.03418) .[J] arXiv preprint arXiv:1309.03418.
+- Parama Bagchi, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu .[A novel approach for nose tip detection using smoothing by weighted  median filtering applied to 3D face images in variant poses](https://arxiv.org/pdf/1309.04573) .[J] arXiv preprint arXiv:1309.04573.
+- Parama Bagchi, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu .[Detection of pose orientation across single and multiple axes in case of  3D face images](https://arxiv.org/pdf/1309.04577) .[J] arXiv preprint arXiv:1309.04577.
+- Markan Lopar, Slobodan Ribari .[An Overview and Evaluation of Various Face and Eyes Detection Algorithms  for Driver Fatigue Monitoring Systems](https://arxiv.org/pdf/1310.00317) .[J] arXiv preprint arXiv:1310.00317.
+- Qianli Liao, Joel Z Leibo, Youssef Mroueh, Tomaso Poggio .[Can a biologically-plausible hierarchy effectively replace face  detection, alignment, and recognition pipelines?](https://arxiv.org/pdf/1311.04082) .[J] arXiv preprint arXiv:1311.04082.
+- P. Kiran Sree, I. Ramesh Babu .[Face Detection from still and Video Images using Unsupervised Cellular  Automata with K means clustering algorithm](https://arxiv.org/pdf/1312.06834) .[J] arXiv preprint arXiv:1312.06834.
+
+### 2014
+- Manoj Krishnaswamy, G. Hemantha Kumar .[Enhancing Template Security of Face Biometrics by Using Edge Detection  and Hashing](https://arxiv.org/pdf/1401.05632) .[J] arXiv preprint arXiv:1401.05632.
+- Omaima N. A. AL-Allaf .[Review of Face Detection Systems Based Artificial Neural Networks  Algorithms](https://arxiv.org/pdf/1404.01292) .[J] arXiv preprint arXiv:1404.01292.
+- Adrian Barbu, Nathan Lay, Gary Gramajo .[Face Detection with a 3D Model](https://arxiv.org/pdf/1404.03596) .[J] arXiv preprint arXiv:1404.03596.
+- Saptarshi Chakraborty, Dhrubajyoti Das .[An Overview of Face Liveness Detection](https://arxiv.org/pdf/1405.02227) .[J] arXiv preprint arXiv:1405.02227.
+- Luo Tao, Shi zaifeng .[An FPGA-based Parallel Architecture for Face Detection using Mixed Color  Models](https://arxiv.org/pdf/1405.07032) .[J] arXiv preprint arXiv:1405.07032.
+- Bin Yang, Junjie Yan, Zhen Lei, Stan Z. Li .[Aggregate channel features for multi-view face detection](https://arxiv.org/pdf/1407.04023) .[J] arXiv preprint arXiv:1407.04023.
+- Reza Azad, Fatemeh Davami .[A robust and adaptable method for face detection based on Color  Probabilistic Estimation Technique](https://arxiv.org/pdf/1407.06318) .[J] arXiv preprint arXiv:1407.06318.
+- Shengcai Liao, Anil K. Jain, Stan Z. Li .[A Fast and Accurate Unconstrained Face Detector](https://arxiv.org/pdf/1408.01656) .[J] arXiv preprint arXiv:1408.01656.
+- David Menotti, Giovani Chiachia, Allan Pinto, William Robson Schwartz, Helio Pedrini, Alexandre Xavier Falcao, Anderson Rocha .[Deep Representations for Iris, Face, and Fingerprint Spoofing Detection](https://arxiv.org/pdf/1410.01980) .[J] arXiv preprint arXiv:1410.01980.
+- K.A.A. Aziz, S.S. Abdullah .[Face Detection Using Radial Basis Functions Neural Networks With Fixed  Spread](https://arxiv.org/pdf/1410.02173) .[J] arXiv preprint arXiv:1410.02173.
+
+### 2015
+- Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .[Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766) .[J] arXiv preprint arXiv:1502.02766.
+- Anjith George, Anirban Dasgupta, Aurobinda Routray .[A Framework for Fast Face and Eye Detection](https://arxiv.org/pdf/1505.03344) .[J] arXiv preprint arXiv:1505.03344.
+- Golnaz Ghiasi, Charless C. Fowlkes .[Occlusion Coherence: Detecting and Localizing Occluded Faces](https://arxiv.org/pdf/1506.08347) .[J] arXiv preprint arXiv:1506.08347.
+- Ilya Kalinovskii, Vladimir Spitsyn .[Compact Convolutional Neural Network Cascade for Face Detection](https://arxiv.org/pdf/1508.01292) .[J] arXiv preprint arXiv:1508.01292.
+- Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[A Deep Pyramid Deformable Part Model for Face Detection](https://arxiv.org/pdf/1508.04389) .[J] arXiv preprint arXiv:1508.04389.
+- Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang .[From Facial Parts Responses to Face Detection: A Deep Learning Approach](https://arxiv.org/pdf/1509.06451) .[J] arXiv preprint arXiv:1509.06451.
+- Babins Shrestha, Nitesh Saxena, Hien Thi Thu Truong, N. Asokan .[Contextual Proximity Detection in the Face of Context-Manipulating  Adversaries](https://arxiv.org/pdf/1511.00905) .[J] arXiv preprint arXiv:1511.00905.
+- Sohini Roychowdhury .[Facial Expression Detection using Patch-based Eigen-face Isomap Networks](https://arxiv.org/pdf/1511.03363) .[J] arXiv preprint arXiv:1511.03363.
+- Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang .[WIDER FACE: A Face Detection Benchmark](https://arxiv.org/pdf/1511.06523) .[J] arXiv preprint arXiv:1511.06523.
+
+### 2016
+- Michael J. Wilber, Vitaly Shmatikov, Serge Belongie .[Can we still avoid automatic face detection?](https://arxiv.org/pdf/1602.04504) .[J] arXiv preprint arXiv:1602.04504.
+- Sayantan Sarkar, Vishal M. Patel, Rama Chellappa .[Deep Feature-based Face Detection on Mobile Devices](https://arxiv.org/pdf/1602.04868) .[J] arXiv preprint arXiv:1602.04868.
+- Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[HyperFace: A Deep Multi-task Learning Framework for Face Detection,  Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249) .[J] arXiv preprint arXiv:1603.01249.
+- Upal Mahbub, Vishal M. Patel, Deepak Chandra, Brandon Barbello, Rama Chellappa .[Partial Face Detection for Continuous Authentication](https://arxiv.org/pdf/1603.09364) .[J] arXiv preprint arXiv:1603.09364.
+- Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao .[Joint Face Detection and Alignment using Multi-task Cascaded  Convolutional Networks](https://arxiv.org/pdf/1604.02878) .[J] arXiv preprint arXiv:1604.02878.
+- Yunzhu Li, Benyuan Sun, Tianfu Wu, Yizhou Wang .[Face Detection with End-to-End Integration of a ConvNet and a 3D Model](https://arxiv.org/pdf/1606.00850) .[J] arXiv preprint arXiv:1606.00850.
+- Huaizu Jiang, Erik Learned-Miller .[Face Detection with the Faster R-CNN](https://arxiv.org/pdf/1606.03473) .[J] arXiv preprint arXiv:1606.03473.
+- Chenchen Zhu, Yutong Zheng, Khoa Luu, Marios Savvides .[CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face  Detection](https://arxiv.org/pdf/1606.05413) .[J] arXiv preprint arXiv:1606.05413.
+- Dong Chen, Gang Hua, Fang Wen, Jian Sun .[Supervised Transformer Network for Efficient Face Detection](https://arxiv.org/pdf/1607.05477) .[J] arXiv preprint arXiv:1607.05477.
+- Michael McCoyd, David Wagner .[Spoofing 2D Face Detection: Machines See People Who Aren't There](https://arxiv.org/pdf/1608.02128) .[J] arXiv preprint arXiv:1608.02128.
+- Shaohua Wan, Zhijun Chen, Tao Zhang, Bo Zhang, Kong-kat Wong .[Bootstrapping Face Detection with Hard Negative Examples](https://arxiv.org/pdf/1608.02236) .[J] arXiv preprint arXiv:1608.02236.
+- Michael Opitz, Georg Waltner, Georg Poier, Horst Possegger, Horst Bischof .[Grid Loss: Detecting Occluded Faces](https://arxiv.org/pdf/1609.00129) .[J] arXiv preprint arXiv:1609.00129.
+- Xianxu Hou, Ke Sun, Linlin Shen, Guoping Qiu .[Object Specific Deep Learning Feature and Its Application to Face  Detection](https://arxiv.org/pdf/1609.01366) .[J] arXiv preprint arXiv:1609.01366.
+- Zhenheng Yang, Ram Nevatia .[A Multi-Scale Cascade Fully Convolutional Network Face Detector](https://arxiv.org/pdf/1609.03536) .[J] arXiv preprint arXiv:1609.03536.
+- Shuzhe Wu, Meina Kan, Zhenliang He, Shiguang Shan, Xilin Chen .[Funnel-Structured Cascade for Multi-View Face Detection with  Alignment-Awareness](https://arxiv.org/pdf/1609.07304) .[J] arXiv preprint arXiv:1609.07304.
+- Jyothi Korra .[Comparing Face Detection and Recognition Techniques](https://arxiv.org/pdf/1610.04575) .[J] arXiv preprint arXiv:1610.04575.
+- Michael T. Schaub, Jean-Charles Delvenne, Martin Rosvall, Renaud Lambiotte .[The many facets of community detection in complex networks](https://arxiv.org/pdf/1611.07769) .[J] arXiv preprint arXiv:1611.07769.
+- Zhuqi Li, Weijie Chen, Zhenyi Li, Kaigui Bian .[Look into My Eyes: Fine-grained Detection of Face-screen Distance on  Smartphones](https://arxiv.org/pdf/1612.04131) .[J] arXiv preprint arXiv:1612.04131.
+- Yutong Zheng, Chenchen Zhu, Khoa Luu, Chandrasekhar Bhagavatula, T. Hoang Ngan Le, Marios Savvides .[Towards a Deep Learning Framework for Unconstrained Face Detection](https://arxiv.org/pdf/1612.05322) .[J] arXiv preprint arXiv:1612.05322.
+
+### 2017
+- Smriti Tikoo, Nitin Malik .[Detection of Face using Viola Jones and Recognition using Back  Propagation Neural Network](https://arxiv.org/pdf/1701.08257) .[J] arXiv preprint arXiv:1701.08257.
+- Smriti Tikoo, Nitin Malik .[Detection, Segmentation and Recognition of Face and its Features Using  Neural Network](https://arxiv.org/pdf/1701.08259) .[J] arXiv preprint arXiv:1701.08259.
+- Xudong Sun, Pengcheng Wu, Steven C.H. Hoi .[Face Detection using Deep Learning: An Improved Faster RCNN Approach](https://arxiv.org/pdf/1701.08289) .[J] arXiv preprint arXiv:1701.08289.
+- Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang .[Faceness-Net: Face Detection through Deep Facial Part Responses](https://arxiv.org/pdf/1701.08393) .[J] arXiv preprint arXiv:1701.08393.
+- Yuguang Liu, Martin D. Levine .[Multi-Path Region-Based Convolutional Neural Network for Accurate  Detection of Unconstrained "Hard Faces"](https://arxiv.org/pdf/1703.09145) .[J] arXiv preprint arXiv:1703.09145.
+- Liying Chi, Hongxin Zhang, Mingxiu Chen .[End-To-End Face Detection and Recognition](https://arxiv.org/pdf/1703.10818) .[J] arXiv preprint arXiv:1703.10818.
+- Upal Mahbub, Sayantan Sarkar, Rama Chellappa .[Partial Face Detection in the Mobile Domain](https://arxiv.org/pdf/1704.02117) .[J] arXiv preprint arXiv:1704.02117.
+- Erwan Le Merrer, Gilles Trédan .[The topological face of recommendation: models and application to bias  detection](https://arxiv.org/pdf/1704.08991) .[J] arXiv preprint arXiv:1704.08991.
+- Zhen-Hua Feng, Josef Kittler, Muhammad Awais, Patrik Huber, Xiao-Jun Wu .[Face Detection, Bounding Box Aggregation and Pose Estimation for Robust  Facial Landmark Localisation in the Wild](https://arxiv.org/pdf/1705.02402) .[J] arXiv preprint arXiv:1705.02402.
+- Shuo Yang, Yuanjun Xiong, Chen Change Loy, Xiaoou Tang .[Face Detection through Scale-Friendly Deep Convolutional Networks](https://arxiv.org/pdf/1706.02863) .[J] arXiv preprint arXiv:1706.02863.
+- Zekun Hao, Yu Liu, Hongwei Qin, Junjie Yan, Xiu Li, Xiaolin Hu .[Scale-Aware Face Detection](https://arxiv.org/pdf/1706.09876) .[J] arXiv preprint arXiv:1706.09876.
+- Changyong Yu, Yunde Jia .[Anisotropic Diffusion-based Kernel Matrix Model for Face Liveness  Detection](https://arxiv.org/pdf/1707.02692) .[J] arXiv preprint arXiv:1707.02692.
+- Yancheng Bai, Bernard Ghanem .[Multi-Branch Fully Convolutional Network for Face Detection](https://arxiv.org/pdf/1707.06330) .[J] arXiv preprint arXiv:1707.06330.
+- Keke He, Yanwei Fu, Xiangyang Xue .[A Jointly Learned Deep Architecture for Facial Attribute Analysis and  Face Detection in the Wild](https://arxiv.org/pdf/1707.08705) .[J] arXiv preprint arXiv:1707.08705.
+- Weilin Cong, Sanyuan Zhao, Hui Tian, Jianbing Shen .[Improved Face Detection and Alignment using Cascade Deep Convolutional  Network](https://arxiv.org/pdf/1707.09364) .[J] arXiv preprint arXiv:1707.09364.
+- Manuel Günther, Peiyun Hu, Christian Herrmann, Chi Ho Chan, Min Jiang, Shufan Yang, Akshay Raj Dhamija, Deva Ramanan, Jürgen Beyerer, Josef Kittler, Mohamad Al Jazaery, Mohammad Iqbal Nouyed, Guodong Guo, Cezary Stankiewicz, Terrance E. Boult .[Unconstrained Face Detection and Open-Set Face Recognition Challenge](https://arxiv.org/pdf/1708.02337) .[J] arXiv preprint arXiv:1708.02337.
+- Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .[SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979) .[J] arXiv preprint arXiv:1708.03979.
+- Nataniel Ruiz, James M. Rehg .[Dockerface: an Easy to Install and Use Faster R-CNN Face Detector in a  Docker Container](https://arxiv.org/pdf/1708.04370) .[J] arXiv preprint arXiv:1708.04370.
+- Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/pdf/1708.05234) .[J] arXiv preprint arXiv:1708.05234.
+- Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[S$^3$FD: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237) .[J] arXiv preprint arXiv:1708.05237.
+- SouYoung Jin, Hang Su, Chris Stauffer, Erik Learned-Miller .[End-to-end Face Detection and Cast Grouping in Movies Using  Erdős-Rényi Clustering](https://arxiv.org/pdf/1709.02458) .[J] arXiv preprint arXiv:1709.02458.
+- Yujia Chen, Lingxiao Song, Ran He .[Masquer Hunter: Adversarial Occlusion-aware Face Detection](https://arxiv.org/pdf/1709.05188) .[J] arXiv preprint arXiv:1709.05188.
+- Yitong Wang, Xing Ji, Zheng Zhou, Hao Wang, Zhifeng Li .[Detecting Faces Using Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1709.05256) .[J] arXiv preprint arXiv:1709.05256.
+- Mahmoud Afifi, Marwa Nasser, Mostafa Korashy, Katherine Rohde, Aly Abdelrahim .[Can We Boost the Power of the Viola-Jones Face Detector Using  Pre-processing? An Empirical Study](https://arxiv.org/pdf/1709.07720) .[J] arXiv preprint arXiv:1709.07720.
+- Luiz Souza, Mauricio Pamplona, Luciano Oliveira, João Papa .[How far did we get in face spoofing detection?](https://arxiv.org/pdf/1710.09868) .[J] arXiv preprint arXiv:1710.09868.
+- Jianfeng Wang, Ye Yuan, Gang Yu .[Face Attention Network: An Effective Face Detector for the Occluded  Faces](https://arxiv.org/pdf/1711.07246) .[J] arXiv preprint arXiv:1711.07246.
+- Jialiang Zhang, Xiongwei Wu, Jianke Zhu, Steven C.H. Hoi .[Feature Agglomeration Networks for Single Stage Face Detection](https://arxiv.org/pdf/1712.00721) .[J] arXiv preprint arXiv:1712.00721.
+- Zexun Zhou, Zhongshi He, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, Jinglong Du, Dingding Chen .[FHEDN: A based on context modeling Feature Hierarchy Encoder-Decoder  Network for face detection](https://arxiv.org/pdf/1712.03687) .[J] arXiv preprint arXiv:1712.03687.
+- Siqi Yang, Arnold Wiliem, Shaokang Chen, Brian C. Lovell .[Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks](https://arxiv.org/pdf/1712.08263) .[J] arXiv preprint arXiv:1712.08263.
+
+### 2018
+- Di Tang, Zhe Zhou, Yinqian Zhang, Kehuan Zhang .[Face Flashing: a Secure Liveness Detection Protocol based on Light  Reflections](https://arxiv.org/pdf/1801.01949) .[J] arXiv preprint arXiv:1801.01949.
+- Upal Mahbub, Sayantan Sarkar, Rama Chellappa .[Segment-based Methods for Facial Attribute Detection from Partial Faces](https://arxiv.org/pdf/1801.03546) .[J] arXiv preprint arXiv:1801.03546.
+- Fei Yang, Qian Zhang, Miaohui Wang, Guoping Qiu .[Quality Classified Image Analysis with Application to Face Detection and  Recognition](https://arxiv.org/pdf/1801.06445) .[J] arXiv preprint arXiv:1801.06445.
+- Alexandre Attia, Sharone Dayan .[Detecting and counting tiny faces](https://arxiv.org/pdf/1801.06504) .[J] arXiv preprint arXiv:1801.06504.
+- Changzheng Zhang, Xiang Xu, Dandan Tu .[Face Detection Using Improved Faster RCNN](https://arxiv.org/pdf/1802.02142) .[J] arXiv preprint arXiv:1802.02142.
+- Anand Bhattad, Jason Rock, David Forsyth .[Detecting Anomalous Faces with 'No Peeking' Autoencoders](https://arxiv.org/pdf/1802.05798) .[J] arXiv preprint arXiv:1802.05798.
+-  .[Beyond Context: Exploring Semantic Similarity for Tiny Face Detection](https://arxiv.org/pdf/1803.01555) .[J] arXiv preprint arXiv:1803.01555.
+-  .[Face Spoofing Detection by Fusing Binocular Depth and Spatial Pyramid  Coding Micro-Texture Features](https://arxiv.org/pdf/1803.04722) .[J] arXiv preprint arXiv:1803.04722.
+-  .[Face-MagNet: Magnifying Feature Maps to Detect Small Faces](https://arxiv.org/pdf/1803.05258) .[J] arXiv preprint arXiv:1803.05258.
+- Zhiwen Shao, Zhilei Liu, Jianfei Cai, Lizhuang Ma .[Deep Adaptive Attention for Joint Facial Action Unit Detection and Face  Alignment](https://arxiv.org/pdf/1803.05588) .[J] arXiv preprint arXiv:1803.05588.
+- Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .[PyramidBox: A Context-assisted Single Shot Face Detector](https://arxiv.org/pdf/1803.07737) .[J] arXiv preprint arXiv:1803.07737.
+- Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics: A Large-scale Video Dataset for Forgery Detection in  Human Faces](https://arxiv.org/pdf/1803.09179) .[J] arXiv preprint arXiv:1803.09179.
+- Guanjun Guo, Hanzi Wang, Yan Yan, Jin Zheng, Bo Li .[A Fast Face Detection Method via Convolutional Neural Network](https://arxiv.org/pdf/1803.10103) .[J] arXiv preprint arXiv:1803.10103.
+- Gregor Lenz, Sio-Hoi Ieng, Ryad Benosman .[Event-based Dynamic Face Detection and Tracking Based on Activity](https://arxiv.org/pdf/1803.10106) .[J] arXiv preprint arXiv:1803.10106.
+- Peng Zhou, Xintong Han, Vlad I. Morariu, Larry S. Davis .[Two-Stream Neural Networks for Tampered Face Detection](https://arxiv.org/pdf/1803.11276) .[J] arXiv preprint arXiv:1803.11276.
+- Zhongzheng Ren, Yong Jae Lee, Michael S. Ryoo .[Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/pdf/1803.11556) .[J] arXiv preprint arXiv:1803.11556.
+- Saurav Jha, Nikhil Agarwal, Suneeta Agarwal .[Towards Improved Cartoon Face Detection and Recognition Systems](https://arxiv.org/pdf/1804.01753) .[J] arXiv preprint arXiv:1804.01753.
+- Guanglu Song, Yu Liu, Ming Jiang, Yujie Wang, Junjie Yan, Biao Leng .[Beyond Trade-off: Accelerate FCN-based Face Detector with Higher  Accuracy](https://arxiv.org/pdf/1804.05197) .[J] arXiv preprint arXiv:1804.05197.
+- Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen .[Real-Time Rotation-Invariant Face Detection with Progressive Calibration  Networks](https://arxiv.org/pdf/1804.06039) .[J] arXiv preprint arXiv:1804.06039.
+- Jianfeng Wang, Ye Yuan, Boxun Li, Gang Yu, Sun Jian .[SFace: An Efficient Network for Face Detection in Large Scale Variations](https://arxiv.org/pdf/1804.06559) .[J] arXiv preprint arXiv:1804.06559.
+- Yuqian Zhou, Ding Liu, Thomas Huang .[Survey of Face Detection on Low-quality Images](https://arxiv.org/pdf/1804.07362) .[J] arXiv preprint arXiv:1804.07362.
+- Hajime Nada, Vishwanath A. Sindagi, He Zhang, Vishal M. Patel .[Pushing the Limits of Unconstrained Face Detection: a Challenge Dataset  and Baseline Results](https://arxiv.org/pdf/1804.10275) .[J] arXiv preprint arXiv:1804.10275.
+- Ce Qi, Xiaoping Chen, Pingyu Wang, Fei Su .[Precise Box Score: Extract More Information from Datasets to Improve the  Performance of Face Detection](https://arxiv.org/pdf/1804.10743) .[J] arXiv preprint arXiv:1804.10743.
+- Baosheng Yu, Dacheng Tao .[Anchor Cascade for Efficient Face Detection](https://arxiv.org/pdf/1805.03363) .[J] arXiv preprint arXiv:1805.03363.
+- Mehmet Kerim Yucel, Yunus Can Bilge, Oguzhan Oguz, Nazli Ikizler-Cinbis, Pinar Duygulu, Ramazan Gokberk Cinbis .[Wildest Faces: Face Detection and Recognition in Violent Settings](https://arxiv.org/pdf/1805.07566) .[J] arXiv preprint arXiv:1805.07566.
+- Avishek Joey Bose, Parham Aarabi .[Adversarial Attacks on Face Detectors using Neural Net based Constrained  Optimization](https://arxiv.org/pdf/1805.12302) .[J] arXiv preprint arXiv:1805.12302.
+- Yuezun Li, Ming-Ching Chang, Siwei Lyu .[In Ictu Oculi: Exposing AI Generated Fake Face Videos by Detecting Eye  Blinking](https://arxiv.org/pdf/1806.02877) .[J] arXiv preprint arXiv:1806.02877.
+- Gustavo Botelho de Souza, João Paulo Papa, Aparecido Nilceu Marana .[On the Learning of Deep Local Features for Robust Face Spoofing  Detection](https://arxiv.org/pdf/1806.07492) .[J] arXiv preprint arXiv:1806.07492.
+- Shervin Rahimzadeh Arashloo, Josef Kittler .[Client-Specific Anomaly Detection for Face Presentation Attack Detection](https://arxiv.org/pdf/1807.00848) .[J] arXiv preprint arXiv:1807.00848.
+- Moritz Lode, Michael Örtl, Christian Koch, Amr Rizk, Ralf Steinmetz .[Detection and Analysis of Content Creator Collaborations in YouTube  Videos using Face- and Speaker-Recognition](https://arxiv.org/pdf/1807.02020) .[J] arXiv preprint arXiv:1807.02020.
+- Clemens Seibold, Anna Hilsmann, Peter Eisert .[Reflection Analysis for Face Morphing Attack Detection](https://arxiv.org/pdf/1807.02030) .[J] arXiv preprint arXiv:1807.02030.
+- Xiao Song, Xu Zhao, Liangji Fang, Tianwei Lin .[Discriminative Representation Combinations for Accurate Face Spoofing  Detection](https://arxiv.org/pdf/1808.08802) .[J] arXiv preprint arXiv:1808.08802.
+- Cheng Chi, Shifeng Zhang, Junliang Xing, Zhen Lei, Stan Z. Li, Xudong Zou .[Selective Refinement Network for High Performance Face Detection](https://arxiv.org/pdf/1809.02693) .[J] arXiv preprint arXiv:1809.02693.
+- Le Thanh Nguyen-Meidine, Eric Granger, Madhu Kiran, Louis-Antoine Blais-Morin .[A Comparison of CNN-based Face and Head Detectors for Real-Time Video  Surveillance Applications](https://arxiv.org/pdf/1809.03336) .[J] arXiv preprint arXiv:1809.03336.
+- Bruna Vieira Frade, Erickson R. Nascimento .[A Two-Step Learning Method For Detecting Landmarks on Faces From  Different Domains](https://arxiv.org/pdf/1809.04621) .[J] arXiv preprint arXiv:1809.04621.
+- Rajeev Ranjan, Ankan Bansal, Jingxiao Zheng, Hongyu Xu, Joshua Gleason, Boyu Lu, Anirudh Nanduri, Jun-Cheng Chen, Carlos D. Castillo, Rama Chellappa .[A Fast and Accurate System for Face Detection, Identification, and  Verification](https://arxiv.org/pdf/1809.07586) .[J] arXiv preprint arXiv:1809.07586.
+- Chih-Chung Hsu, Chia-Yen Lee, Yi-Xiu Zhuang .[Learning to Detect Fake Face Images in the Wild](https://arxiv.org/pdf/1809.08754) .[J] arXiv preprint arXiv:1809.08754.
+- Meng Shen, Zelin Liao, Liehuang Zhu, Rashid Mijumbi, Xiaojiang Du, Jiankun Hu .[IriTrack: Liveness Detection Using Irises Tracking for Preventing Face Spoofing Attacks](https://arxiv.org/pdf/1810.03323) .[J] arXiv preprint arXiv:1810.03323.
+- Jian Li, Yabiao Wang, Changan Wang, Ying Tai, Jianjun Qian, Jian Yang, Chengjie Wang, Jilin Li, Feiyue Huang .[DSFD: Dual Shot Face Detector](https://arxiv.org/pdf/1810.10220) .[J] arXiv preprint arXiv:1810.10220.
+
 ---
 ## Face Alignment
 ### 2012
