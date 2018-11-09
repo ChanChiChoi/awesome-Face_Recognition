@@ -1,8 +1,8 @@
 # awesome-Face_Recognition   
 this collecting papers (main from arxiv.org) about the following themes:  
 > * **Face Detection**;   
-**Face Alignment**;   
-**Face Recognition**;  
+> * **Face Alignment**;   
+> * **Face Recognition**;  
 Face Reconstruction;   
 Face Tracking;   
 Face Super-Resolution && Face Deblurring;   
