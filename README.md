@@ -609,7 +609,7 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 ## Face Super-Resolution
 
 ---
-## Face Generation
+## Face Generation && Face Synthesis
 
 ---
 ## Face Transfer
