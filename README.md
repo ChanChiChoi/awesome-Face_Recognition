@@ -245,12 +245,10 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 - S. Sakthivel, R. Lakshmipathi .[Weighted Attribute Fusion Model for Face Recognition](https://arxiv.org/pdf/1009.00623) .[J] arXiv preprint arXiv:1009.00623.
 
 ### 2011
-- E.R. Gast, Michael S. Lew .[A Framework for Real-Time Face and Facial Feature Tracking using Optical  Flow Pre-estimation and Template Tracking](https://arxiv.org/pdf/1101.00237) .[J] arXiv preprint arXiv:1101.00237.
 - Yixiong Liang, Lei Wang, Shenghui Liao, Beiji Zou .[Feature selection via simultaneous sparse approximation for person  specific face verification](https://arxiv.org/pdf/1102.02743) .[J] arXiv preprint arXiv:1102.02743.
 - Yixiong Liang, Lei Wang, Yao Xiang, Beiji Zou .[Feature Selection via Sparse Approximation for Face Recognition](https://arxiv.org/pdf/1102.02748) .[J] arXiv preprint arXiv:1102.02748.
 - Soumen Bag, Soumen Barik, Prithwiraj Sen, Gautam Sanyal .[A Statistical Nonparametric Approach of Face Recognition: Combination of  Eigenface & Modified k-Means Clustering](https://arxiv.org/pdf/1104.01237) .[J] arXiv preprint arXiv:1104.01237.
 - Afzal Godil, Sandy Ressler, Patrick Grother .[Face Recognition using 3D Facial Shape and Color Map Information:  Comparison and Combination](https://arxiv.org/pdf/1105.02797) .[J] arXiv preprint arXiv:1105.02797.
-- Mrinal Kanti Bhowmik, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri .[Polar Fusion Technique Analysis for Evaluating the Performances of Image  Fusion of Thermal and Visual Images for Human Face Recognition](https://arxiv.org/pdf/1106.03464) .[J] arXiv preprint arXiv:1106.03464.
 - Mrinal Kanti Bhowmik, Gautam Majumdar, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri .[Next Level of Data Fusion for Human Face Recognition](https://arxiv.org/pdf/1106.03466) .[J] arXiv preprint arXiv:1106.03466.
 - Arindam Kar, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri, Mahantapas Kundu .[High Performance Human Face Recognition using Independent High Intensity  Gabor Wavelet Responses: A Statistical Approach](https://arxiv.org/pdf/1106.03467) .[J] arXiv preprint arXiv:1106.03467.
 - H. R. Chennamma, Lalitha Rangarajan, Veerabhadrappa .[Face Identification from Manipulated Facial Images using SIFT](https://arxiv.org/pdf/1106.04907) .[J] arXiv preprint arXiv:1106.04907.
@@ -270,7 +268,6 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 - Augusto Salazar, Stefanie Wuhrer, Chang Shu, Flavio Prieto .[Fully Automatic Expression-Invariant Face Correspondence](https://arxiv.org/pdf/1202.01444) .[J] arXiv preprint arXiv:1202.01444.
 - Meng Yang, Lei Zhang, Jian Yang, David Zhang .[Regularized Robust Coding for Face Recognition](https://arxiv.org/pdf/1202.04207) .[J] arXiv preprint arXiv:1202.04207.
 - Vinay Bettadapura .[Face Expression Recognition and Analysis: The State of the Art](https://arxiv.org/pdf/1203.06722) .[J] arXiv preprint arXiv:1203.06722.
-- Khlifia Jayech, Mohamed Ali Mahjoub .[Clustering and Bayesian network for image of faces classification](https://arxiv.org/pdf/1204.01679) .[J] arXiv preprint arXiv:1204.01679.
 - Lei Zhang, Meng Yang, Xiangchu Feng, Yi Ma, David Zhang .[Collaborative Representation based Classification for Face Recognition](https://arxiv.org/pdf/1204.02358) .[J] arXiv preprint arXiv:1204.02358.
 - H S Jagadeesh, K Suresh Babu, K B Raja .[DBC based Face Recognition using DWT](https://arxiv.org/pdf/1205.01644) .[J] arXiv preprint arXiv:1205.01644.
 - Salah A. Aly .[Pilgrims Face Recognition Dataset -- HUFRD](https://arxiv.org/pdf/1205.04463) .[J] arXiv preprint arXiv:1205.04463.
@@ -286,7 +283,6 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 
 ### 2013
 - Taiyong Li, Zhilin Zhang .[Robust Face Recognition via Block Sparse Bayesian Learning](https://arxiv.org/pdf/1301.06847) .[J] arXiv preprint arXiv:1301.06847.
-- Faizan Ahmad, Aaima Najam, Zeeshan Ahmed .[Image-based Face Detection and Recognition: "State of the Art"](https://arxiv.org/pdf/1302.06379) .[J] arXiv preprint arXiv:1302.06379.
 - Dong Yi, Zhen Lei, Yang Hu, Stan Z. Li .[Fast Matching by 2 Lines of Code for Large Scale Face Recognition  Systems](https://arxiv.org/pdf/1302.07180) .[J] arXiv preprint arXiv:1302.07180.
 - Yongkang Wong, Mehrtash T. Harandi, Conrad Sanderson .[On Robust Face Recognition via Sparse Encoding: the Good, the Bad, and  the Ugly](https://arxiv.org/pdf/1303.01624) .[J] arXiv preprint arXiv:1303.01624.
 - Conrad Sanderson, Mehrtash T. Harandi, Yongkang Wong, Brian C. Lovell .[Combined Learning of Salient Local Descriptors and Distance Metrics for  Image Set Face Verification](https://arxiv.org/pdf/1303.02783) .[J] arXiv preprint arXiv:1303.02783.
