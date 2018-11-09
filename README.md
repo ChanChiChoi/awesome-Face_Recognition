@@ -213,3 +213,13 @@ this collecting the papers about face detection, face aignment, face recognition
 
 ---
 ## Face recognition
+
+### 2008
+- R. Sala Llonch, E. Kokiopoulou, I. Tosic, P. Frossard .[3D Face Recognition with Sparse Spherical Representations](https://arxiv.org/pdf/0810.05325) .[J] arXiv preprint arXiv:0810.05325.
+- Seyyed Majid Valiollahzadeh, Abolghasem Sayadiyan, Mohammad Nazari .[Feature Selection By KDDA For SVM-Based MultiView Face Recognition](https://arxiv.org/pdf/0812.02574) .[J] arXiv preprint arXiv:0812.02574.
+- Seyyed Majid Valiollahzadeh, Abolghasem Sayadiyan, Mohammad Nazari .[Face Detection Using Adaboosted SVM-Based Component Classifier](https://arxiv.org/pdf/0812.02575) .[J] arXiv preprint arXiv:0812.02575.
+
+### 2009
+- Ulas Bagci, Li Bai .[Parallel AdaBoost Algorithm for Gabor Wavelet Selection in Face  Recognition](https://arxiv.org/pdf/0907.03218) .[J] arXiv preprint arXiv:0907.03218.
+- Yousra Ben Jemaa, Sana Khanfir .[Automatic local Gabor Features extraction for face recognition](https://arxiv.org/pdf/0907.04984) .[J] arXiv preprint arXiv:0907.04984.
+
