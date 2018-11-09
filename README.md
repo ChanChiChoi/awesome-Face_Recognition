@@ -228,6 +228,7 @@ also, some papers and links collected from:
 ## Face recognition
 
 ### 2008
+- 【Dataset】【LFW】Huang G B, Mattar M, Berg T, et al. [Labeled faces in the wild: A database forstudying face recognition in unconstrained environments](http://vis-www.cs.umass.edu/lfw/lfw.pdf)[C]//Workshop on faces in'Real-Life'Images: detection, alignment, and recognition. 2008.
 - R. Sala Llonch, E. Kokiopoulou, I. Tosic, P. Frossard .[3D Face Recognition with Sparse Spherical Representations](https://arxiv.org/pdf/0810.05325) .[J] arXiv preprint arXiv:0810.05325.
 - Seyyed Majid Valiollahzadeh, Abolghasem Sayadiyan, Mohammad Nazari .[Feature Selection By KDDA For SVM-Based MultiView Face Recognition](https://arxiv.org/pdf/0812.02574) .[J] arXiv preprint arXiv:0812.02574.
 - Seyyed Majid Valiollahzadeh, Abolghasem Sayadiyan, Mohammad Nazari .[Face Detection Using Adaboosted SVM-Based Component Classifier](https://arxiv.org/pdf/0812.02575) .[J] arXiv preprint arXiv:0812.02575.
@@ -277,6 +278,7 @@ also, some papers and links collected from:
 - Yi Chen, Umamahesh Srinivas, Thong T. Do, Vishal Monga, Trac D. Tran .[Discriminative Local Sparse Representations for Robust Face Recognition](https://arxiv.org/pdf/1111.01947) .[J] arXiv preprint arXiv:1111.01947.
 
 ### 2012
+- 【Joint Bayesian】Chen D, Cao X, Wang L, et al. [Bayesian face revisited: A joint formulation](http://www.jiansun.org/papers/ECCV12_BayesianFace.pdf)[C]//European Conference on Computer Vision. Springer, Berlin, Heidelberg, 2012: 566-579.
 - Alex Pappachen James, Sima Dimitrijev .[Examplers based image fusion features for face recognition](https://arxiv.org/pdf/1201.05947) .[J] arXiv preprint arXiv:1201.05947.
 - Augusto Salazar, Stefanie Wuhrer, Chang Shu, Flavio Prieto .[Fully Automatic Expression-Invariant Face Correspondence](https://arxiv.org/pdf/1202.01444) .[J] arXiv preprint arXiv:1202.01444.
 - Meng Yang, Lei Zhang, Jian Yang, David Zhang .[Regularized Robust Coding for Face Recognition](https://arxiv.org/pdf/1202.04207) .[J] arXiv preprint arXiv:1202.04207.
@@ -295,6 +297,7 @@ also, some papers and links collected from:
 - Chang Huang, Shenghuo Zhu, Kai Yu .[Large Scale Strongly Supervised Ensemble Metric Learning, with  Applications to Face Verification and Retrieval](https://arxiv.org/pdf/1212.06094) .[J] arXiv preprint arXiv:1212.06094.
 
 ### 2013
+- 【Joint Bayesian】Cao X, Wipf D, Wen F, et al. [A practical transfer learning algorithm for face verification](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Cao_A_Practical_Transfer_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 3208-3215.
 - Taiyong Li, Zhilin Zhang .[Robust Face Recognition via Block Sparse Bayesian Learning](https://arxiv.org/pdf/1301.06847) .[J] arXiv preprint arXiv:1301.06847.
 - Dong Yi, Zhen Lei, Yang Hu, Stan Z. Li .[Fast Matching by 2 Lines of Code for Large Scale Face Recognition  Systems](https://arxiv.org/pdf/1302.07180) .[J] arXiv preprint arXiv:1302.07180.
 - Yongkang Wong, Mehrtash T. Harandi, Conrad Sanderson .[On Robust Face Recognition via Sparse Encoding: the Good, the Bad, and  the Ugly](https://arxiv.org/pdf/1303.01624) .[J] arXiv preprint arXiv:1303.01624.
@@ -323,6 +326,8 @@ also, some papers and links collected from:
 - Sheng Huang, Dan Yang, Dong Yang, Ahmed Elgammal .[Collaborative Discriminant Locality Preserving Projections With its  Application to Face Recognition](https://arxiv.org/pdf/1312.07469) .[J] arXiv preprint arXiv:1312.07469.
 
 ### 2014
+- 【DeepFace】【verification】Taigman Y, Yang M, Ranzato M A, et al. [Deepface: Closing the gap to human-level performance in face verification](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 1701-1708.
+- 【DeepID】Sun Y, Wang X, Tang X. [Deep learning face representation from predicting 10,000 classes](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sun_Deep_Learning_Face_2014_CVPR_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 1891-1898.
 - Trupti M. Kodinariya .[Hybrid Approach to Face Recognition System using Principle component and  Independent component with score based fusion process](https://arxiv.org/pdf/1401.00395) .[J] arXiv preprint arXiv:1401.00395.
 - Changxing Ding, Jonghyun Choi, Dacheng Tao, Larry S. Davis .[Multi-Directional Multi-Level Dual-Cross Patterns for Robust Face  Recognition](https://arxiv.org/pdf/1401.05311) .[J] arXiv preprint arXiv:1401.05311.
 - V. Karthikeyan, Manjupriya, C.K. Chithra, M. Divya .[Face Verification Using Kernel Principle Component Analysis](https://arxiv.org/pdf/1401.06108) .[J] arXiv preprint arXiv:1401.06108.
@@ -343,8 +348,8 @@ also, some papers and links collected from:
 - Jyothi K, Prabhakar C.J .[Multi Modal Face Recognition Using Block Based Curvelet Features](https://arxiv.org/pdf/1405.02641) .[J] arXiv preprint arXiv:1405.02641.
 - Spits Warnars .[Human Face as human single identity](https://arxiv.org/pdf/1405.06168) .[J] arXiv preprint arXiv:1405.06168.
 - Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Shared Representation Learning for Heterogeneous Face Recognition](https://arxiv.org/pdf/1406.01247) .[J] arXiv preprint arXiv:1406.01247.
-- Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Representation by Joint Identification-Verification](https://arxiv.org/pdf/1406.04773) .[J] arXiv preprint arXiv:1406.04773.
-- Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf .[Web-Scale Training for Face Identification](https://arxiv.org/pdf/1406.05266) .[J] arXiv preprint arXiv:1406.05266.
+- 【DeepID】Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Representation by Joint Identification-Verification](https://arxiv.org/pdf/1406.04773) .[J] arXiv preprint arXiv:1406.04773.
+- 【DeepFace】【Identification】Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf .[Web-Scale Training for Face Identification](https://arxiv.org/pdf/1406.05266) .[J] arXiv preprint arXiv:1406.05266.
 - Fumin Shen, Chunhua Shen, Heng Tao Shen .[Face Image Classification by Pooling Raw Features](https://arxiv.org/pdf/1406.06811) .[J] arXiv preprint arXiv:1406.06811.
 - Fumin Shen, Chunhua Shen, Heng Tao Shen .[Face Identification with Second-Order Pooling](https://arxiv.org/pdf/1406.06818) .[J] arXiv preprint arXiv:1406.06818.
 - Zhenyao Zhu, Ping Luo, Xiaogang Wang, Xiaoou Tang .[Deep Learning Multi-View Representation for Face Recognition](https://arxiv.org/pdf/1406.06947) .[J] arXiv preprint arXiv:1406.06947.
@@ -361,19 +366,20 @@ also, some papers and links collected from:
 - Syed Zulqarnain Gilani, Faisal Shafait, Ajmal Mian .[Dense 3D Face Correspondence](https://arxiv.org/pdf/1410.05058) .[J] arXiv preprint arXiv:1410.05058.
 - Abdullah Gubbi, Mohammad Fazle Azeem, M Sharmila Kumari .[Non Binary Local Gradient Contours for Face Recognition](https://arxiv.org/pdf/1411.00442) .[J] arXiv preprint arXiv:1411.00442.
 - Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Attributes in the Wild](https://arxiv.org/pdf/1411.07766) .[J] arXiv preprint arXiv:1411.07766.
-- Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Learning Face Representation from Scratch](https://arxiv.org/pdf/1411.07923) .[J] arXiv preprint arXiv:1411.07923.
+- 【WebFace】Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Learning Face Representation from Scratch](https://arxiv.org/pdf/1411.07923) .[J] arXiv preprint arXiv:1411.07923.
 - Tal Hassner, Shai Harel, Eran Paz, Roee Enbar .[Effective Face Frontalization in Unconstrained Images](https://arxiv.org/pdf/1411.07964) .[J] arXiv preprint arXiv:1411.07964.
-- Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deeply learned face representations are sparse, selective, and robust](https://arxiv.org/pdf/1412.01265) .[J] arXiv preprint arXiv:1412.01265.
-- 【DeepFace】【verification】Taigman Y, Yang M, Ranzato M A, et al. [Deepface: Closing the gap to human-level performance in face verification](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 1701-1708.
+- 【DeepID】Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deeply learned face representations are sparse, selective, and robust](https://arxiv.org/pdf/1412.01265) .[J] arXiv preprint arXiv:1412.01265.
 
 ### 2015
+- 【WebFace】Wu X, He R, Sun Z. [A lightened cnn for deep face representation](https://pdfs.semanticscholar.org/d4e6/69d5d35fa0ca9f8d9a193c82d4153f5ffc4e.pdf)[C]//2015 IEEE Conference on IEEE Computer Vision and Pattern Recognition (CVPR). 2015, 4: 5.
+- 【VGGFace】Parkhi O M, Vedaldi A, Zisserman A. [Deep face recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)[C]//BMVC. 2015, 1(3): 6.
 - Gholamreza Anbarjafari .[Face recognition using color local binary pattern from mutually  independent color channels](https://arxiv.org/pdf/1501.00105) .[J] arXiv preprint arXiv:1501.00105.
-- Erjin Zhou, Zhimin Cao, Qi Yin .[Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?](https://arxiv.org/pdf/1501.04690) .[J] arXiv preprint arXiv:1501.04690.
+- 【Face++】Erjin Zhou, Zhimin Cao, Qi Yin .[Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?](https://arxiv.org/pdf/1501.04690) .[J] arXiv preprint arXiv:1501.04690.
 - Ning Zhang, Manohar Paluri, Yaniv Taigman, Rob Fergus, Lubomir Bourdev .[Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues](https://arxiv.org/pdf/1501.05703) .[J] arXiv preprint arXiv:1501.05703.
 - Miriam Redi, Nikhil Rasiwasia, Gaurav Aggarwal, Alejandro Jaimes .[The Beauty of Capturing Faces: Rating the Quality of Digital Portraits](https://arxiv.org/pdf/1501.07304) .[J] arXiv preprint arXiv:1501.07304.
 - Yandong Wen, Weiyang Liu, Meng Yang, Yuli Fu, Youjun Xiang, Rui Hu .[Structured Occlusion Coding for Robust Face Recognition](https://arxiv.org/pdf/1502.00478) .[J] arXiv preprint arXiv:1502.00478.
 - Shonal Chaudhry, Rohitash Chandra .[Design of a Mobile Face Recognition System for Visually Impaired Persons](https://arxiv.org/pdf/1502.00756) .[J] arXiv preprint arXiv:1502.00756.
-- Yi Sun, Ding Liang, Xiaogang Wang, Xiaoou Tang .[DeepID3: Face Recognition with Very Deep Neural Networks](https://arxiv.org/pdf/1502.00873) .[J] arXiv preprint arXiv:1502.00873.
+- 【DeepID】Yi Sun, Ding Liang, Xiaogang Wang, Xiaoou Tang .[DeepID3: Face Recognition with Very Deep Neural Networks](https://arxiv.org/pdf/1502.00873) .[J] arXiv preprint arXiv:1502.00873.
 - Changxing Ding, Dacheng Tao .[A Comprehensive Survey on Pose-Invariant Face Recognition](https://arxiv.org/pdf/1502.04383) .[J] arXiv preprint arXiv:1502.04383.
 - Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li .[Graphical Representation for Heterogeneous Face Recognition](https://arxiv.org/pdf/1503.00488) .[J] arXiv preprint arXiv:1503.00488.
 - Samir F. Hafez, Mazen M. Selim, Hala H. Zayed .[2D Face Recognition System Based on Selected Gabor Filters and Linear  Discriminant Analysis LDA](https://arxiv.org/pdf/1503.03741) .[J] arXiv preprint arXiv:1503.03741.
@@ -388,7 +394,8 @@ also, some papers and links collected from:
 - Rohit Pandey, Yingbo Zhou, Venu Govindaraju .[Deep Secure Encoding: An Application to Face Recognition](https://arxiv.org/pdf/1506.04340) .[J] arXiv preprint arXiv:1506.04340.
 - Yang Zhong, Haibo Li .[Leveraging the Power of Gabor Phase for Face Identification: A Block  Matching Approach](https://arxiv.org/pdf/1506.04655) .[J] arXiv preprint arXiv:1506.04655.
 - Poonam Yadav .[Face Prediction Model for an Automatic Age-invariant Face Recognition  System](https://arxiv.org/pdf/1506.06046) .[J] arXiv preprint arXiv:1506.06046.
-- Jingtuo Liu, Yafeng Deng, Tao Bai, Zhengping Wei, Chang Huang .[Targeting Ultimate Accuracy: Face Recognition via Deep Embedding](https://arxiv.org/pdf/1506.07310) .[J] arXiv preprint arXiv:1506.07310.
+- 【Pruning Network】Han S, Pool J, Tran J, et al. [Learning both weights and connections for efficient neural network](https://arxiv.org/abs/1506.02626)[C]//Advances in neural information processing systems. 2015: 1135-1143.
+- 【Baidu Research】Jingtuo Liu, Yafeng Deng, Tao Bai, Zhengping Wei, Chang Huang .[Targeting Ultimate Accuracy: Face Recognition via Deep Embedding](https://arxiv.org/pdf/1506.07310) .[J] arXiv preprint arXiv:1506.07310.
 - Cong Jie Ng, Andrew Beng Jin Teoh .[DCTNet : A Simple Learning-free Approach for Face Recognition](https://arxiv.org/pdf/1507.02049) .[J] arXiv preprint arXiv:1507.02049.
 - Ran He, Tieniu Tan, Larry Davis, Zhenan Sun .[Learning Structured Ordinal Measures for Video based Face Recognition](https://arxiv.org/pdf/1507.02380) .[J] arXiv preprint arXiv:1507.02380.
 - Hai X. Pham, Chongyu Chen, Luc N. Dao, Vladimir Pavlovic, Jianfei Cai, Tat-jen Cham .[Robust Performance-driven 3D Face Tracking in Long Range Depth Scenes](https://arxiv.org/pdf/1507.02779) .[J] arXiv preprint arXiv:1507.02779.
@@ -408,12 +415,15 @@ also, some papers and links collected from:
 - Abhishek Dutta .[Predicting Performance of a Face Recognition System Based on Image  Quality](https://arxiv.org/pdf/1510.07112) .[J] arXiv preprint arXiv:1510.07112.
 - Abhishek Dutta, Raymond Veldhuis, Luuk Spreeuwers .[Predicting Face Recognition Performance Using Image Quality](https://arxiv.org/pdf/1510.07119) .[J] arXiv preprint arXiv:1510.07119.
 - Hongyu Yang, Di Huang, Yunhong Wang, Heng Wang, Yuanyan Tang .[Face Aging Effect Simulation using Hidden Factor Analysis Joint Sparse  Representation](https://arxiv.org/pdf/1511.01186) .[J] arXiv preprint arXiv:1511.01186.
-- Xiang Wu, Ran He, Zhenan Sun, Tieniu Tan .[A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/pdf/1511.02683) .[J] arXiv preprint arXiv:1511.02683.
+- 【WebFace】Xiang Wu, Ran He, Zhenan Sun, Tieniu Tan .[A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/pdf/1511.02683) .[J] arXiv preprint arXiv:1511.02683.
 - Zinelabidine Boulkenafet, Jukka Komulainen, Abdenour Hadid .[face anti-spoofing based on color texture analysis](https://arxiv.org/pdf/1511.06316) .[J] arXiv preprint arXiv:1511.06316.
 - Ira Kemelmacher-Shlizerman, Steve Seitz, Daniel Miller, Evan Brossard .[The MegaFace Benchmark: 1 Million Faces for Recognition at Scale](https://arxiv.org/pdf/1512.00596) .[J] arXiv preprint arXiv:1512.00596.
 - Yi Sun, Xiaogang Wang, Xiaoou Tang .[Sparsifying Neural Network Connections for Face Recognition](https://arxiv.org/pdf/1512.01891) .[J] arXiv preprint arXiv:1512.01891.
 
 ### 2016
+- 【OpenFace】Amos B, Ludwiczuk B, Satyanarayanan M. [Openface: A general-purpose face recognition library with mobile applications](https://cmusatyalab.github.io/openface/)[J]. CMU School of Computer Science, 2016.
+- 【Center Face】【Center loss】Wen Y, Zhang K, Li Z, et al. [A discriminative feature learning approach for deep face recognition](http://ydwen.github.io/papers/WenECCV16.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2016: 499-515.
+- 【MegaFace】Kemelmacher-Shlizerman I, Seitz S M, Miller D, et al. [The megaface benchmark: 1 million faces for recognition at scale](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4873-4882.
 - Amir Rosenfeld, Shimon Ullman .[Face-space Action Recognition by Face-Object Interactions](https://arxiv.org/pdf/1601.04293) .[J] arXiv preprint arXiv:1601.04293.
 - M. Saquib Sarfraz, Rainer Stiefelhagen .[Deep Perceptual Mapping for Cross-Modal Face Recognition](https://arxiv.org/pdf/1601.05347) .[J] arXiv preprint arXiv:1601.05347.
 - Yang Zhong, Josephine Sullivan, Haibo Li .[Leveraging Mid-Level Deep Representations For Predicting Face Attributes  in the Wild](https://arxiv.org/pdf/1602.01827) .[J] arXiv preprint arXiv:1602.01827.
@@ -453,6 +463,7 @@ also, some papers and links collected from:
 - Andrey Zhmoginov, Mark Sandler .[Inverting face embeddings with convolutional neural networks](https://arxiv.org/pdf/1606.04189) .[J] arXiv preprint arXiv:1606.04189.
 - Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li .[Sparse Graphical Representation based Discriminant Analysis for  Heterogeneous Face Recognition](https://arxiv.org/pdf/1607.00137) .[J] arXiv preprint arXiv:1607.00137.
 - Xiaoyue Jiang, Dong Zhang, Xiaoyi Feng .[Local feature hierarchy for face recognition across pose and  illumination](https://arxiv.org/pdf/1607.03226) .[J] arXiv preprint arXiv:1607.03226.
+- 【Pruning Network】Han S, Pool J, Narang S, et al. [Dsd: Dense-sparse-dense training for deep neural networks](https://arxiv.org/abs/1607.04381)[J]. arXiv preprint arXiv:1607.04381, 2016.
 - Shizhan Zhu, Sifei Liu, Chen Change Loy, Xiaoou Tang .[Deep Cascaded Bi-Network for Face Hallucination](https://arxiv.org/pdf/1607.05046) .[J] arXiv preprint arXiv:1607.05046.
 - Changxing Ding, Dacheng Tao .[Trunk-Branch Ensemble Convolutional Neural Networks for Video-based Face  Recognition](https://arxiv.org/pdf/1607.05427) .[J] arXiv preprint arXiv:1607.05427.
 - Ahmad H. A. Eid .[Combined Classifiers for Invariant Face Recognition](https://arxiv.org/pdf/1607.06973) .[J] arXiv preprint arXiv:1607.06973.
@@ -474,10 +485,11 @@ also, some papers and links collected from:
 - Brandon M. Smith, Charles R. Dyer .[Efficient Branching Cascaded Regression for Face Alignment under  Significant Head Rotation](https://arxiv.org/pdf/1611.01584) .[J] arXiv preprint arXiv:1611.01584.
 - Shu Zhang, Ran He, Tieniu Tan .[DeMeshNet: Blind Face Inpainting for Deep MeshFace Verification](https://arxiv.org/pdf/1611.05271) .[J] arXiv preprint arXiv:1611.05271.
 - Guilherme Folego, Marcus A. Angeloni, José Augusto Stuchi, Alan Godoy, Anderson Rocha .[Cross-Domain Face Verification: Matching ID Document and Self-Portrait  Photographs](https://arxiv.org/pdf/1611.05755) .[J] arXiv preprint arXiv:1611.05755.
+- 【Pruning Network】Molchanov P, Tyree S, Karras T, et al. [Pruning convolutional neural networks for resource efficient inference](https://arxiv.org/abs/1611.06440)[J]. arXiv preprint arXiv:1611.06440, 2016.
 - Jose Lezama, Qiang Qiu, Guillermo Sapiro .[Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-spectral  Hallucination and Low-rank Embedding](https://arxiv.org/pdf/1611.06638) .[J] arXiv preprint arXiv:1611.06638.
 - Junyu Wu, Shengyong Ding, Wei Xu, Hongyang Chao .[Deep Joint Face Hallucination and Recognition](https://arxiv.org/pdf/1611.08091) .[J] arXiv preprint arXiv:1611.08091.
 - Shengyong Ding, Junyu Wu, Wei Xu, Hongyang Chao .[Automatically Building Face Datasets of New Domains from Weakly Labeled  Data with Pretrained Models](https://arxiv.org/pdf/1611.08107) .[J] arXiv preprint arXiv:1611.08107.
-- Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao .[Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/pdf/1611.08976) .[J] arXiv preprint arXiv:1611.08976.
+- 【Range loss】Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao .[Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/pdf/1611.08976) .[J] arXiv preprint arXiv:1611.08976.
 - Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis .[Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/pdf/1611.09577) .[J] arXiv preprint arXiv:1611.09577.
 - Guido Borghi, Marco Venturelli, Roberto Vezzani, Rita Cucchiara .[POSEidon: Face-from-Depth for Driver Pose Estimation](https://arxiv.org/pdf/1611.10195) .[J] arXiv preprint arXiv:1611.10195.
 - Viet-Hang Duong, Yuan-Shan Lee, Bach-Tung Pham, Seksan Mathulaprangsan, Pham The Bao, Jia-Ching Wang .[Complex Matrix Factorization for Face Recognition](https://arxiv.org/pdf/1612.02513) .[J] arXiv preprint arXiv:1612.02513.
@@ -502,6 +514,7 @@ also, some papers and links collected from:
 - Chi Nhan Duong, Kha Gia Quach, Khoa Luu, T. Hoang Ngan le, Marios Savvides .[Temporal Non-Volume Preserving Approach to Facial Age-Progression and  Age-Invariant Face Recognition](https://arxiv.org/pdf/1703.08617) .[J] arXiv preprint arXiv:1703.08617.
 - Lin Xiong, Jayashree Karlekar, Jian Zhao, Yi Cheng, Yan Xu, Jiashi Feng, Sugiri Pranata, Shengmei Shen .[A Good Practice Towards Top Performance of Face Recognition: Transferred  Deep Feature Fusion](https://arxiv.org/pdf/1704.00438) .[J] arXiv preprint arXiv:1704.00438.
 - Ahmed ElSayed, Ausif Mahmood, Tarek Sobh .[Effect of Super Resolution on High Dimensional Features for Unsupervised  Face Recognition in the Wild](https://arxiv.org/pdf/1704.01464) .[J] arXiv preprint arXiv:1704.01464.
+- 【Loss fuction】Chen W, Chen X, Zhang J, et al. [Beyond triplet loss: a deep quadruplet network for person re-identification](https://arxiv.org/pdf/1704.01719.pdf)[C]//The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017, 2(8).
 - Xiang Wu, Lingxiao Song, Ran He, Tieniu Tan .[Coupled Deep Learning for Heterogeneous Face Recognition](https://arxiv.org/pdf/1704.02450) .[J] arXiv preprint arXiv:1704.02450.
 - Yibo Hu, Xiang Wu, Ran He .[Attention-Set based Metric Learning for Video Face Recognition](https://arxiv.org/pdf/1704.03805) .[J] arXiv preprint arXiv:1704.03805.
 - Daniel Crispell, Octavian Biris, Nate Crosswhite, Jeffrey Byrne, Joseph L. Mundy .[Dataset Augmentation for Pose and Lighting Invariant Face Recognition](https://arxiv.org/pdf/1704.04326) .[J] arXiv preprint arXiv:1704.04326.
