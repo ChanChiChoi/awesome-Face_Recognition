@@ -598,3 +598,21 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 - Yang Tan, Hongxin Lin, Zelin Xiao, Shengyong Ding, Hongyang Chao .[Face Recognition from Sequential Sparse 3D data via Deep Registration](https://arxiv.org/pdf/1810.09658) .[J] arXiv preprint arXiv:1810.09658.
 - Yujie Zhong, Relja Arandjelović, Andrew Zisserman .[GhostVLAD for set-based face recognition](https://arxiv.org/pdf/1810.09951) .[J] arXiv preprint arXiv:1810.09951.
 - Hsin-Rung Chou, Jia-Hong Lee, Yi-Ming Chan, Chu-Song Chen .[Data-specific Adaptive Threshold for Face Recognition and Authentication](https://arxiv.org/pdf/1810.11160) .[J] arXiv preprint arXiv:1810.11160.
+
+---
+## Face Reconstruction
+
+---
+## Face Tracking
+
+---
+## Face Super-Resolution
+
+---
+## Face Generation
+
+---
+## Face Transfer
+
+---
+## Face Anti-Spoofing
