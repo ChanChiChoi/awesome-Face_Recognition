@@ -1,24 +1,24 @@
 # awesome-Face_Recognition   
 this collecting the papers about face detection, face aignment, face recognition.
 
+---
+## Face Detection
 
-# Face Detection
-
-
-# Face Alignment
-## 2012
+---
+## Face Alignment
+### 2012
 - Thai Hoang Le, Truong Nhat Vo .[Face Alignment Using Active Shape Model And Support Vector Machine](https://arxiv.org/pdf/1209.06151) .[J] arXiv preprint arXiv:1209.06151.
 
-## 2013 
+### 2013 
 - Qianli Liao, Joel Z Leibo, Youssef Mroueh, Tomaso Poggio .[Can a biologically-plausible hierarchy effectively replace face  detection, alignment, and recognition pipelines?](https://arxiv.org/pdf/1311.04082) .[J] arXiv preprint arXiv:1311.04082.
 
-## 2014
+### 2014
 - Liansheng Zhuang, Tsung-Han Chan, Allen Y. Yang, S. Shankar Sastry, Yi Ma .[Sparse Illumination Learning and Transfer for Single-Sample Face  Recognition with Image Corruption and Misalignment](https://arxiv.org/pdf/1402.01879) .[J] arXiv preprint arXiv:1402.01879.
 - Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang .[Learning Deep Representation for Face Alignment with Auxiliary  Attributes](https://arxiv.org/pdf/1408.03967) .[J] arXiv preprint arXiv:1408.03967.
 - Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang .[Transferring Landmark Annotations for Cross-Dataset Face Alignment](https://arxiv.org/pdf/1409.00602) .[J] arXiv preprint arXiv:1409.00602.
 - Baoguang Shi, Xiang Bai, Wenyu Liu, Jingdong Wang .[Deep Regression for Face Alignment](https://arxiv.org/pdf/1409.05230) .[J] arXiv preprint arXiv:1409.05230.
 
-## 2015
+### 2015
 - Yuting Zhang, Kui Jia, Yueming Wang, Gang Pan, Tsung-Han Chan, Yi Ma .[Robust Face Recognition by Constrained Part-based Alignment](https://arxiv.org/pdf/1501.04717) .[J] arXiv preprint arXiv:1501.04717.
 - Christos Sagonas, Yannis Panagakis, Stefanos Zafeiriou, Maja Pantic .[Face frontalization for Alignment and Recognition](https://arxiv.org/pdf/1502.00852) .[J] arXiv preprint arXiv:1502.00852.
 - Amin Jourabloo, Xiaoming Liu .[Pose-Invariant 3D Face Alignment](https://arxiv.org/pdf/1506.03799) .[J] arXiv preprint arXiv:1506.03799.
@@ -30,7 +30,7 @@ this collecting the papers about face detection, face aignment, face recognition
 - Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang .[Towards Arbitrary-View Face Alignment by Recommendation Trees](https://arxiv.org/pdf/1511.06627) .[J] arXiv preprint arXiv:1511.06627.
 - Xiangyu Zhu, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li .[Face Alignment Across Large Poses: A 3D Solution](https://arxiv.org/pdf/1511.07212) .[J] arXiv preprint arXiv:1511.07212.
 
-## 2016
+### 2016
 - Amit Kumar, Rajeev Ranjan, Vishal Patel, Rama Chellappa .[Face Alignment by Local Deep Descriptor Regression](https://arxiv.org/pdf/1601.07950) .[J] arXiv preprint arXiv:1601.07950.
 - Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao .[Joint Face Detection and Alignment using Multi-task Cascaded  Convolutional Networks](https://arxiv.org/pdf/1604.02878) .[J] arXiv preprint arXiv:1604.02878.
 - Zhiwen Shao, Shouhong Ding, Yiru Zhao, Qinchuan Zhang, Lizhuang Ma .[Learning deep representation from coarse to fine for face alignment](https://arxiv.org/pdf/1608.00207) .[J] arXiv preprint arXiv:1608.00207.
@@ -41,7 +41,7 @@ this collecting the papers about face detection, face aignment, face recognition
 - Brandon M. Smith, Charles R. Dyer .[Efficient Branching Cascaded Regression for Face Alignment under  Significant Head Rotation](https://arxiv.org/pdf/1611.01584) .[J] arXiv preprint arXiv:1611.01584.
 - Hailiang Li, Kin-Man Lam, Edmond M. Y. Chiu, Kangheng Wu, Zhibin Lei .[Cascaded Face Alignment via Intimacy Definition Feature](https://arxiv.org/pdf/1611.06642) .[J] arXiv preprint arXiv:1611.06642.
 
-## 2017
+### 2017
 - Yuanyi Zhong, Jiansheng Chen, Bo Huang .[Towards End-to-End Face Recognition through Alignment Learning](https://arxiv.org/pdf/1701.07174) .[J] arXiv preprint arXiv:1701.07174.
 - Nenad Markuš, Ivan Gogić, Igor S. Pandžić, Jörgen Ahlberg .[Memory-Efficient Global Refinement of Decision-Tree Ensembles and its  Application to Face Alignment](https://arxiv.org/pdf/1702.08481) .[J] arXiv preprint arXiv:1702.08481.
 - Adrian Bulat, Georgios Tzimiropoulos .[Binarized Convolutional Landmark Localizers for Human Pose Estimation  and Face Alignment with Limited Resources](https://arxiv.org/pdf/1703.00862) .[J] arXiv preprint arXiv:1703.00862.
@@ -61,7 +61,7 @@ this collecting the papers about face detection, face aignment, face recognition
 - Hui Ding, Hao Zhou, Shaohua Kevin Zhou, Rama Chellappa .[A Deep Cascade Network for Unaligned Face Attribute Classification](https://arxiv.org/pdf/1709.03851) .[J] arXiv preprint arXiv:1709.03851.
 - Xin Fan, Risheng Liu, Kang Huyan, Yuyao Feng, Zhongxuan Luo .[Self-Reinforced Cascaded Regression for Face Alignment](https://arxiv.org/pdf/1711.08624) .[J] arXiv preprint arXiv:1711.08624.
 
-## 2018
+### 2018
 - Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas .[RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face  Alignment](https://arxiv.org/pdf/1801.06066) .[J] arXiv preprint arXiv:1801.06066.
 - Amit Kumar, Rama Chellappa .[Disentangling 3D Pose in A Dendritic CNN for Unconstrained 2D Face  Alignment](https://arxiv.org/pdf/1802.06713) .[J] arXiv preprint arXiv:1802.06713.
 - Zhiwen Shao, Zhilei Liu, Jianfei Cai, Lizhuang Ma .[Deep Adaptive Attention for Joint Facial Action Unit Detection and Face  Alignment](https://arxiv.org/pdf/1803.05588) .[J] arXiv preprint arXiv:1803.05588.
@@ -71,5 +71,5 @@ this collecting the papers about face detection, face aignment, face recognition
 - Wayne Wu, Chen Qian, Shuo Yang, Quan Wang, Yici Cai, Qiang Zhou .[Look at Boundary: A Boundary-Aware Face Alignment Algorithm](https://arxiv.org/pdf/1805.10483) .[J] arXiv preprint arXiv:1805.10483.
 - Zhiwen Shao, Hengliang Zhu, Xin Tan, Yangyang Hao, Lizhuang Ma .[Deep Multi-Center Learning for Face Alignment](https://arxiv.org/pdf/1808.01558) .[J] arXiv preprint arXiv:1808.01558.
 
-
-# Face recognition
+---
+## Face recognition
