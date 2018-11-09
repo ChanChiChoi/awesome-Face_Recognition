@@ -294,16 +294,10 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 - Qiang Qiu, Rama Chellappa .[Compositional Dictionaries for Domain Adaptive Face Recognition](https://arxiv.org/pdf/1308.00271) .[J] arXiv preprint arXiv:1308.00271.
 - Qiang Qiu, Guillermo Sapiro, Ching-Hui Chen .[Domain-invariant Face Recognition using Learned Low-rank Transformation](https://arxiv.org/pdf/1308.00275) .[J] arXiv preprint arXiv:1308.00275.
 - Pengfei Zhu, Wangmeng Zuo, Lei Zhang, Simon C.K. Shiu, David Zhang .[Image Set based Collaborative Representation for Face Recognition](https://arxiv.org/pdf/1308.06687) .[J] arXiv preprint arXiv:1308.06687.
-- Ayan Seal, Mita Nasipuri, Debotosh Bhattacharjee, Dipak Kumar Basu .[Minutiae Based Thermal Face Recognition using Blood Perfusion Data](https://arxiv.org/pdf/1309.00999) .[J] arXiv preprint arXiv:1309.00999.
-- Ayan Seal, Suranjan Ganguly, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kr.Basu .[Automated Thermal Face recognition based on Minutiae Extraction](https://arxiv.org/pdf/1309.01000) .[J] arXiv preprint arXiv:1309.01000.
-- Ayan Seal, Suranjan Ganguly, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu .[A Comparative Study of Human thermal face recognition based on Haar  wavelet transform (HWT) and Local Binary Pattern (LBP)](https://arxiv.org/pdf/1309.01009) .[J] arXiv preprint arXiv:1309.01009.
-- Ayan Seal, Suranjan Ganguly, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu .[Minutiae Based Thermal Human Face Recognition using Label Connected  Component Algorithm](https://arxiv.org/pdf/1309.01155) .[J] arXiv preprint arXiv:1309.01155.
-- Ayan Seal, Suranjan Ganguly, Debotosh Bhattacharjee, Mita Nasipuri, Dipak kr. Basu .[Thermal Human face recognition based on Haar wavelet transform and  series matching technique](https://arxiv.org/pdf/1309.01156) .[J] arXiv preprint arXiv:1309.01156.
 - Fumin Shen, Chunhua Shen .[Generic Image Classification Approaches Excel on Face Recognition](https://arxiv.org/pdf/1309.05594) .[J] arXiv preprint arXiv:1309.05594.
 - Dong Zhang, Omar Oreifej, Mubarak Shah .[Face Verification Using Boosted Cross-Image Features](https://arxiv.org/pdf/1309.07434) .[J] arXiv preprint arXiv:1309.07434.
 - Sayantan Sarkar .[Skin Segmentation based Elastic Bunch Graph Matching for efficient  multiple Face Recognition](https://arxiv.org/pdf/1310.06066) .[J] arXiv preprint arXiv:1310.06066.
 - Sheng Huang, Dan Yang, Fei Yang, Yongxin Ge, Xiaohong Zhang, Jiwen Lu .[Face Recognition via Globality-Locality Preserving Projections](https://arxiv.org/pdf/1311.01279) .[J] arXiv preprint arXiv:1311.01279.
-- Qianli Liao, Joel Z Leibo, Youssef Mroueh, Tomaso Poggio .[Can a biologically-plausible hierarchy effectively replace face  detection, alignment, and recognition pipelines?](https://arxiv.org/pdf/1311.04082) .[J] arXiv preprint arXiv:1311.04082.
 - Nikunj Bajaj, Aurobinda Routray, S L Happy .[Dynamic Model of Facial Expression Recognition based on Eigen-face  Approach](https://arxiv.org/pdf/1311.06007) .[J] arXiv preprint arXiv:1311.06007.
 - Sourav Pramanik, Debotosh Bhattacharjee .[Geometric Feature Based Face-Sketch Recognition](https://arxiv.org/pdf/1312.01462) .[J] arXiv preprint arXiv:1312.01462.
 - Arindam Kar, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri, Mahantapas Kundu .[An adaptive block based integrated LDP,GLCM,and Morphological features  for Face Recognition](https://arxiv.org/pdf/1312.01512) .[J] arXiv preprint arXiv:1312.01512.
@@ -315,7 +309,6 @@ this collecting the papers about **face detection**, **face aignment**, **face r
 - Arindam Kar, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri, Mahantapas Kundu .[Human Face Recognition using Gabor based Kernel Entropy Component  Analysis](https://arxiv.org/pdf/1312.01685) .[J] arXiv preprint arXiv:1312.01685.
 - Dharini S., Guru Prasad M., Hari haran. V., Kiran Tej J. L., Kunal Ghosh .[Analysis and Understanding of Various Models for Efficient  Representation and Accurate Recognition of Human Faces](https://arxiv.org/pdf/1312.03787) .[J] arXiv preprint arXiv:1312.03787.
 - Nima Hatami, Reza Ebrahimpour, Reza Ghaderi .[ECOC-Based Training of Neural Networks for Face Recognition](https://arxiv.org/pdf/1312.03990) .[J] arXiv preprint arXiv:1312.03990.
-- P. Kiran Sree, I. Ramesh Babu .[Face Detection from still and Video Images using Unsupervised Cellular  Automata with K means clustering algorithm](https://arxiv.org/pdf/1312.06834) .[J] arXiv preprint arXiv:1312.06834.
 - Sheng Huang, Dan Yang, Haopeng Zhang, Luwen Huangfu, Xiaohong Zhang .[Shape Primitive Histogram: A Novel Low-Level Face Representation for  Face Recognition](https://arxiv.org/pdf/1312.07446) .[J] arXiv preprint arXiv:1312.07446.
 - Sheng Huang, Dan Yang, Dong Yang, Ahmed Elgammal .[Collaborative Discriminant Locality Preserving Projections With its  Application to Face Recognition](https://arxiv.org/pdf/1312.07469) .[J] arXiv preprint arXiv:1312.07469.
 
