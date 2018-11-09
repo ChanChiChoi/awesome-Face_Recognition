@@ -1,18 +1,17 @@
 # awesome-Face_Recognition   
-this collecting the papers about:  
+this collecting the papers (main from arxiv.org) about bellow themes:  
 **face detection**;   
 **face alignment**;   
 **face recognition**;  
 Face Reconstruction;   
 Face Tracking;   
-Face Super-Resolution;   
+Face Super-Resolution && Face Deblurring;   
 Face Generation && Face Synthesis;   
 Face Transfer;   
 Face Anti-Spoofing;   
 Face Retrieval;   
 Face Identification;   
 Face Verification.  
-from arxiv.org.
 
 ---
 ## Face Detection
