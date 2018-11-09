@@ -45,7 +45,7 @@ this collecting the papers about face detection, face aignment, face recognition
 - Yuanyi Zhong, Jiansheng Chen, Bo Huang .[Towards End-to-End Face Recognition through Alignment Learning](https://arxiv.org/pdf/1701.07174) .[J] arXiv preprint arXiv:1701.07174.
 - Nenad Markuš, Ivan Gogić, Igor S. Pandžić, Jörgen Ahlberg .[Memory-Efficient Global Refinement of Decision-Tree Ensembles and its  Application to Face Alignment](https://arxiv.org/pdf/1702.08481) .[J] arXiv preprint arXiv:1702.08481.
 - Adrian Bulat, Georgios Tzimiropoulos .[Binarized Convolutional Landmark Localizers for Human Pose Estimation  and Face Alignment with Limited Resources](https://arxiv.org/pdf/1703.00862) .[J] arXiv preprint arXiv:1703.00862.
-- Arnaud Dapogny, K茅vin Bailly, S茅verine Dubuisson .[Face Alignment with Cascaded Semi-Parametric Deep Greedy Neural Forests](https://arxiv.org/pdf/1703.01597) .[J] arXiv preprint arXiv:1703.01597.
+- Arnaud Dapogny, Kvin Bailly, Sverine Dubuisson .[Face Alignment with Cascaded Semi-Parametric Deep Greedy Neural Forests](https://arxiv.org/pdf/1703.01597) .[J] arXiv preprint arXiv:1703.01597.
 - Adrian Bulat, Georgios Tzimiropoulos .[How far are we from solving the 2D & 3D Face Alignment problem? (and a  dataset of 230,000 3D facial landmarks)](https://arxiv.org/pdf/1703.07332) .[J] arXiv preprint arXiv:1703.07332.
 - Marek Kowalski, Jacek Naruniec, Tomasz Trzcinski .[Deep Alignment Network: A convolutional neural network for robust face  alignment](https://arxiv.org/pdf/1706.01789) .[J] arXiv preprint arXiv:1706.01789.
 - Marek Kowalski, Jacek Naruniec .[Face Alignment Using K-Cluster Regression Forests With Weighted  Splitting](https://arxiv.org/pdf/1706.01820) .[J] arXiv preprint arXiv:1706.01820.
