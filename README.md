@@ -227,7 +227,6 @@ this collecting the papers about face detection, face aignment, face recognition
 - Dakshina Ranjan Kisku, Hunny Mehrotra, Jamuna Kanta Sing, Phalguni Gupta .[SVM-based Multiview Face Recognition by Generalization of Discriminant  Analysis](https://arxiv.org/pdf/1001.04140) .[J] arXiv preprint arXiv:1001.04140.
 - Dakshina Ranjan Kisku, Massimo Tistarelli, Jamuna Kanta Sing, Phalguni Gupta .[Face Recognition by Fusion of Local and Global Matching Scores using DS  Theory: An Evaluation with Uni-classifier and Multi-classifier Paradigm](https://arxiv.org/pdf/1002.00382) .[J] arXiv preprint arXiv:1002.00382.
 - Dakshina Ranjan Kisku, Ajita Rattani, Enrico Grosso, Massimo Tistarelli .[Face Identification by SIFT-based Complete Graph Topology](https://arxiv.org/pdf/1002.00411) .[J] arXiv preprint arXiv:1002.00411.
-- Raphael Sznitman, Bruno Jedynak .[Active Testing for Face Detection and Localization](https://arxiv.org/pdf/1003.05249) .[J] arXiv preprint arXiv:1003.05249.
 - Dakshina Ranjan Kisku, Hunny Mehrotra, Phalguni Gupta, Jamuna Kanta Sing .[Robust multi-camera view face recognition](https://arxiv.org/pdf/1003.05861) .[J] arXiv preprint arXiv:1003.05861.
 - Mehran Safayani, Mohammad T. Manzuri-Shalmani, Mahmoud Khademi .[Extended Two-Dimensional PCA for Efficient Face Representation and  Recognition](https://arxiv.org/pdf/1004.00755) .[J] arXiv preprint arXiv:1004.00755.
 - Phalguni Gupta, Dakshina Ranjan Kisku, Jamuna Kanta Sing, Massimo Tistarelli .[Maximized Posteriori Attributes Selection from Facial Salient Landmarks  for Face Recognition](https://arxiv.org/pdf/1004.01887) .[J] arXiv preprint arXiv:1004.01887.
@@ -259,7 +258,6 @@ this collecting the papers about face detection, face aignment, face recognition
 - H. R. Chennamma, Lalitha Rangarajan, Veerabhadrappa .[Face Identification from Manipulated Facial Images using SIFT](https://arxiv.org/pdf/1106.04907) .[J] arXiv preprint arXiv:1106.04907.
 - Rami Cohen .[Face Recognition using Curvelet Transform](https://arxiv.org/pdf/1107.02781) .[J] arXiv preprint arXiv:1107.02781.
 - Yaniv Taigman, Lior Wolf .[Leveraging Billions of Faces to Overcome Performance Barriers in  Unconstrained Face Recognition](https://arxiv.org/pdf/1108.01122) .[J] arXiv preprint arXiv:1108.01122.
-- Yaniv Taigman, Lior Wolf .[erformance Barriers in  Unconstrained Face Recognition](https://arxiv.org/pdf/1108.01124) .[J] arXiv preprint arXiv:1108.01124.
 - K.Susheel Kumar, Vijay Bhaskar Semwal, R C Tripathi .[Real time face recognition using adaboost improved fast PCA algorithm](https://arxiv.org/pdf/1108.01353) .[J] arXiv preprint arXiv:1108.01353.
 - Hanxi Li, Chunhua Shen, Yongsheng Gao .[Face Recognition using Optimal Representation Ensemble](https://arxiv.org/pdf/1110.00264) .[J] arXiv preprint arXiv:1110.00264.
 - Hafiz Imtiaz, Shaikh Anowarul Fattah .[A Face Recognition Scheme using Wavelet Based Dominant Features](https://arxiv.org/pdf/1110.01485) .[J] arXiv preprint arXiv:1110.01485.
