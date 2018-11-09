@@ -1,5 +1,5 @@
 # awesome-Face_Recognition   
-this collecting the papers about face detection, face aignment, face recognition.
+this collecting the papers about **face detection**, **face aignment**, **face recognition** from arxiv.org.
 
 ---
 ## Face Detection
@@ -347,7 +347,6 @@ this collecting the papers about face detection, face aignment, face recognition
 - Saptarshi Chakraborty, Dhrubajyoti Das .[An Overview of Face Liveness Detection](https://arxiv.org/pdf/1405.02227) .[J] arXiv preprint arXiv:1405.02227.
 - Jyothi K, Prabhakar C.J .[Multi Modal Face Recognition Using Block Based Curvelet Features](https://arxiv.org/pdf/1405.02641) .[J] arXiv preprint arXiv:1405.02641.
 - Spits Warnars .[Human Face as human single identity](https://arxiv.org/pdf/1405.06168) .[J] arXiv preprint arXiv:1405.06168.
-- Luo Tao, Shi zaifeng .[An FPGA-based Parallel Architecture for Face Detection using Mixed Color  Models](https://arxiv.org/pdf/1405.07032) .[J] arXiv preprint arXiv:1405.07032.
 - Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Shared Representation Learning for Heterogeneous Face Recognition](https://arxiv.org/pdf/1406.01247) .[J] arXiv preprint arXiv:1406.01247.
 - Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Representation by Joint Identification-Verification](https://arxiv.org/pdf/1406.04773) .[J] arXiv preprint arXiv:1406.04773.
 - Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf .[Web-Scale Training for Face Identification](https://arxiv.org/pdf/1406.05266) .[J] arXiv preprint arXiv:1406.05266.
@@ -360,26 +359,19 @@ this collecting the papers about face detection, face aignment, face recognition
 - Reza Azad, Fatemeh Davami .[A robust and adaptable method for face detection based on Color  Probabilistic Estimation Technique](https://arxiv.org/pdf/1407.06318) .[J] arXiv preprint arXiv:1407.06318.
 - Reza Shoja Ghiass, Ognjen Arandjelovic, Hakim Bendada, Xavier Maldague .[A unified framework for thermal face recognition](https://arxiv.org/pdf/1407.07317) .[J] arXiv preprint arXiv:1407.07317.
 - Reza Azad, Babak Azad, Nabil Belhaj Khalifa, Shahram Jamali .[Real-Time Human-Computer Interaction Based on Face and Hand Gesture  Recognition](https://arxiv.org/pdf/1408.01549) .[J] arXiv preprint arXiv:1408.01549.
-- Shengcai Liao, Anil K. Jain, Stan Z. Li .[A Fast and Accurate Unconstrained Face Detector](https://arxiv.org/pdf/1408.01656) .[J] arXiv preprint arXiv:1408.01656.
 - Xiaoyan Li, Dacheng Tao .[Video Face Editing Using Temporal-Spatial-Smooth Warping](https://arxiv.org/pdf/1408.02380) .[J] arXiv preprint arXiv:1408.02380.
 - Parama Bagchi, Debotosh Bhattacharjee, Mita Nasipuri .[Robust 3D face recognition in presence of pose and partial occlusions or  missing parts](https://arxiv.org/pdf/1408.03709) .[J] arXiv preprint arXiv:1408.03709.
-- Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang .[Learning Deep Representation for Face Alignment with Auxiliary  Attributes](https://arxiv.org/pdf/1408.03967) .[J] arXiv preprint arXiv:1408.03967.
 - Jianwei Yang, Zhen Lei, Stan Z. Li .[Learn Convolutional Neural Network for Face Anti-Spoofing](https://arxiv.org/pdf/1408.05601) .[J] arXiv preprint arXiv:1408.05601.
-- Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang .[Transferring Landmark Annotations for Cross-Dataset Face Alignment](https://arxiv.org/pdf/1409.00602) .[J] arXiv preprint arXiv:1409.00602.
 - Shuxin Ouyang, Timothy Hospedales, Yi-Zhe Song, Xueming Li .[A Survey on Heterogeneous Face Recognition: Sketch, Infra-red, 3D and  Low-resolution](https://arxiv.org/pdf/1409.05114) .[J] arXiv preprint arXiv:1409.05114.
-- Baoguang Shi, Xiang Bai, Wenyu Liu, Jingdong Wang .[Deep Regression for Face Alignment](https://arxiv.org/pdf/1409.05230) .[J] arXiv preprint arXiv:1409.05230.
 - Bo Han, Bo He, Tingting Sun, Mengmeng Ma, Amaury Lendasse .[HSR: L1/2 Regularized Sparse Representation for Fast Face Recognition  using Hierarchical Feature Selection](https://arxiv.org/pdf/1409.06448) .[J] arXiv preprint arXiv:1409.06448.
 - Yufei Gan, Teng Yang, Chu He .[A Deep Graph Embedding Network Model for Face Recognition](https://arxiv.org/pdf/1409.07313) .[J] arXiv preprint arXiv:1409.07313.
 - David Menotti, Giovani Chiachia, Allan Pinto, William Robson Schwartz, Helio Pedrini, Alexandre Xavier Falcao, Anderson Rocha .[Deep Representations for Iris, Face, and Fingerprint Spoofing Detection](https://arxiv.org/pdf/1410.01980) .[J] arXiv preprint arXiv:1410.01980.
-- K.A.A. Aziz, S.S. Abdullah .[Face Detection Using Radial Basis Functions Neural Networks With Fixed  Spread](https://arxiv.org/pdf/1410.02173) .[J] arXiv preprint arXiv:1410.02173.
 - Syed Zulqarnain Gilani, Faisal Shafait, Ajmal Mian .[Dense 3D Face Correspondence](https://arxiv.org/pdf/1410.05058) .[J] arXiv preprint arXiv:1410.05058.
-- Junhua Li, Chao Li, Andrzej Cichocki .[Canonical Polyadic Decomposition with Auxiliary Information for Brain  Computer Interface](https://arxiv.org/pdf/1410.06313) .[J] arXiv preprint arXiv:1410.06313.
 - Abdullah Gubbi, Mohammad Fazle Azeem, M Sharmila Kumari .[Non Binary Local Gradient Contours for Face Recognition](https://arxiv.org/pdf/1411.00442) .[J] arXiv preprint arXiv:1411.00442.
 - Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Attributes in the Wild](https://arxiv.org/pdf/1411.07766) .[J] arXiv preprint arXiv:1411.07766.
 - Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Learning Face Representation from Scratch](https://arxiv.org/pdf/1411.07923) .[J] arXiv preprint arXiv:1411.07923.
 - Tal Hassner, Shai Harel, Eran Paz, Roee Enbar .[Effective Face Frontalization in Unconstrained Images](https://arxiv.org/pdf/1411.07964) .[J] arXiv preprint arXiv:1411.07964.
 - Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deeply learned face representations are sparse, selective, and robust](https://arxiv.org/pdf/1412.01265) .[J] arXiv preprint arXiv:1412.01265.
-- Zhengdong Zhang, Phillip Isola, Edward H. Adelson .[Sparkle Vision: Seeing the World through Random Specular Microfacets](https://arxiv.org/pdf/1412.07884) .[J] arXiv preprint arXiv:1412.07884.
 
 ### 2015
 - Gholamreza Anbarjafari .[Face recognition using color local binary pattern from mutually  independent color channels](https://arxiv.org/pdf/1501.00105) .[J] arXiv preprint arXiv:1501.00105.
@@ -391,21 +383,16 @@ this collecting the papers about face detection, face aignment, face recognition
 - Shonal Chaudhry, Rohitash Chandra .[Design of a Mobile Face Recognition System for Visually Impaired Persons](https://arxiv.org/pdf/1502.00756) .[J] arXiv preprint arXiv:1502.00756.
 - Christos Sagonas, Yannis Panagakis, Stefanos Zafeiriou, Maja Pantic .[Face frontalization for Alignment and Recognition](https://arxiv.org/pdf/1502.00852) .[J] arXiv preprint arXiv:1502.00852.
 - Yi Sun, Ding Liang, Xiaogang Wang, Xiaoou Tang .[DeepID3: Face Recognition with Very Deep Neural Networks](https://arxiv.org/pdf/1502.00873) .[J] arXiv preprint arXiv:1502.00873.
-- Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .[Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766) .[J] arXiv preprint arXiv:1502.02766.
 - Changxing Ding, Dacheng Tao .[A Comprehensive Survey on Pose-Invariant Face Recognition](https://arxiv.org/pdf/1502.04383) .[J] arXiv preprint arXiv:1502.04383.
 - Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li .[Graphical Representation for Heterogeneous Face Recognition](https://arxiv.org/pdf/1503.00488) .[J] arXiv preprint arXiv:1503.00488.
 - Samir F. Hafez, Mazen M. Selim, Hala H. Zayed .[2D Face Recognition System Based on Selected Gabor Filters and Linear  Discriminant Analysis LDA](https://arxiv.org/pdf/1503.03741) .[J] arXiv preprint arXiv:1503.03741.
 - Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .[J] arXiv preprint arXiv:1503.03832.
-- Peng Sun, James K. Min, Guanglei Xiong .[Globally Tuned Cascade Pose Regression via Back Propagation with  Application in 2D Face Pose Estimation and Heart Segmentation in 3D CT Images](https://arxiv.org/pdf/1503.08843) .[J] arXiv preprint arXiv:1503.08843.
 - Narmada Naik, G.N Rathna .[Robust real time face recognition and tracking on gpu using fusion of  rgb and depth image](https://arxiv.org/pdf/1504.01883) .[J] arXiv preprint arXiv:1504.01883.
 - Guosheng Hu, Yongxin Yang, Dong Yi, Josef Kittler, William Christmas, Stan Z. Li, Timothy Hospedales .[When Face Recognition Meets with Deep Learning: an Evaluation of  Convolutional Neural Networks for Face Recognition](https://arxiv.org/pdf/1504.02351) .[J] arXiv preprint arXiv:1504.02351.
 - Ognjen Arandjelovic .[Automatic Face Recognition from Video](https://arxiv.org/pdf/1504.05308) .[J] arXiv preprint arXiv:1504.05308.
 - D. Miller, E. Brossard, S. Seitz, I. Kemelmacher-Shlizerman .[MegaFace: A Million Faces for Recognition at Scale](https://arxiv.org/pdf/1505.02108) .[J] arXiv preprint arXiv:1505.02108.
-- Anjith George, Anirban Dasgupta, Aurobinda Routray .[A Framework for Fast Face and Eye Detection](https://arxiv.org/pdf/1505.03344) .[J] arXiv preprint arXiv:1505.03344.
-- S L Happy, Anirban Dasgupta, Anjith George, Aurobinda Routray .[A Video Database of Human Faces under Near Infra-Red Illumination for  Human Computer Interaction Aplications](https://arxiv.org/pdf/1505.04055) .[J] arXiv preprint arXiv:1505.04055.
 - Liping Wang, Songcan Chen .[Joint Representation Classification for Collective Face Recognition](https://arxiv.org/pdf/1505.04617) .[J] arXiv preprint arXiv:1505.04617.
 - Weilin Huang, Hujun Yin .[Robust Face Recognition with Structural Binary Gradient Patterns](https://arxiv.org/pdf/1506.00481) .[J] arXiv preprint arXiv:1506.00481.
-- to-many face recognition with bilinear CNNs .[Exploiting an Oracle that Reports AUC Scores in Machine Learning  Contests](https://arxiv.org/pdf/1506.01339) .[J] arXiv preprint arXiv:1506.01339.
 - Amin Jourabloo, Xiaoming Liu .[Pose-Invariant 3D Face Alignment](https://arxiv.org/pdf/1506.03799) .[J] arXiv preprint arXiv:1506.03799.
 - Rohit Pandey, Yingbo Zhou, Venu Govindaraju .[Deep Secure Encoding: An Application to Face Recognition](https://arxiv.org/pdf/1506.04340) .[J] arXiv preprint arXiv:1506.04340.
 - Yang Zhong, Haibo Li .[Leveraging the Power of Gabor Phase for Face Identification: A Block  Matching Approach](https://arxiv.org/pdf/1506.04655) .[J] arXiv preprint arXiv:1506.04655.
