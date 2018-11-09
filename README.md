@@ -2,16 +2,14 @@
 this collecting the papers (main from arxiv.org) about bellow themes:  
 > * **Face Detection**;   
 > * **Face Alignment**;   
-> * **Face Recognition**;  
+> * **Face Recognition && Face Identification && Face Verification**;  
 Face Reconstruction;   
 Face Tracking;   
 Face Super-Resolution && Face Deblurring;   
 Face Generation && Face Synthesis;   
 Face Transfer;   
 Face Anti-Spoofing;   
-Face Retrieval;   
-Face Identification;   
-Face Verification.  
+Face Retrieval;     
 
 also, some papers and links collected from:
 - [1] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
@@ -366,6 +364,7 @@ also, some papers and links collected from:
 - Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Learning Face Representation from Scratch](https://arxiv.org/pdf/1411.07923) .[J] arXiv preprint arXiv:1411.07923.
 - Tal Hassner, Shai Harel, Eran Paz, Roee Enbar .[Effective Face Frontalization in Unconstrained Images](https://arxiv.org/pdf/1411.07964) .[J] arXiv preprint arXiv:1411.07964.
 - Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deeply learned face representations are sparse, selective, and robust](https://arxiv.org/pdf/1412.01265) .[J] arXiv preprint arXiv:1412.01265.
+- 【DeepFace】【verification】Taigman Y, Yang M, Ranzato M A, et al. [Deepface: Closing the gap to human-level performance in face verification](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 1701-1708.
 
 ### 2015
 - Gholamreza Anbarjafari .[Face recognition using color local binary pattern from mutually  independent color channels](https://arxiv.org/pdf/1501.00105) .[J] arXiv preprint arXiv:1501.00105.
@@ -635,10 +634,5 @@ also, some papers and links collected from:
 ---
 ## Face Retrieval
 
----
-## Face Identification
-
----
-## Face Verification
 
 。
