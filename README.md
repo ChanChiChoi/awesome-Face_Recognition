@@ -3,7 +3,7 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **Face Detection**;   
 > * **Face Alignment**;   
 > * **Face Recognition && Face Identification && Face Verification && Face Representation**;  
-Face Reconstruction;   
+> * **Face Reconstruction**;   
 Face Tracking;   
 Face Super-Resolution && Face Deblurring;   
 Face Generation && Face Synthesis;   
@@ -650,29 +650,34 @@ also, some papers and links collected from:
 ### 2016
 - Elad Richardson, Matan Sela, Ron Kimmel .[3D Face Reconstruction by Learning from Synthetic Data](https://arxiv.org/pdf/1609.04387) .[J] arXiv preprint arXiv:1609.04387.
 - Elad Richardson, Matan Sela, Roy Or-El, Ron Kimmel .[Learning Detailed Face Reconstruction from a Single Image](https://arxiv.org/pdf/1611.05053) .[J] arXiv preprint arXiv:1611.05053.
+- 【3DMM-CNN】Tran A T, Hassner T, Masi I, et al. [Regressing robust and discriminative 3D morphable models with a very deep neural network](https://arxiv.org/abs/1612.04904)[C]//Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017: 1493-1502.
 
 ### 2017
+- 【3D Face Morphable Models "In-the-Wild"】Booth J, Antonakos E, Ploumpis S, et al. [3D face morphable models “in-the-wild”](http://openaccess.thecvf.com/content_cvpr_2017/papers/Booth_3D_Face_Morphable_CVPR_2017_paper.pdf)[C]//Proceedings of the IEEE Conference on ComputerVision and Pattern Recognition. 2017.
 - Xi Peng, Xiang Yu, Kihyuk Sohn, Dimitris Metaxas, Manmohan Chandraker .[Reconstruction-Based Disentanglement for Pose-invariant Face Recognition](https://arxiv.org/pdf/1702.03041) .[J] arXiv preprint arXiv:1702.03041.
 - Luo Jiang, Juyong Zhang, Bailin Deng, Hao Li, Ligang Liu .[3D Face Reconstruction with Geometry Details from a Single Image](https://arxiv.org/pdf/1702.05619) .[J] arXiv preprint arXiv:1702.05619.
 - Guangcan Mai, Kai Cao, Pong C. Yuen, Anil K. Jain .[On the Reconstruction of Deep Face Templates](https://arxiv.org/pdf/1703.00832) .[J] arXiv preprint arXiv:1703.00832.
-- Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .[J] arXiv preprint arXiv:1703.07834.
-- Ayush Tewari, Michael Zollhöfer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Pérez, Christian Theobalt .[MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised  Monocular Reconstruction](https://arxiv.org/pdf/1703.10580) .[J] arXiv preprint arXiv:1703.10580.
-- Pengfei Dou, Shishir K. Shah, Ioannis A. Kakadiaris .[End-to-end 3D face reconstruction with deep neural networks](https://arxiv.org/pdf/1704.05020) .[J] arXiv preprint arXiv:1704.05020.
-- Yudong Guo, Juyong Zhang, Jianfei Cai, Boyi Jiang, Jianmin Zheng .[3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing  Photo-realistic Face Images](https://arxiv.org/pdf/1708.00980) .[J] arXiv preprint arXiv:1708.00980.
+- 【VRN】Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .[J] arXiv preprint arXiv:1703.07834.<br>[code: [AaronJackson/vrn](https://github.com/AaronJackson/vrn)]
+- 【MoFA】Ayush Tewari, Michael Zollhöfer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Pérez, Christian Theobalt .[MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised  Monocular Reconstruction](https://arxiv.org/pdf/1703.10580) .[J] arXiv preprint arXiv:1703.10580.
+- 【UH-E2FAR】Pengfei Dou, Shishir K. Shah, Ioannis A. Kakadiaris .[End-to-end 3D face reconstruction with deep neural networks](https://arxiv.org/pdf/1704.05020) .[J] arXiv preprint arXiv:1704.05020.
+- 【3DFaceNet】Yudong Guo, Juyong Zhang, Jianfei Cai, Boyi Jiang, Jianmin Zheng .[3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing  Photo-realistic Face Images](https://arxiv.org/pdf/1708.00980) .[J] arXiv preprint arXiv:1708.00980.
 - Feng Liu, Qijun Zhao, Xiaoming Liu, Dan Zeng .[Joint Face Alignment and 3D Face Reconstruction with Application to Face  Recognition](https://arxiv.org/pdf/1708.02734) .[J] arXiv preprint arXiv:1708.02734.
+- 【3DMM-STN】Bas A, Huber P, Smith W A P, et al. [3d morphable models as spatial transformer networks](https://arxiv.org/abs/1708.07199)[C]//Proc. ICCV Workshop on Geometry Meets Deep Learning. 2017: 904-912.
 - Mingtao Feng, Syed Zulqarnain Gilani, Yaonan Wang, Ajmal Mian .[3D Face Reconstruction from Light Field Images: A Model-free Approach](https://arxiv.org/pdf/1711.05953) .[J] arXiv preprint arXiv:1711.05953.
-- Xuan Cao, Zhang Chen, Anpei Chen, Xin Chen, Cen Wang, Jingyi Yu .[Sparse Photometric 3D Face Reconstruction Guided by Morphable Models](https://arxiv.org/pdf/1711.10870) .[J] arXiv preprint arXiv:1711.10870.
 - Giuseppe Sellaroli .[An algorithm to reconstruct convex polyhedra from their face normals and  areas](https://arxiv.org/pdf/1712.00825) .[J] arXiv preprint arXiv:1712.00825.
 - Ayush Tewari, Michael Zollhöfer, Pablo Garrido, Florian Bernard, Hyeongwoo Kim, Patrick Pérez, Christian Theobalt .[Self-supervised Multi-level Face Model Learning for Monocular  Reconstruction at over 250 Hz](https://arxiv.org/pdf/1712.02859) .[J] arXiv preprint arXiv:1712.02859.
 - Anh Tuan Tran, Tal Hassner, Iacopo Masi, Eran Paz, Yuval Nirkin, Gerard Medioni .[Extreme 3D Face Reconstruction: Seeing Through Occlusions](https://arxiv.org/pdf/1712.05083) .[J] arXiv preprint arXiv:1712.05083.
 - A.V. Vasev, M.A. Putyato, V.V. Preobrazhenskii .[Some aspects of diffracted waves formation at RHEED on a reconstructed  crystal face](https://arxiv.org/pdf/1712.05585) .[J] arXiv preprint arXiv:1712.05585.
 
 ### 2018
+- 【Multi-View RNN】Dou P, Kakadiaris I A. [Multi-view 3D face reconstruction with deep recurrent neural networks](http://cbl.uh.edu/pub_files/IJCB-2017-PD.pdf)[J]. Image and Vision Computing, 2018, 80: 80-91.
+- 【others】Fan Z, Hu X, Chen C, et al. [Dense Semantic and Topological Correspondence of 3D Faces without Landmarks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenfeng_Fan_Dense_Semantic_and_ECCV_2018_paper.pdf)[C]//Proceedings of the European Conference on Computer Vision (ECCV). 2018: 523-539.
 - Gholamreza Anbarjafari, Rain Eric Haamer, Iiris Lusi, Toomas Tikk, Lembit Valgma .[3D Face Reconstruction with Region Based Best Fit Blending Using Mobile  Phone for Virtual Reality Based Social Media](https://arxiv.org/pdf/1801.01089) .[J] arXiv preprint arXiv:1801.01089.
 -  .[Sample-Relaxed Two-Dimensional Color Principal Component Analysis for  Face Recognition and Image Reconstruction](https://arxiv.org/pdf/1803.03837) .[J] arXiv preprint arXiv:1803.03837.
 - Zhen-Hua Feng, Patrik Huber, Josef Kittler, Peter Hancock, Xiao-Jun Wu, Qijun Zhao, Paul Koppen, Matthias Rätsch .[Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild](https://arxiv.org/pdf/1803.05536) .[J] arXiv preprint arXiv:1803.05536.
 - Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, Xi Zhou .[Joint 3D Face Reconstruction and Dense Alignment with Position Map  Regression Network](https://arxiv.org/pdf/1803.07835) .[J] arXiv preprint arXiv:1803.07835.
 - Feng Liu, Ronghang Zhu, Dan Zeng, Qijun Zhao, Xiaoming Liu .[Disentangling Features in 3D Face Shapes for Joint Face Reconstruction  and Recognition](https://arxiv.org/pdf/1803.11366) .[J] arXiv preprint arXiv:1803.11366.
+- 【COMA】Ranjan A, Bolkart T, Sanyal S, et al. [Generating 3D faces using Convolutional Mesh Autoencoders](https://arxiv.org/abs/1807.10267)[J]. arXiv preprint arXiv:1807.10267, 2018.<br>[code: [anuragranj/coma](https://github.com/anuragranj/coma)]
 - Nikolai Chinaev, Alexander Chigorin, Ivan Laptev .[MobileFace: 3D Face Reconstruction with Efficient CNN Regression](https://arxiv.org/pdf/1809.08809) .[J] arXiv preprint arXiv:1809.08809.
 - Rufin VanRullen, Leila Reddy .[Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks](https://arxiv.org/pdf/1810.03856) .[J] arXiv preprint arXiv:1810.03856.
 
