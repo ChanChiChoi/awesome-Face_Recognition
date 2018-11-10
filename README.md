@@ -393,7 +393,7 @@ also, some papers and links collected from:
 - Changxing Ding, Dacheng Tao .[A Comprehensive Survey on Pose-Invariant Face Recognition](https://arxiv.org/pdf/1502.04383) .[J] arXiv preprint arXiv:1502.04383.
 - Chunlei Peng, Xinbo Gao, Nannan Wang, Jie Li .[Graphical Representation for Heterogeneous Face Recognition](https://arxiv.org/pdf/1503.00488) .[J] arXiv preprint arXiv:1503.00488.
 - Samir F. Hafez, Mazen M. Selim, Hala H. Zayed .[2D Face Recognition System Based on Selected Gabor Filters and Linear  Discriminant Analysis LDA](https://arxiv.org/pdf/1503.03741) .[J] arXiv preprint arXiv:1503.03741.
-- 【FaceNet】Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .[J] arXiv preprint arXiv:1503.03832.<br> [code: [davidsandberg/facenet](https://github.com/davidsandberg/facenet)]
+- 【FaceNet】【Triplet Loss】Florian Schroff, Dmitry Kalenichenko, James Philbin .[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832) .[J] arXiv preprint arXiv:1503.03832.<br> [code: [davidsandberg/facenet](https://github.com/davidsandberg/facenet)]
 - Narmada Naik, G.N Rathna .[Robust real time face recognition and tracking on gpu using fusion of  rgb and depth image](https://arxiv.org/pdf/1504.01883) .[J] arXiv preprint arXiv:1504.01883.
 - Guosheng Hu, Yongxin Yang, Dong Yi, Josef Kittler, William Christmas, Stan Z. Li, Timothy Hospedales .[When Face Recognition Meets with Deep Learning: an Evaluation of  Convolutional Neural Networks for Face Recognition](https://arxiv.org/pdf/1504.02351) .[J] arXiv preprint arXiv:1504.02351.
 - Ognjen Arandjelovic .[Automatic Face Recognition from Video](https://arxiv.org/pdf/1504.05308) .[J] arXiv preprint arXiv:1504.05308.
@@ -431,8 +431,8 @@ also, some papers and links collected from:
 - Yi Sun, Xiaogang Wang, Xiaoou Tang .[Sparsifying Neural Network Connections for Face Recognition](https://arxiv.org/pdf/1512.01891) .[J] arXiv preprint arXiv:1512.01891.
 
 ### 2016
-- 【OpenFace】Amos B, Ludwiczuk B, Satyanarayanan M. [Openface: A general-purpose face recognition library with mobile applications](https://cmusatyalab.github.io/openface/)[J]. CMU School of Computer Science, 2016.
-- 【Center Face】【Center loss】Wen Y, Zhang K, Li Z, et al. [A discriminative feature learning approach for deep face recognition](http://ydwen.github.io/papers/WenECCV16.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2016: 499-515.<br> [code:[ydwen/caffe-face](https://github.com/ydwen/caffe-face)]
+- 【OpenFace】【Pipelines】Amos B, Ludwiczuk B, Satyanarayanan M. [Openface: A general-purpose face recognition library with mobile applications](https://cmusatyalab.github.io/openface/)[J]. CMU School of Computer Science, 2016.<br>[paper:[bakup](http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf)]
+- 【Center Face】【Center loss】Wen Y, Zhang K, Li Z, et al. [A discriminative feature learning approach for deep face recognition](http://ydwen.github.io/papers/WenECCV16.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2016: 499-515.<br> [code:[ydwen/caffe-face](https://github.com/ydwen/caffe-face); [pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)]
 - 【MegaFace】Kemelmacher-Shlizerman I, Seitz S M, Miller D, et al. [The megaface benchmark: 1 million faces for recognition at scale](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4873-4882.
 - Amir Rosenfeld, Shimon Ullman .[Face-space Action Recognition by Face-Object Interactions](https://arxiv.org/pdf/1601.04293) .[J] arXiv preprint arXiv:1601.04293.
 - M. Saquib Sarfraz, Rainer Stiefelhagen .[Deep Perceptual Mapping for Cross-Modal Face Recognition](https://arxiv.org/pdf/1601.05347) .[J] arXiv preprint arXiv:1601.05347.
@@ -498,16 +498,17 @@ also, some papers and links collected from:
 - Jose Lezama, Qiang Qiu, Guillermo Sapiro .[Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-spectral  Hallucination and Low-rank Embedding](https://arxiv.org/pdf/1611.06638) .[J] arXiv preprint arXiv:1611.06638.
 - Junyu Wu, Shengyong Ding, Wei Xu, Hongyang Chao .[Deep Joint Face Hallucination and Recognition](https://arxiv.org/pdf/1611.08091) .[J] arXiv preprint arXiv:1611.08091.
 - Shengyong Ding, Junyu Wu, Wei Xu, Hongyang Chao .[Automatically Building Face Datasets of New Domains from Weakly Labeled  Data with Pretrained Models](https://arxiv.org/pdf/1611.08107) .[J] arXiv preprint arXiv:1611.08107.
-- 【Range loss】Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao .[Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/pdf/1611.08976) .[J] arXiv preprint arXiv:1611.08976.
+- 【Range loss】Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao .[Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/pdf/1611.08976) .[J] arXiv preprint arXiv:1611.08976.<br>[code: [Charrin/RangeLoss-Caffe](https://github.com/Charrin/RangeLoss-Caffe)]
 - Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis .[Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/pdf/1611.09577) .[J] arXiv preprint arXiv:1611.09577.
 - Guido Borghi, Marco Venturelli, Roberto Vezzani, Rita Cucchiara .[POSEidon: Face-from-Depth for Driver Pose Estimation](https://arxiv.org/pdf/1611.10195) .[J] arXiv preprint arXiv:1611.10195.
 - Viet-Hang Duong, Yuan-Shan Lee, Bach-Tung Pham, Seksan Mathulaprangsan, Pham The Bao, Jia-Ching Wang .[Complex Matrix Factorization for Face Recognition](https://arxiv.org/pdf/1612.02513) .[J] arXiv preprint arXiv:1612.02513.
 - Wei Shen, Rujie Liu .[Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/pdf/1612.05363) .[J] arXiv preprint arXiv:1612.05363.
 - Fang Zhao, Jiashi Feng, Jian Zhao, Wenhan Yang, Shuicheng Yan .[Robust LSTM-Autoencoders for Face De-Occlusion in the Wild](https://arxiv.org/pdf/1612.08534) .[J] arXiv preprint arXiv:1612.08534.
 - Zhen-Hua Feng, Josef Kittler, William Christmas, Xiao-Jun Wu .[A Unified Tensor-based Active Appearance Face Model](https://arxiv.org/pdf/1612.09548) .[J] arXiv preprint arXiv:1612.09548.
-- 【L-Softmax loss】Liu W, Wen Y, Yu Z, et al. [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/pdf/1612.02295.pdf)[C]//ICML. 2016: 507-516.<br>[code:[wy1iu/LargeMargin_Softmax_Loss](https://github.com/wy1iu/LargeMargin_Softmax_Loss)]
+- 【L-Softmax loss】Liu W, Wen Y, Yu Z, et al. [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/pdf/1612.02295.pdf)[C]//ICML. 2016: 507-516.<br>[code:[wy1iu/LargeMargin_Softmax_Loss](https://github.com/wy1iu/LargeMargin_Softmax_Loss);[luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)]
 
 ### 2017
+- 【Marginal loss】Deng J, Zhou Y, Zafeiriou S. [Marginal loss for deep face recognition](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Deng_Marginal_Loss_for_CVPR_2017_paper.pdf)[C]//Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPRW), Faces “in-the-wild” Workshop/Challenge. 2017, 4(6).
 - Yuanyi Zhong, Jiansheng Chen, Bo Huang .[Towards End-to-End Face Recognition through Alignment Learning](https://arxiv.org/pdf/1701.07174) .[J] arXiv preprint arXiv:1701.07174.
 - Olasimbo Ayodeji Arigbabu, Sharifah Mumtazah Syed Ahmad, Wan Azizun Wan Adnan, Salman Yussof, Saif Mahmood .[Soft Biometrics: Gender Recognition from Unconstrained Face Images using  Local Feature Descriptor](https://arxiv.org/pdf/1702.02537) .[J] arXiv preprint arXiv:1702.02537.
 - Xi Peng, Xiang Yu, Kihyuk Sohn, Dimitris Metaxas, Manmohan Chandraker .[Reconstruction-Based Disentanglement for Pose-invariant Face Recognition](https://arxiv.org/pdf/1702.03041) .[J] arXiv preprint arXiv:1702.03041.
@@ -574,6 +575,7 @@ also, some papers and links collected from:
 - Jiankang Deng, Shiyang Cheng, Niannan Xue, Yuxiang Zhou, Stefanos Zafeiriou .[UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face  Recognition](https://arxiv.org/pdf/1712.04695) .[J] arXiv preprint arXiv:1712.04695.
 
 ### 2018
+- 【others】Han C, Shan S, Kan M, et al. [Face recognition with contrastive convolution](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chunrui_Han_Face_Recognition_with_ECCV_2018_paper.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2018: 120-135.
 - Mahmood Sharif, Sruti Bhagavatula, Lujo Bauer, Michael K. Reiter .[Adversarial Generative Nets: Neural Network Attacks on State-of-the-Art  Face Recognition](https://arxiv.org/pdf/1801.00349) .[J] arXiv preprint arXiv:1801.00349.
 - Seyed Mehdi Iranmanesh, Ali Dabouei, Hadi Kazemi, Nasser M. Nasrabadi .[Deep Cross Polarimetric Thermal-to-visible Face Recognition](https://arxiv.org/pdf/1801.01486) .[J] arXiv preprint arXiv:1801.01486.
 - Fania Mokhayeri, Eric Granger, Guillaume-Alexandre Bilodeau .[Domain-Specific Face Synthesis for Video Face Recognition from a Single  Sample Per Person](https://arxiv.org/pdf/1801.01974) .[J] arXiv preprint arXiv:1801.01974.
@@ -629,7 +631,7 @@ also, some papers and links collected from:
 - Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy .[The Devil of Face Recognition is in the Noise](https://arxiv.org/pdf/1807.11649) .[J] arXiv preprint arXiv:1807.11649.
 - Seyed Mehdi Iranmanesh, Hadi Kazemi, Sobhan Soleymani, Ali Dabouei, Nasser M. Nasrabadi .[Deep Sketch-Photo Face Recognition Assisted by Facial Attributes](https://arxiv.org/pdf/1808.00059) .[J] arXiv preprint arXiv:1808.00059.
 - Sheng Chen, Jia Guo, Yang Liu, Xiang Gao, Zhen Han .[Global Norm-Aware Pooling for Pose-Robust Face Recognition at Low False  Positive Rate](https://arxiv.org/pdf/1808.00435) .[J] arXiv preprint arXiv:1808.00435.
-- Bong-Nam Kang, Yonghyun Kim, Daijin Kim .[Pairwise Relational Networks for Face Recognition](https://arxiv.org/pdf/1808.04976) .[J] arXiv preprint arXiv:1808.04976.
+- 【Pairwise Relation Network】Bong-Nam Kang, Yonghyun Kim, Daijin Kim .[Pairwise Relational Networks for Face Recognition](https://arxiv.org/pdf/1808.04976) .[J] arXiv preprint arXiv:1808.04976.
 - Jian Zhao, Yu Cheng, Yi Cheng, Yang Yang, Haochong Lan, Fang Zhao, Lin Xiong, Yan Xu, Jianshu Li, Sugiri Pranata, Shengmei Shen, Junliang Xing, Hengzhu Liu, Shuicheng Yan, Jiashi Feng .[Look Across Elapse: Disentangled Representation Learning and  Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition](https://arxiv.org/pdf/1809.00338) .[J] arXiv preprint arXiv:1809.00338.
 - Xiaohang Zhan, Ziwei Liu, Junjie Yan, Dahua Lin, Chen Change Loy .[Consensus-Driven Propagation in Massive Unlabeled Data for Face  Recognition](https://arxiv.org/pdf/1809.01407) .[J] arXiv preprint arXiv:1809.01407.
 - Xiang Wu, Huaibo Huang, Vishal M. Patel, Ran He, Zhenan Sun .[Disentangled Variational Representation for Heterogeneous Face  Recognition](https://arxiv.org/pdf/1809.01936) .[J] arXiv preprint arXiv:1809.01936.
@@ -691,6 +693,64 @@ also, some papers and links collected from:
 ---
 ## Face Generation && Face Synthesis
 
+### 2010
+- Santanu Halder, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu, Mahantapas Kundu .[Face Synthesis (FASY) System for Generation of a Face Image from Human  Description](https://arxiv.org/pdf/1005.04034) .[J] arXiv preprint arXiv:1005.04034.
+- Santanu Halder, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu, Mahantapas Kundu .[Face Synthesis (FASY) System for Determining the Characteristics of a  Face Image](https://arxiv.org/pdf/1007.00618) .[J] arXiv preprint arXiv:1007.00618.
+
+### 2013
+- Shraddha S. Shinde, Prof. Anagha P. Khedkar .[A Novel Scheme for Generating Secure Face Templates Using BDA](https://arxiv.org/pdf/1312.07511) .[J] arXiv preprint arXiv:1312.07511.
+
+### 2014
+- Shraddha S. Shinde, Prof. Anagha P. Khedkar .[A Novel Approach For Generating Face Template Using Bda](https://arxiv.org/pdf/1401.00092) .[J] arXiv preprint arXiv:1401.00092.
+
+### 2015
+- Xu Yang .[Face Photo Sketch Synthesis via Larger Patch and Multiresolution Spline](https://arxiv.org/pdf/1509.05897) .[J] arXiv preprint arXiv:1509.05897.
+
+### 2016
+- Mu Li, Wangmeng Zuo, David Zhang .[Convolutional Network for Attribute-driven and Identity-preserving Human  Face Generation](https://arxiv.org/pdf/1608.06434) .[J] arXiv preprint arXiv:1608.06434.
+
+### 2017
+- 【DR-GAN】Tran L, Yin X, Liu X. [Disentangled representation learning gan for pose-invariant face recognition](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)[C]//CVPR. 2017, 3(6): 7.
+- Hardie Cate, Fahim Dalvi, Zeshan Hussain .[DeepFace: Face Generation using Deep Learning](https://arxiv.org/pdf/1701.01876) .[J] arXiv preprint arXiv:1701.01876.
+- Nannan Wang, Xinbo Gao, Jie Li .[Random Sampling for Fast Face Sketch Synthesis](https://arxiv.org/pdf/1701.01911) .[J] arXiv preprint arXiv:1701.01911.
+- Grigory Antipov, Moez Baccouche, Jean-Luc Dugelay .[Face Aging With Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1702.01983) .[J] arXiv preprint arXiv:1702.01983.
+- Qi Guo, Ce Zhu, Zhiqiang Xia, Zhengtao Wang, Yipeng Liu .[Attribute-controlled face photo synthesis from simple line drawing](https://arxiv.org/pdf/1702.02805) .[J] arXiv preprint arXiv:1702.02805.
+- 【BEGAN】Berthelot D, Schumm T, Metz L. [BEGAN: boundary equilibrium generative adversarial networks](https://arxiv.org/abs/1703.10717)[J]. arXiv preprint arXiv:1703.10717, 2017.
+- 【TP-GAN】Rui Huang, Shu Zhang, Tianyu Li, Ran He .[Beyond Face Rotation: Global and Local Perception GAN for Photorealistic  and Identity Preserving Frontal View Synthesis](https://arxiv.org/pdf/1704.04086) .[J] arXiv preprint arXiv:1704.04086.
+- Yijun Li, Sifei Liu, Jimei Yang, Ming-Hsuan Yang .[Generative Face Completion](https://arxiv.org/pdf/1704.05838) .[J] arXiv preprint arXiv:1704.05838.
+- 【FF-GAN】Yin X, Yu X, Sohn K, et al. [Towards large-pose face frontalization in the wild](https://arxiv.org/abs/1704.06244)[C]//Proc. ICCV. 2017: 1-10.
+- Sandipan Banerjee, John S. Bernhard, Walter J. Scheirer, Kevin W. Bowyer, Patrick J. Flynn .[SREFI: Synthesis of Realistic Example Face Images](https://arxiv.org/pdf/1704.06693) .[J] arXiv preprint arXiv:1704.06693.
+- Yongyi Lu, Yu-Wing Tai, Chi-Keung Tang .[Conditional CycleGAN for Attribute Guided Face Image Generation](https://arxiv.org/pdf/1705.09966) .[J] arXiv preprint arXiv:1705.09966.
+- Yang Song, Zhifei Zhang, Hairong Qi .[r-BTN: Cross-domain Face Composite and Synthesis from Limited Facial  Patches](https://arxiv.org/pdf/1706.00556) .[J] arXiv preprint arXiv:1706.00556.
+- Zhigang Li, Yupin Luo .[Generate Identity-Preserving Faces by Generative Adversarial Networks](https://arxiv.org/pdf/1706.03227) .[J] arXiv preprint arXiv:1706.03227.
+- Zhihe Lu, Zhihang Li, Jie Cao, Ran He, Zhenan Sun .[Recent Progress of Face Image Synthesis](https://arxiv.org/pdf/1706.04717) .[J] arXiv preprint arXiv:1706.04717.
+- Huang Bin, Chen Weihai, Wu Xingming, Lin Chun-Liang .[High-Quality Face Image SR Using Conditional Generative Adversarial  Networks](https://arxiv.org/pdf/1707.00737) .[J] arXiv preprint arXiv:1707.00737.
+- Sumit Shekhar, Vishal M. Patel, Rama Chellappa .[Synthesis-based Robust Low Resolution Face Recognition](https://arxiv.org/pdf/1707.02733) .[J] arXiv preprint arXiv:1707.02733.
+- Yibing Song, Jiawei Zhang, Linchao Bao, Qingxiong Yang .[Fast Preprocessing for Robust Face Sketch Synthesis](https://arxiv.org/pdf/1708.00224) .[J] arXiv preprint arXiv:1708.00224.
+- Behnaz Nojavanasghari, Charles. E. Hughes, Tadas Baltrusaitis, Louis-philippe Morency .[Hand2Face: Automatic Synthesis and Recognition of Hand Over Face  Occlusions](https://arxiv.org/pdf/1708.00370) .[J] arXiv preprint arXiv:1708.00370.
+- He Zhang, Vishal M. Patel, Benjamin S. Riggan, Shuowen Hu .[Generative Adversarial Network-based Synthesis of Visible Faces from  Polarimetric Thermal Faces](https://arxiv.org/pdf/1708.02681) .[J] arXiv preprint arXiv:1708.02681.
+
+### 2018
+- Xing Di, Vishal M. Patel .[Face Synthesis from Visual Attributes via Sketch using Conditional VAEs  and GANs](https://arxiv.org/pdf/1801.00077) .[J] arXiv preprint arXiv:1801.00077.
+- Fania Mokhayeri, Eric Granger, Guillaume-Alexandre Bilodeau .[Domain-Specific Face Synthesis for Video Face Recognition from a Single  Sample Per Person](https://arxiv.org/pdf/1801.01974) .[J] arXiv preprint arXiv:1801.01974.
+- Shabab Bazrafkan, Hossein Javidnia, Peter Corcoran .[Face Synthesis with Landmark Points from Generative Adversarial Networks  and Inverse Latent Space Mapping](https://arxiv.org/pdf/1802.00390) .[J] arXiv preprint arXiv:1802.00390.
+- Jie Cao, Yibo Hu, Bing Yu, Ran He, Zhenan Sun .[Load Balanced GANs for Multi-view Face Image Synthesis](https://arxiv.org/pdf/1802.07447) .[J] arXiv preprint arXiv:1802.07447.
+- Sefik Emre Eskimez, Ross K Maddox, Chenliang Xu, Zhiyao Duan .[Generating Talking Face Landmarks from Speech](https://arxiv.org/pdf/1803.09803) .[J] arXiv preprint arXiv:1803.09803.
+- Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, Gang Hua .[Towards Open-Set Identity Preserving Face Synthesis](https://arxiv.org/pdf/1803.11182) .[J] arXiv preprint arXiv:1803.11182.
+- Deng-Ping Fan, ShengChuan Zhang, Yu-Huan Wu, Ming-Ming Cheng, Bo Ren, Rongrong Ji, Paul L Rosin .[Face Sketch Synthesis Style Similarity:A New Structure Co-occurrence  Texture Measure](https://arxiv.org/pdf/1804.02975) .[J] arXiv preprint arXiv:1804.02975.
+- Baris Gecer, Binod Bhattarai, Josef Kittler, Tae-Kyun Kim .[Semi-supervised Adversarial Learning to Generate Photorealistic Face  Images of New Identities from 3D Morphable Model](https://arxiv.org/pdf/1804.03675) .[J] arXiv preprint arXiv:1804.03675.
+- Yang Song, Jingwen Zhu, Xiaolong Wang, Hairong Qi .[Talking Face Generation by Conditional Recurrent Adversarial Network](https://arxiv.org/pdf/1804.04786) .[J] arXiv preprint arXiv:1804.04786.
+- Jianzhu Guo, Xiangyu Zhu, Zhen Lei, Stan Z. Li .[Face Synthesis for Eyeglass-Robust Face Recognition](https://arxiv.org/pdf/1806.01196) .[J] arXiv preprint arXiv:1806.01196.
+- Evgeny Izutov .[High Diversity Attribute Guided Face Generation with GANs](https://arxiv.org/pdf/1806.10982) .[J] arXiv preprint arXiv:1806.10982.
+- Kyungjune Baek, Duhyeon Bang, Hyunjung Shim .[Editable Generative Adversarial Networks: Generating and Editing Faces  Simultaneously](https://arxiv.org/pdf/1807.07700) .[J] arXiv preprint arXiv:1807.07700.
+- Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang .[Talking Face Generation by Adversarially Disentangled Audio-Visual  Representation](https://arxiv.org/pdf/1807.07860) .[J] arXiv preprint arXiv:1807.07860.
+- Christopher Thomas, Adriana Kovashka .[Persuasive Faces: Generating Faces in Advertisements](https://arxiv.org/pdf/1807.09882) .[J] arXiv preprint arXiv:1807.09882.
+- Anurag Ranjan, Timo Bolkart, Soubhik Sanyal, Michael J. Black .[Generating 3D faces using Convolutional Mesh Autoencoders](https://arxiv.org/pdf/1807.10267) .[J] arXiv preprint arXiv:1807.10267.
+- Olivia Wiles, A. Sophia Koepke, Andrew Zisserman .[X2Face: A network for controlling face generation by using images,  audio, and pose codes](https://arxiv.org/pdf/1807.10550) .[J] arXiv preprint arXiv:1807.10550.
+- Jian Zhao, Yu Cheng, Yi Cheng, Yang Yang, Haochong Lan, Fang Zhao, Lin Xiong, Yan Xu, Jianshu Li, Sugiri Pranata, Shengmei Shen, Junliang Xing, Hengzhu Liu, Shuicheng Yan, Jiashi Feng .[Look Across Elapse: Disentangled Representation Learning and  Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition](https://arxiv.org/pdf/1809.00338) .[J] arXiv preprint arXiv:1809.00338.
+- Yunfan Liu, Qi Li, Zhenan Sun .[Attribute Enhanced Face Aging with Wavelet-based Generative Adversarial  Networks](https://arxiv.org/pdf/1809.06647) .[J] arXiv preprint arXiv:1809.06647.
+- Yining Lang, Wei Liang, Yujia Wang, Lap-Fai Yu .[3D Face Synthesis Driven by Personality Impression](https://arxiv.org/pdf/1809.10402) .[J] arXiv preprint arXiv:1809.10402.
+
 ---
 ## Face Transfer
 
@@ -700,6 +760,9 @@ also, some papers and links collected from:
 ---
 ## Face Retrieval
 
+---
+## Piplines
+- [seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)
 ---
 ## DataSets
 > * **2D face recognition**   
