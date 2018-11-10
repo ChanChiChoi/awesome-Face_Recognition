@@ -6,9 +6,9 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **Face Reconstruction**;   
 Face Tracking;   
 Face Super-Resolution && Face Deblurring;   
-Face Generation && Face Synthesis;   
+> * **Face Generation && Face Synthesis**;   
 Face Transfer;   
-Face Anti-Spoofing;   
+> * **Face Anti-Spoofing**;   
 > * **Face Retrieval**;     
 
 also, some papers and links collected from:
@@ -709,16 +709,42 @@ also, some papers and links collected from:
 - Nikolai Chinaev, Alexander Chigorin, Ivan Laptev .[MobileFace: 3D Face Reconstruction with Efficient CNN Regression](https://arxiv.org/pdf/1809.08809) .[J] arXiv preprint arXiv:1809.08809.
 - Rufin VanRullen, Leila Reddy .[Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks](https://arxiv.org/pdf/1810.03856) .[J] arXiv preprint arXiv:1810.03856.
 
-
 ---
 ## Face Tracking
+- E.R. Gast, Michael S. Lew .[A Framework for Real-Time Face and Facial Feature Tracking using Optical  Flow Pre-estimation and Template Tracking](https://arxiv.org/pdf/1101.00237) .[J] arXiv preprint arXiv:1101.00237.
+- Chloë Brown, Christos Efstratiou, Ilias Leontiadis, Daniele Quercia, Cecilia Mascolo, James Scott, Peter Key .[The architecture of innovation: Tracking face-to-face interactions with  ubicomp technologies](https://arxiv.org/pdf/1406.06829) .[J] arXiv preprint arXiv:1406.06829.
+- Narmada Naik, G.N Rathna .[Robust real time face recognition and tracking on gpu using fusion of  rgb and depth image](https://arxiv.org/pdf/1504.01883) .[J] arXiv preprint arXiv:1504.01883.
+- Tapan Pradhan, Aurobinda Routray, Bibek Kabi .[Comparative Evaluation of Symmetric SVD Algorithms for Real-time Face  and Eye Tracking](https://arxiv.org/pdf/1505.05840) .[J] arXiv preprint arXiv:1505.05840.
+- Hai X. Pham, Chongyu Chen, Luc N. Dao, Vladimir Pavlovic, Jianfei Cai, Tat-jen Cham .[Robust Performance-driven 3D Face Tracking in Long Range Depth Scenes](https://arxiv.org/pdf/1507.02779) .[J] arXiv preprint arXiv:1507.02779.
+- Maedeh Aghaei, Mariella Dimiccoli, Petia Radeva .[Multi-Face Tracking by Extended Bag-of-Tracklets in Egocentric Videos](https://arxiv.org/pdf/1507.04576) .[J] arXiv preprint arXiv:1507.04576.
+- Grigorios G. Chrysos, Epameinondas Antonakos, Patrick Snape, Akshay Asthana, Stefanos Zafeiriou .[A Comprehensive Performance Evaluation of Deformable Face Tracking  "In-the-Wild"](https://arxiv.org/pdf/1603.06015) .[J] arXiv preprint arXiv:1603.06015.
+- Patrik Huber, Philipp Kopp, Matthias Rätsch, William Christmas, Josef Kittler .[3D Face Tracking and Texture Fusion in the Wild](https://arxiv.org/pdf/1605.06764) .[J] arXiv preprint arXiv:1605.06764.
+- Enrique Snchez-Lozano, Brais Martinez, Georgios Tzimiropoulos, Michel Valstar .[Cascaded Continuous Regression for Real-time Incremental Face Tracking](https://arxiv.org/pdf/1608.01137) .[J] arXiv preprint arXiv:1608.01137.
+- Tanushri Chakravorty, Guillaume-Alexandre Bilodeau, Eric Granger .[Robust Face Tracking using Multiple Appearance Models and Graph  Relational Learning](https://arxiv.org/pdf/1706.09806) .[J] arXiv preprint arXiv:1706.09806.
+- Huaxiong Ding, Liming Chen .[Densely tracking sequences of 3D face scans](https://arxiv.org/pdf/1709.04295) .[J] arXiv preprint arXiv:1709.04295.
+- Yue Wu, Zuoguan Wang, Qiang Ji .[Facial Feature Tracking under Varying Facial Expressions and Face Poses  based on Restricted Boltzmann Machines](https://arxiv.org/pdf/1709.05731) .[J] arXiv preprint arXiv:1709.05731.
+- Hanbyul Joo, Tomas Simon, Yaser Sheikh .[Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and  Bodies](https://arxiv.org/pdf/1801.01615) .[J] arXiv preprint arXiv:1801.01615.
+- Gregor Lenz, Sio-Hoi Ieng, Ryad Benosman .[Event-based Dynamic Face Detection and Tracking Based on Activity](https://arxiv.org/pdf/1803.10106) .[J] arXiv preprint arXiv:1803.10106.
+- Kunlei Zhang, Elaheh Rashedi, Elaheh Barati, Xue-wen Chen .[Long-term face tracking in the wild using deep learning](https://arxiv.org/pdf/1805.07646) .[J] arXiv preprint arXiv:1805.07646.
+- Yiming Lin, Jie Shen, Shiyang Cheng, Maja Pantic .[Mobile Face Tracking: A Survey and Benchmark](https://arxiv.org/pdf/1805.09749) .[J] arXiv preprint arXiv:1805.09749.
+- Meng Shen, Zelin Liao, Liehuang Zhu, Rashid Mijumbi, Xiaojiang Du, Jiankun Hu .[IriTrack: Liveness Detection Using Irises Tracking for Preventing Face Spoofing Attacks](https://arxiv.org/pdf/1810.03323) .[J] arXiv preprint arXiv:1810.03323.
 
 ---
-## Face Super-Resolution
+## Face Super-Resolution && Face Deblurring
+- Shanjun Mao, Yiping Zhang, Zhihong Zhang, Da Zhou .[A Boosting Method to Face Image Super-resolution](https://arxiv.org/pdf/1609.01805) .[J] arXiv preprint arXiv:1609.01805.
+- Grigorios G. Chrysos, Stefanos Zafeiriou .[Deep Face Deblurring](https://arxiv.org/pdf/1704.08772) .[J] arXiv preprint arXiv:1704.08772.
+- Zhimin Chen, Yuguang Tong .[Face Super-Resolution Through Wasserstein GANs](https://arxiv.org/pdf/1705.02438) .[J] arXiv preprint arXiv:1705.02438.
+- E. Ustinova, V. Lempitsky .[Deep multi-frame face super-resolution](https://arxiv.org/pdf/1709.03196) .[J] arXiv preprint arXiv:1709.03196.
+- Lingxiao Wang, Yali Li, Shengjin Wang .[DeepDeblur: Fast one-step blurry face images restoration](https://arxiv.org/pdf/1711.09515) .[J] arXiv preprint arXiv:1711.09515.
+- Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, Jian Yang .[FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](https://arxiv.org/pdf/1711.10703) .[J] arXiv preprint arXiv:1711.10703.
+- Adrian Bulat, Georgios Tzimiropoulos .[Super-FAN: Integrated facial landmark localization and super-resolution  of real-world low resolution faces in arbitrary poses with GANs](https://arxiv.org/pdf/1712.02765) .[J] arXiv preprint arXiv:1712.02765.
+-  .[Motion deblurring of faces](https://arxiv.org/pdf/1803.03330) .[J] arXiv preprint arXiv:1803.03330.
+-  .[Deep Semantic Face Deblurring](https://arxiv.org/pdf/1803.03345) .[J] arXiv preprint arXiv:1803.03345.
+- Klemen Grm, Simon Dobrišek, Walter J. Scheirer, Vitomir Štruc .[Face hallucination using cascaded super-resolution and identity priors](https://arxiv.org/pdf/1805.10938) .[J] arXiv preprint arXiv:1805.10938.
+
 
 ---
 ## Face Generation && Face Synthesis
-
 ### 2010
 - Santanu Halder, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu, Mahantapas Kundu .[Face Synthesis (FASY) System for Generation of a Face Image from Human  Description](https://arxiv.org/pdf/1005.04034) .[J] arXiv preprint arXiv:1005.04034.
 - Santanu Halder, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu, Mahantapas Kundu .[Face Synthesis (FASY) System for Determining the Characteristics of a  Face Image](https://arxiv.org/pdf/1007.00618) .[J] arXiv preprint arXiv:1007.00618.
@@ -779,9 +805,17 @@ also, some papers and links collected from:
 
 ---
 ## Face Transfer
+- Long Zhao, Fangda Han, Mubbasir Kapadia, Vladimir Pavlovic, Dimitris Metaxas .[Sketch-based Face Editing in Video Using Identity Deformation Transfer](https://arxiv.org/pdf/1703.08738) .[J] arXiv preprint arXiv:1703.08738.
+- Runze Xu, Zhiming Zhou, Weinan Zhang, Yong Yu .[Face Transfer with Generative Adversarial Network](https://arxiv.org/pdf/1710.06090) .[J] arXiv preprint arXiv:1710.06090.
+- Taihong Xiao, Jiapeng Hong, Jinwen Ma .[ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple  Face Attributes](https://arxiv.org/pdf/1803.10562) .[J] arXiv preprint arXiv:1803.10562.
+- Wayne Wu, Yunxuan Zhang, Cheng Li, Chen Qian, Chen Change Loy .[ReenactGAN: Learning to Reenact Faces via Boundary Transfer](https://arxiv.org/pdf/1807.11079) .[J] arXiv preprint arXiv:1807.11079.
 
 ---
 ## Face Anti-Spoofing
+- Jianwei Yang, Zhen Lei, Stan Z. Li .[Learn Convolutional Neural Network for Face Anti-Spoofing](https://arxiv.org/pdf/1408.05601) .[J] arXiv preprint arXiv:1408.05601.
+- Zinelabidine Boulkenafet, Jukka Komulainen, Abdenour Hadid .[face anti-spoofing based on color texture analysis](https://arxiv.org/pdf/1511.06316) .[J] arXiv preprint arXiv:1511.06316.
+- Yaojie Liu, Amin Jourabloo, Xiaoming Liu .[Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary  Supervision](https://arxiv.org/pdf/1803.11097) .[J] arXiv preprint arXiv:1803.11097.
+- Amin Jourabloo, Yaojie Liu, Xiaoming Liu .[Face De-Spoofing: Anti-Spoofing via Noise Modeling](https://arxiv.org/pdf/1807.09968) .[J] arXiv preprint arXiv:1807.09968.
 
 ---
 ## Face Retrieval
