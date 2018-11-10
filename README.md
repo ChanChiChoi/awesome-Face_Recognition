@@ -1,6 +1,6 @@
 # awesome-Face_Recognition   
 this collecting the papers (main from arxiv.org) about bellow themes:  
-> * **Face Detection**;   
+> * **[Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection)**;   
 > * **Face Alignment**;   
 > * **Face Recognition && Face Identification && Face Verification && Face Representation**;  
 > * **Face Reconstruction**;   
