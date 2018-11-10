@@ -7,7 +7,7 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **Face Tracking**;   
 > * **Face Super-Resolution && Face Deblurring**;   
 > * **Face Generation && Face Synthesis**;   
-> * **Face Transfer**;   
+> * **Face Transfer && Face swapping**;   
 > * **Face Anti-Spoofing**;   
 > * **Face Retrieval**;     
 
@@ -809,6 +809,12 @@ also, some papers and links collected from:
 - Runze Xu, Zhiming Zhou, Weinan Zhang, Yong Yu .[Face Transfer with Generative Adversarial Network](https://arxiv.org/pdf/1710.06090) .[J] arXiv preprint arXiv:1710.06090.
 - Taihong Xiao, Jiapeng Hong, Jinwen Ma .[ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple  Face Attributes](https://arxiv.org/pdf/1803.10562) .[J] arXiv preprint arXiv:1803.10562.
 - Wayne Wu, Yunxuan Zhang, Cheng Li, Chen Qian, Chen Change Loy .[ReenactGAN: Learning to Reenact Faces via Boundary Transfer](https://arxiv.org/pdf/1807.11079) .[J] arXiv preprint arXiv:1807.11079.
+
+## Face Swapping
+- Sao Mai Nguyen (INRIA Bordeaux - Sud-Ouest), Masaki Ogino, Minoru Asada .[Real-time face swapping as a tool for understanding infant  self-recognition](https://arxiv.org/pdf/1112.02095) .[J] arXiv preprint arXiv:1112.02095.
+- Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis .[Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/pdf/1611.09577) .[J] arXiv preprint arXiv:1611.09577.
+- Yuval Nirkin, Iacopo Masi, Anh Tuan Tran, Tal Hassner, Gerard Medioni .[On Face Segmentation, Face Swapping, and Face Perception](https://arxiv.org/pdf/1704.06729) .[J] arXiv preprint arXiv:1704.06729.
+- Ryota Natsume, Tatsuya Yatagawa, Shigeo Morishima .[RSGAN: Face Swapping and Editing using Face and Hair Representation in  Latent Spaces](https://arxiv.org/pdf/1804.03447) .[J] arXiv preprint arXiv:1804.03447.
 
 ---
 ## Face Anti-Spoofing
