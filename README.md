@@ -1,15 +1,16 @@
 # awesome-Face_Recognition   
 this collecting the papers (main from arxiv.org) about bellow themes:  
 > * **[Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection)**;   
-> * **Face Alignment**;   
-> * **Face Recognition && Face Identification && Face Verification && Face Representation**;  
-> * **Face Reconstruction**;   
-> * **Face Tracking**;   
-> * **Face Super-Resolution && Face Deblurring**;   
-> * **Face Generation && Face Synthesis**;   
-> * **Face Transfer && Face swapping**;   
-> * **Face Anti-Spoofing**;   
-> * **Face Retrieval**;     
+> * **[Face Alignment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment)**;   
+> * **[Face Recognition && Face Identification && Face Verification && Face Representation](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition)**;  
+> * **[Face Reconstruction](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction)**;   
+> * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking)**;   
+> * **[Face Super-Resolution && Face Deblurring](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring)**;   
+> * **[Face Generation && Face Synthesis](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis)**;   
+> * **[Face Transfer](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer) && Face swapping**;   
+> * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing)**;   
+> * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
+> * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets)**
 
 also, some papers and links collected from:
 - [1] [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face)  
