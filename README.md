@@ -19,8 +19,11 @@ also, some papers and links collected from:
 - [5] [shaoxiaohu/CVPR2016](https://github.com/shaoxiaohu/CVPR2016)
 - [6] [zhanglaplace/PaperPaper](https://github.com/zhanglaplace/PaperPaper)
 - [7] [gdshen/paper_notes](https://github.com/gdshen/paper_notes)
-
-
+ [8] [lcybuzz/Personal-Face-Related-Paper-Record](https://github.com/lcybuzz/Personal-Face-Related-Paper-Record)
+ [9] [betars/Face-Resources](https://github.com/betars/Face-Resources)
+ [10] [xuewengeophysics/Awesome-Face-Recognition](https://github.com/xuewengeophysics/Awesome-Face-Recognition)
+ [11] [face-rec.org/Video-Based Face Recognition Algorithms](http://www.face-rec.org/algorithms/#Video)
+ 
 ---
 ## Face Detection
 
