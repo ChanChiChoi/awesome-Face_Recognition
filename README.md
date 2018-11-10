@@ -111,7 +111,7 @@ also, some papers and links collected from:
 - 【SSH】Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .[SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979) .[J] arXiv preprint arXiv:1708.03979.<br>[code:[mahyarnajibi/SSH](https://github.com/mahyarnajibi/SSH)]
 - Nataniel Ruiz, James M. Rehg .[Dockerface: an Easy to Install and Use Faster R-CNN Face Detector in a  Docker Container](https://arxiv.org/pdf/1708.04370) .[J] arXiv preprint arXiv:1708.04370.
 - 【FaceBoxes】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/pdf/1708.05234) .[J] arXiv preprint arXiv:1708.05234.<br>[code:[zeusees/FaceBoxes](https://github.com/zeusees/FaceBoxes)]
-- 【$S^3FD$】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[$S^3FD$: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237) .[J] arXiv preprint arXiv:1708.05237.
+- 【S^3FD】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[S^3FD: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237) .[J] arXiv preprint arXiv:1708.05237.
 - SouYoung Jin, Hang Su, Chris Stauffer, Erik Learned-Miller .[End-to-end Face Detection and Cast Grouping in Movies Using  Erdős-Rényi Clustering](https://arxiv.org/pdf/1709.02458) .[J] arXiv preprint arXiv:1709.02458.
 - Yujia Chen, Lingxiao Song, Ran He .[Masquer Hunter: Adversarial Occlusion-aware Face Detection](https://arxiv.org/pdf/1709.05188) .[J] arXiv preprint arXiv:1709.05188.
 - Yitong Wang, Xing Ji, Zheng Zhou, Hao Wang, Zhifeng Li .[Detecting Faces Using Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1709.05256) .[J] arXiv preprint arXiv:1709.05256.
@@ -644,6 +644,38 @@ also, some papers and links collected from:
 
 ---
 ## Face Reconstruction
+### 2015
+- Feng Liu, Dan Zeng, Jing Li, Qijun Zhao .[On 3D Face Reconstruction via Cascaded Regression in Shape Space](https://arxiv.org/pdf/1509.06161) .[J] arXiv preprint arXiv:1509.06161.
+
+### 2016
+- Elad Richardson, Matan Sela, Ron Kimmel .[3D Face Reconstruction by Learning from Synthetic Data](https://arxiv.org/pdf/1609.04387) .[J] arXiv preprint arXiv:1609.04387.
+- Elad Richardson, Matan Sela, Roy Or-El, Ron Kimmel .[Learning Detailed Face Reconstruction from a Single Image](https://arxiv.org/pdf/1611.05053) .[J] arXiv preprint arXiv:1611.05053.
+
+### 2017
+- Xi Peng, Xiang Yu, Kihyuk Sohn, Dimitris Metaxas, Manmohan Chandraker .[Reconstruction-Based Disentanglement for Pose-invariant Face Recognition](https://arxiv.org/pdf/1702.03041) .[J] arXiv preprint arXiv:1702.03041.
+- Luo Jiang, Juyong Zhang, Bailin Deng, Hao Li, Ligang Liu .[3D Face Reconstruction with Geometry Details from a Single Image](https://arxiv.org/pdf/1702.05619) .[J] arXiv preprint arXiv:1702.05619.
+- Guangcan Mai, Kai Cao, Pong C. Yuen, Anil K. Jain .[On the Reconstruction of Deep Face Templates](https://arxiv.org/pdf/1703.00832) .[J] arXiv preprint arXiv:1703.00832.
+- Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou, Georgios Tzimiropoulos .[Large Pose 3D Face Reconstruction from a Single Image via Direct  Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834) .[J] arXiv preprint arXiv:1703.07834.
+- Ayush Tewari, Michael Zollhöfer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Pérez, Christian Theobalt .[MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised  Monocular Reconstruction](https://arxiv.org/pdf/1703.10580) .[J] arXiv preprint arXiv:1703.10580.
+- Pengfei Dou, Shishir K. Shah, Ioannis A. Kakadiaris .[End-to-end 3D face reconstruction with deep neural networks](https://arxiv.org/pdf/1704.05020) .[J] arXiv preprint arXiv:1704.05020.
+- Yudong Guo, Juyong Zhang, Jianfei Cai, Boyi Jiang, Jianmin Zheng .[3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing  Photo-realistic Face Images](https://arxiv.org/pdf/1708.00980) .[J] arXiv preprint arXiv:1708.00980.
+- Feng Liu, Qijun Zhao, Xiaoming Liu, Dan Zeng .[Joint Face Alignment and 3D Face Reconstruction with Application to Face  Recognition](https://arxiv.org/pdf/1708.02734) .[J] arXiv preprint arXiv:1708.02734.
+- Mingtao Feng, Syed Zulqarnain Gilani, Yaonan Wang, Ajmal Mian .[3D Face Reconstruction from Light Field Images: A Model-free Approach](https://arxiv.org/pdf/1711.05953) .[J] arXiv preprint arXiv:1711.05953.
+- Xuan Cao, Zhang Chen, Anpei Chen, Xin Chen, Cen Wang, Jingyi Yu .[Sparse Photometric 3D Face Reconstruction Guided by Morphable Models](https://arxiv.org/pdf/1711.10870) .[J] arXiv preprint arXiv:1711.10870.
+- Giuseppe Sellaroli .[An algorithm to reconstruct convex polyhedra from their face normals and  areas](https://arxiv.org/pdf/1712.00825) .[J] arXiv preprint arXiv:1712.00825.
+- Ayush Tewari, Michael Zollhöfer, Pablo Garrido, Florian Bernard, Hyeongwoo Kim, Patrick Pérez, Christian Theobalt .[Self-supervised Multi-level Face Model Learning for Monocular  Reconstruction at over 250 Hz](https://arxiv.org/pdf/1712.02859) .[J] arXiv preprint arXiv:1712.02859.
+- Anh Tuan Tran, Tal Hassner, Iacopo Masi, Eran Paz, Yuval Nirkin, Gerard Medioni .[Extreme 3D Face Reconstruction: Seeing Through Occlusions](https://arxiv.org/pdf/1712.05083) .[J] arXiv preprint arXiv:1712.05083.
+- A.V. Vasev, M.A. Putyato, V.V. Preobrazhenskii .[Some aspects of diffracted waves formation at RHEED on a reconstructed  crystal face](https://arxiv.org/pdf/1712.05585) .[J] arXiv preprint arXiv:1712.05585.
+
+### 2018
+- Gholamreza Anbarjafari, Rain Eric Haamer, Iiris Lusi, Toomas Tikk, Lembit Valgma .[3D Face Reconstruction with Region Based Best Fit Blending Using Mobile  Phone for Virtual Reality Based Social Media](https://arxiv.org/pdf/1801.01089) .[J] arXiv preprint arXiv:1801.01089.
+-  .[Sample-Relaxed Two-Dimensional Color Principal Component Analysis for  Face Recognition and Image Reconstruction](https://arxiv.org/pdf/1803.03837) .[J] arXiv preprint arXiv:1803.03837.
+- Zhen-Hua Feng, Patrik Huber, Josef Kittler, Peter Hancock, Xiao-Jun Wu, Qijun Zhao, Paul Koppen, Matthias Rätsch .[Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild](https://arxiv.org/pdf/1803.05536) .[J] arXiv preprint arXiv:1803.05536.
+- Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, Xi Zhou .[Joint 3D Face Reconstruction and Dense Alignment with Position Map  Regression Network](https://arxiv.org/pdf/1803.07835) .[J] arXiv preprint arXiv:1803.07835.
+- Feng Liu, Ronghang Zhu, Dan Zeng, Qijun Zhao, Xiaoming Liu .[Disentangling Features in 3D Face Shapes for Joint Face Reconstruction  and Recognition](https://arxiv.org/pdf/1803.11366) .[J] arXiv preprint arXiv:1803.11366.
+- Nikolai Chinaev, Alexander Chigorin, Ivan Laptev .[MobileFace: 3D Face Reconstruction with Efficient CNN Regression](https://arxiv.org/pdf/1809.08809) .[J] arXiv preprint arXiv:1809.08809.
+- Rufin VanRullen, Leila Reddy .[Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks](https://arxiv.org/pdf/1810.03856) .[J] arXiv preprint arXiv:1810.03856.
+
 
 ---
 ## Face Tracking
