@@ -4,10 +4,10 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **Face Alignment**;   
 > * **Face Recognition && Face Identification && Face Verification && Face Representation**;  
 > * **Face Reconstruction**;   
-Face Tracking;   
-Face Super-Resolution && Face Deblurring;   
+> * **Face Tracking**;   
+> * **Face Super-Resolution && Face Deblurring**;   
 > * **Face Generation && Face Synthesis**;   
-Face Transfer;   
+> * **Face Transfer**;   
 > * **Face Anti-Spoofing**;   
 > * **Face Retrieval**;     
 
