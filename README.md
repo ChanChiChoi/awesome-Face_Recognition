@@ -497,6 +497,7 @@ also, some papers and links collected from:
 - Wei Shen, Rujie Liu .[Learning Residual Images for Face Attribute Manipulation](https://arxiv.org/pdf/1612.05363) .[J] arXiv preprint arXiv:1612.05363.
 - Fang Zhao, Jiashi Feng, Jian Zhao, Wenhan Yang, Shuicheng Yan .[Robust LSTM-Autoencoders for Face De-Occlusion in the Wild](https://arxiv.org/pdf/1612.08534) .[J] arXiv preprint arXiv:1612.08534.
 - Zhen-Hua Feng, Josef Kittler, William Christmas, Xiao-Jun Wu .[A Unified Tensor-based Active Appearance Face Model](https://arxiv.org/pdf/1612.09548) .[J] arXiv preprint arXiv:1612.09548.
+- 【L-Softmax loss】Liu W, Wen Y, Yu Z, et al. [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/pdf/1612.02295.pdf)[C]//ICML. 2016: 507-516.
 
 ### 2017
 - Yuanyi Zhong, Jiansheng Chen, Bo Huang .[Towards End-to-End Face Recognition through Alignment Learning](https://arxiv.org/pdf/1701.07174) .[J] arXiv preprint arXiv:1701.07174.
@@ -510,8 +511,10 @@ also, some papers and links collected from:
 - Jing Huo, Wenbin Li, Yinghuan Shi, Yang Gao, Hujun Yin .[WebCaricature: a benchmark for caricature face recognition](https://arxiv.org/pdf/1703.03230) .[J] arXiv preprint arXiv:1703.03230.
 - I Gede Pasek Suta Wijaya, Keiichi Uchimura, Gou Koutaki .[Multi-Pose Face Recognition Using Hybrid Face Features Descriptor](https://arxiv.org/pdf/1703.04062) .[J] arXiv preprint arXiv:1703.04062.
 - Homa Foroughi, Moein Shakeri, Nilanjan Ray, Hong Zhang .[Face Recognition using Multi-Modal Low-Rank Dictionary Learning](https://arxiv.org/pdf/1703.04853) .[J] arXiv preprint arXiv:1703.04853.
-- Abul Hasnat, Julien Bohné, Jonathan Milgram, Stéphane Gentric, Liming Chen .[DeepVisage: Making face recognition simple yet with powerful  generalization skills](https://arxiv.org/pdf/1703.08388) .[J] arXiv preprint arXiv:1703.08388.
+- 【Loss function】Abul Hasnat, Julien Bohné, Jonathan Milgram, Stéphane Gentric, Liming Chen .[DeepVisage: Making face recognition simple yet with powerful  generalization skills](https://arxiv.org/pdf/1703.08388) .[J] arXiv preprint arXiv:1703.08388.
 - Chi Nhan Duong, Kha Gia Quach, Khoa Luu, T. Hoang Ngan le, Marios Savvides .[Temporal Non-Volume Preserving Approach to Facial Age-Progression and  Age-Invariant Face Recognition](https://arxiv.org/pdf/1703.08617) .[J] arXiv preprint arXiv:1703.08617.
+- 【L2-constrained softmax loss】Ranjan R, Castillo C D, Chellappa R. [L2-constrained softmax loss for discriminative face verification](https://arxiv.org/abs/1703.09507)[J]. arXiv preprint arXiv:1703.09507, 2017.
+- 【3D Face Recognition】Kim D, Hernandez M, Choi J, et al. [Deep 3D face identification](https://arxiv.org/pdf/1703.10714.pdf)[J]. arXiv preprint arXiv:1703.10714, 2017.
 - Lin Xiong, Jayashree Karlekar, Jian Zhao, Yi Cheng, Yan Xu, Jiashi Feng, Sugiri Pranata, Shengmei Shen .[A Good Practice Towards Top Performance of Face Recognition: Transferred  Deep Feature Fusion](https://arxiv.org/pdf/1704.00438) .[J] arXiv preprint arXiv:1704.00438.
 - Ahmed ElSayed, Ausif Mahmood, Tarek Sobh .[Effect of Super Resolution on High Dimensional Features for Unsupervised  Face Recognition in the Wild](https://arxiv.org/pdf/1704.01464) .[J] arXiv preprint arXiv:1704.01464.
 - 【Loss fuction】Chen W, Chen X, Zhang J, et al. [Beyond triplet loss: a deep quadruplet network for person re-identification](https://arxiv.org/pdf/1704.01719.pdf)[C]//The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017, 2(8).
@@ -519,7 +522,8 @@ also, some papers and links collected from:
 - Yibo Hu, Xiang Wu, Ran He .[Attention-Set based Metric Learning for Video Face Recognition](https://arxiv.org/pdf/1704.03805) .[J] arXiv preprint arXiv:1704.03805.
 - Daniel Crispell, Octavian Biris, Nate Crosswhite, Jeffrey Byrne, Joseph L. Mundy .[Dataset Augmentation for Pose and Lighting Invariant Face Recognition](https://arxiv.org/pdf/1704.04326) .[J] arXiv preprint arXiv:1704.04326.
 - Rasmus S. Andersen, Anders U. Eliasen, Nicolai Pedersen, Michael Riis Andersen, Sofie Therese Hansen, Lars Kai Hansen .[EEG source imaging assists decoding in a face recognition task](https://arxiv.org/pdf/1704.05748) .[J] arXiv preprint arXiv:1704.05748.
-- Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song .[SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/pdf/1704.08063) .[J] arXiv preprint arXiv:1704.08063.
+- 【Loss function】Wang F, Xiang X, Cheng J, et al. [Normface: l 2 hypersphere embedding for face verification](https://arxiv.org/pdf/1704.06369.pdf)[C]//Proceedings of the 2017 ACM on Multimedia Conference. ACM, 2017: 1041-1049.
+- 【A-Softmax loss】【Angular margin】Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song .[SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/pdf/1704.08063) .[J] arXiv preprint arXiv:1704.08063.
 - Chollette C. Olisah, Solomon Nunoo, Peter Ofedebe, Ghazali Sulong .[Expressing Facial Structure and Appearance Information in Frequency  Domain for Face Recognition](https://arxiv.org/pdf/1704.08949) .[J] arXiv preprint arXiv:1704.08949.
 - Aaron Nech, Ira Kemelmacher-Shlizerman .[Level Playing Field for Million Scale Face Recognition](https://arxiv.org/pdf/1705.00393) .[J] arXiv preprint arXiv:1705.00393.
 - Manuel Günther, Steve Cruz, Ethan M. Rudd, Terrance E. Boult .[Toward Open-Set Face Recognition](https://arxiv.org/pdf/1705.01567) .[J] arXiv preprint arXiv:1705.01567.
@@ -546,13 +550,14 @@ also, some papers and links collected from:
 - Xihua Li .[Improving precision and recall of face recognition in SIPP with  combination of modified mean search and LSH](https://arxiv.org/pdf/1709.03872) .[J] arXiv preprint arXiv:1709.03872.
 - Xiang Xu, Pengfei Dou, Ha A. Le, Ioannis A. Kakadiaris .[When 3D-Aided 2D Face Recognition Meets Deep Learning: An extended UR2D  for Pose-Invariant Face Recognition](https://arxiv.org/pdf/1709.06532) .[J] arXiv preprint arXiv:1709.06532.
 - Timur Ibrayev, Ulan Myrzakhan, Olga Krestinskaya, Aidana Irmanova, Alex Pappachen James .[On-chip Face Recognition System Design with Memristive Hierarchical  Temporal Memory](https://arxiv.org/pdf/1709.08184) .[J] arXiv preprint arXiv:1709.08184.
+- 【CoCo loss】Liu Y, Li H, Wang X. [Rethinking feature discrimination and polymerization for large-scale recognition](https://arxiv.org/pdf/1710.00870.pdf)[J]. arXiv preprint arXiv:1710.00870, 2017.
 - Klemen Grm, Vitomir Štruc, Anais Artiges, Matthieu Caron, Hazim Kemal Ekenel .[Strengths and Weaknesses of Deep Learning Models for Face Recognition  Against Image Degradations](https://arxiv.org/pdf/1710.01494) .[J] arXiv preprint arXiv:1710.01494.
 - Wuming Zhang, Xi Zhao, Jean-Marie Morvan, Liming Chen .[Improving Shadow Suppression for Illumination Robust Face Recognition](https://arxiv.org/pdf/1710.05073) .[J] arXiv preprint arXiv:1710.05073.
 - Garrett Bingham .[Random Subspace Two-dimensional LDA for Face Recognition](https://arxiv.org/pdf/1711.00575) .[J] arXiv preprint arXiv:1711.00575.
 - Debayan Deb, Neeta Nain, Anil K. Jain .[Longitudinal Study of Child Face Recognition](https://arxiv.org/pdf/1711.03990) .[J] arXiv preprint arXiv:1711.03990.
 - Boris Knyazev, Roman Shvetsov, Natalia Efremova, Artem Kuharenko .[Convolutional neural networks pretrained on large face recognition  datasets for emotion classification from video](https://arxiv.org/pdf/1711.04598) .[J] arXiv preprint arXiv:1711.04598.
 - Yulong Wang, Yuan Yan Tang, Luoqing Li, Hong Chen .[Modal Regression based Atomic Representation for Robust Face Recognition](https://arxiv.org/pdf/1711.05861) .[J] arXiv preprint arXiv:1711.05861.
-- Syed Zulqarnain Gilani, Ajmal Mian .[Learning from Millions of 3D Scans for Large-scale 3D Face Recognition](https://arxiv.org/pdf/1711.05942) .[J] arXiv preprint arXiv:1711.05942.
+- 【3D Face Recognition】Syed Zulqarnain Gilani, Ajmal Mian .[Learning from Millions of 3D Scans for Large-scale 3D Face Recognition](https://arxiv.org/pdf/1711.05942) .[J] arXiv preprint arXiv:1711.05942.
 - İlke Çuğu, Eren Şener, Emre Akbaş .[MicroExpNet: An Extremely Small and Fast Model For Expression  Recognition From Frontal Face Images](https://arxiv.org/pdf/1711.07011) .[J] arXiv preprint arXiv:1711.07011.
 - Qiangchang Wang, Guodong Guo, Mohammad Iqbal Nouyed .[Learning Channel Inter-dependencies at Multiple Scales on Dense Networks  for Face Recognition](https://arxiv.org/pdf/1711.10103) .[J] arXiv preprint arXiv:1711.10103.
 - Adam Kortylewski, Bernhard Egger, Andreas Schneider, Thomas Gerig, Andreas Morel-Forster, Thomas Vetter .[Empirically Analyzing the Effect of Dataset Biases on Deep Face  Recognition Systems](https://arxiv.org/pdf/1712.01619) .[J] arXiv preprint arXiv:1712.01619.
@@ -565,9 +570,10 @@ also, some papers and links collected from:
 - Seyed Mehdi Iranmanesh, Ali Dabouei, Hadi Kazemi, Nasser M. Nasrabadi .[Deep Cross Polarimetric Thermal-to-visible Face Recognition](https://arxiv.org/pdf/1801.01486) .[J] arXiv preprint arXiv:1801.01486.
 - Fania Mokhayeri, Eric Granger, Guillaume-Alexandre Bilodeau .[Domain-Specific Face Synthesis for Video Face Recognition from a Single  Sample Per Person](https://arxiv.org/pdf/1801.01974) .[J] arXiv preprint arXiv:1801.01974.
 - Shahram Najam Syed, Aamir Zeb Shaikh, Shabbar Naqvi .[A Novel Hybrid Biometric Electronic Voting System: Integrating Finger  Print and Face Recognition](https://arxiv.org/pdf/1801.02430) .[J] arXiv preprint arXiv:1801.02430.
-- Xianbiao Qi, Lei Zhang .[Face Recognition via Centralized Coordinate Learning](https://arxiv.org/pdf/1801.05678) .[J] arXiv preprint arXiv:1801.05678.
-- Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .[J] arXiv preprint arXiv:1801.07698.
-- Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .[CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414) .[J] arXiv preprint arXiv:1801.09414.
+- 【Angular margin】Wang F, Cheng J, Liu W, et al. [Additive margin softmax for face verification](https://arxiv.org/pdf/1801.05599.pdf)[J]. IEEE Signal Processing Letters, 2018, 25(7): 926-930.
+- 【Angular margin】Xianbiao Qi, Lei Zhang .[Face Recognition via Centralized Coordinate Learning](https://arxiv.org/pdf/1801.05678) .[J] arXiv preprint arXiv:1801.05678.
+- 【ArcFace】【Angular margin】Jiankang Deng, Jia Guo, Stefanos Zafeiriou .[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698) .[J] arXiv preprint arXiv:1801.07698.<br>[code](https://github.com/deepinsight/insightface)
+- 【Angular margin】【Tencent AI Lab】Hao Wang, Yitong Wang, Zheng Zhou, Xing Ji, Dihong Gong, Jingchao Zhou, Zhifeng Li, Wei Liu .[CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.09414) .[J] arXiv preprint arXiv:1801.09414.
 - S Ritika, Dattaraj Rao .[Face recognition for monitoring operator shift in railways](https://arxiv.org/pdf/1802.01273) .[J] arXiv preprint arXiv:1802.01273.
 - Adam Kortylewski, Andreas Schneider, Thomas Gerig, Bernhard Egger, Andreas Morel-Forster, Thomas Vetter .[Training Deep Face Recognition Systems with Synthetic Data](https://arxiv.org/pdf/1802.05891) .[J] arXiv preprint arXiv:1802.05891.
 - Maneet Singh, Shruti Nagpal, Richa Singh, Mayank Vatsa, Angshul Majumdar .[MagnifyMe: Aiding Cross Resolution Face Recognition via Identity Aware  Synthesis](https://arxiv.org/pdf/1802.08057) .[J] arXiv preprint arXiv:1802.08057.
@@ -588,7 +594,9 @@ also, some papers and links collected from:
 - Rajeev Ranjan, Ankan Bansal, Hongyu Xu, Swami Sankaranarayanan, Jun-Cheng Chen, Carlos D. Castillo, Rama Chellappa .[Crystal Loss and Quality Pooling for Unconstrained Face Verification and  Recognition](https://arxiv.org/pdf/1804.01159) .[J] arXiv preprint arXiv:1804.01159.
 - Lingfeng Zhang, Pengfei Dou, Ioannis A Kakadiaris .[Patch-based Face Recognition using a Hierarchical Multi-label Matcher](https://arxiv.org/pdf/1804.01417) .[J] arXiv preprint arXiv:1804.01417.
 - Hadi Kazemi, Sobhan Soleymani, Ali Dabouei, Mehdi Iranmanesh, Nasser M. Nasrabadi .[Attribute-Centered Loss for Soft-Biometrics Guided Face Sketch-Photo  Recognition](https://arxiv.org/pdf/1804.03082) .[J] arXiv preprint arXiv:1804.03082.
+- 【SenseTime】Liu Y, Wei F, Shao J, et al. [Exploring disentangled feature representation beyond face identification](https://arxiv.org/pdf/1804.03487.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 2080-2089.
 - Mei Wang, Weihong Deng .[Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655) .[J] arXiv preprint arXiv:1804.06655.
+- 【Angular margin】Chen S, Liu Y, Gao X, et al. [MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573)[J]. arXiv preprint arXiv:1804.07573, 2018.<br>[code](https://github.com/imistyrain/MobileFaceNet)
 - Debayan Deb, Susan Wiper, Alexandra Russo, Sixue Gong, Yichun Shi, Cori Tymoszek, Anil Jain .[Face Recognition: Primates in the Wild](https://arxiv.org/pdf/1804.08790) .[J] arXiv preprint arXiv:1804.08790.
 - Zhiyi Cheng, Xiatian Zhu, Shaogang Gong .[Surveillance Face Recognition Challenge](https://arxiv.org/pdf/1804.09691) .[J] arXiv preprint arXiv:1804.09691.
 - Bowen Wu, Huaming Wu, Monica M.Y. Zhang .[Scalable Angular Discriminative Deep Metric Learning for Face  Recognition](https://arxiv.org/pdf/1804.10899) .[J] arXiv preprint arXiv:1804.10899.
