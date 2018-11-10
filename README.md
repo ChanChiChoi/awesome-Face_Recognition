@@ -14,6 +14,7 @@ Face Retrieval;
 also, some papers and links collected from:
 - [1] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
 - [2] [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face)
+- [3] [ShownX/FacePaperCollection](https://github.com/ShownX/FacePaperCollection)
 
 ---
 ## Face Detection
@@ -57,7 +58,7 @@ also, some papers and links collected from:
 
 ### 2015
 - 【Cascade】Li H, Lin Z, Shen X, et al. [A convolutional neural network cascade for face detection](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 5325-5334.<br>[code:[anson0910/CNN_face_detection](https://github.com/anson0910/CNN_face_detection)]
-- Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .[Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766) .[J] arXiv preprint arXiv:1502.02766.
+- 【Multiview Face Detection】Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .[Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766) .[J] arXiv preprint arXiv:1502.02766.<br>[code: [guoyilin/FaceDetection_CNN](https://github.com/guoyilin/FaceDetection_CNN)]
 - Anjith George, Anirban Dasgupta, Aurobinda Routray .[A Framework for Fast Face and Eye Detection](https://arxiv.org/pdf/1505.03344) .[J] arXiv preprint arXiv:1505.03344.
 - Golnaz Ghiasi, Charless C. Fowlkes .[Occlusion Coherence: Detecting and Localizing Occluded Faces](https://arxiv.org/pdf/1506.08347) .[J] arXiv preprint arXiv:1506.08347.
 - Ilya Kalinovskii, Vladimir Spitsyn .[Compact Convolutional Neural Network Cascade for Face Detection](https://arxiv.org/pdf/1508.01292) .[J] arXiv preprint arXiv:1508.01292.
@@ -105,11 +106,12 @@ also, some papers and links collected from:
 - Yancheng Bai, Bernard Ghanem .[Multi-Branch Fully Convolutional Network for Face Detection](https://arxiv.org/pdf/1707.06330) .[J] arXiv preprint arXiv:1707.06330.
 - Keke He, Yanwei Fu, Xiangyang Xue .[A Jointly Learned Deep Architecture for Facial Attribute Analysis and  Face Detection in the Wild](https://arxiv.org/pdf/1707.08705) .[J] arXiv preprint arXiv:1707.08705.
 - Weilin Cong, Sanyuan Zhao, Hui Tian, Jianbing Shen .[Improved Face Detection and Alignment using Cascade Deep Convolutional  Network](https://arxiv.org/pdf/1707.09364) .[J] arXiv preprint arXiv:1707.09364.
+- 【Focal loss】Lin T Y, Goyal P, Girshick R, et al. [Focal loss for dense object detection](https://arxiv.org/abs/1708.02002)[J]. IEEE transactions on pattern analysis and machine intelligence, 2018.
 - Manuel Günther, Peiyun Hu, Christian Herrmann, Chi Ho Chan, Min Jiang, Shufan Yang, Akshay Raj Dhamija, Deva Ramanan, Jürgen Beyerer, Josef Kittler, Mohamad Al Jazaery, Mohammad Iqbal Nouyed, Guodong Guo, Cezary Stankiewicz, Terrance E. Boult .[Unconstrained Face Detection and Open-Set Face Recognition Challenge](https://arxiv.org/pdf/1708.02337) .[J] arXiv preprint arXiv:1708.02337.
 - 【SSH】Mahyar Najibi, Pouya Samangouei, Rama Chellappa, Larry Davis .[SSH: Single Stage Headless Face Detector](https://arxiv.org/pdf/1708.03979) .[J] arXiv preprint arXiv:1708.03979.<br>[code:[mahyarnajibi/SSH](https://github.com/mahyarnajibi/SSH)]
 - Nataniel Ruiz, James M. Rehg .[Dockerface: an Easy to Install and Use Faster R-CNN Face Detector in a  Docker Container](https://arxiv.org/pdf/1708.04370) .[J] arXiv preprint arXiv:1708.04370.
-- Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/pdf/1708.05234) .[J] arXiv preprint arXiv:1708.05234.
-- Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[S$^3$FD: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237) .[J] arXiv preprint arXiv:1708.05237.
+- 【FaceBoxes】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/pdf/1708.05234) .[J] arXiv preprint arXiv:1708.05234.<br>[code:[zeusees/FaceBoxes](https://github.com/zeusees/FaceBoxes)]
+- 【$S^3FD$】Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Hailin Shi, Xiaobo Wang, Stan Z. Li .[$S^3FD$: Single Shot Scale-invariant Face Detector](https://arxiv.org/pdf/1708.05237) .[J] arXiv preprint arXiv:1708.05237.
 - SouYoung Jin, Hang Su, Chris Stauffer, Erik Learned-Miller .[End-to-end Face Detection and Cast Grouping in Movies Using  Erdős-Rényi Clustering](https://arxiv.org/pdf/1709.02458) .[J] arXiv preprint arXiv:1709.02458.
 - Yujia Chen, Lingxiao Song, Ran He .[Masquer Hunter: Adversarial Occlusion-aware Face Detection](https://arxiv.org/pdf/1709.05188) .[J] arXiv preprint arXiv:1709.05188.
 - Yitong Wang, Xing Ji, Zheng Zhou, Hao Wang, Zhifeng Li .[Detecting Faces Using Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1709.05256) .[J] arXiv preprint arXiv:1709.05256.
@@ -178,7 +180,7 @@ also, some papers and links collected from:
 ### 2015
 - Yuting Zhang, Kui Jia, Yueming Wang, Gang Pan, Tsung-Han Chan, Yi Ma .[Robust Face Recognition by Constrained Part-based Alignment](https://arxiv.org/pdf/1501.04717) .[J] arXiv preprint arXiv:1501.04717.
 - Christos Sagonas, Yannis Panagakis, Stefanos Zafeiriou, Maja Pantic .[Face frontalization for Alignment and Recognition](https://arxiv.org/pdf/1502.00852) .[J] arXiv preprint arXiv:1502.00852.
-- Amin Jourabloo, Xiaoming Liu .[Pose-Invariant 3D Face Alignment](https://arxiv.org/pdf/1506.03799) .[J] arXiv preprint arXiv:1506.03799.
+- 【PIFA】Amin Jourabloo, Xiaoming Liu .[Pose-Invariant 3D Face Alignment](https://arxiv.org/pdf/1506.03799) .[J] arXiv preprint arXiv:1506.03799.<br>[code:[project-pifa](http://cvlab.cse.msu.edu/project-pifa.html)]
 - Heng Yang, Wenxuan Mou, Yichi Zhang, Ioannis Patras, Hatice Gunes, Peter Robinson .[Face Alignment Assisted by Head Pose Estimation](https://arxiv.org/pdf/1507.03148) .[J] arXiv preprint arXiv:1507.03148.
 - Yandong Wen, Weiyang Liu, Meng Yang, Zhifeng Li .[Efficient Face Alignment via Locality-constrained Representation for  Robust Recognition](https://arxiv.org/pdf/1507.07073) .[J] arXiv preprint arXiv:1507.07073.
 - Oncel Tuzel, Tim K. Marks, Salil Tambe .[Robust Face Alignment Using a Mixture of Invariant Experts](https://arxiv.org/pdf/1511.04404) .[J] arXiv preprint arXiv:1511.04404.
@@ -188,6 +190,7 @@ also, some papers and links collected from:
 - Xiangyu Zhu, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li .[Face Alignment Across Large Poses: A 3D Solution](https://arxiv.org/pdf/1511.07212) .[J] arXiv preprint arXiv:1511.07212.
 
 ### 2016
+- 【MDM】Trigeorgis G, Snape P, Nicolaou M A, et al. [Mnemonic descent method: A recurrent process applied for end-to-end face alignment](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4177-4187.<br>[code: [trigeorgis/mdm](https://github.com/trigeorgis/mdm)]
 - Amit Kumar, Rajeev Ranjan, Vishal Patel, Rama Chellappa .[Face Alignment by Local Deep Descriptor Regression](https://arxiv.org/pdf/1601.07950) .[J] arXiv preprint arXiv:1601.07950.
 - Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao .[Joint Face Detection and Alignment using Multi-task Cascaded  Convolutional Networks](https://arxiv.org/pdf/1604.02878) .[J] arXiv preprint arXiv:1604.02878.
 - Zhiwen Shao, Shouhong Ding, Yiru Zhao, Qinchuan Zhang, Lizhuang Ma .[Learning deep representation from coarse to fine for face alignment](https://arxiv.org/pdf/1608.00207) .[J] arXiv preprint arXiv:1608.00207.
@@ -199,11 +202,14 @@ also, some papers and links collected from:
 - Hailiang Li, Kin-Man Lam, Edmond M. Y. Chiu, Kangheng Wu, Zhibin Lei .[Cascaded Face Alignment via Intimacy Definition Feature](https://arxiv.org/pdf/1611.06642) .[J] arXiv preprint arXiv:1611.06642.
 
 ### 2017
+- 【JFA】Xu X, Kakadiaris I A. [Joint head pose estimation and face alignment framework using global and local CNN features](http://cbl.uh.edu/pub_files/07961802.pdf)[C]//Automatic Face & Gesture Recognition (FG 2017), 2017 12th IEEE International Conference on. IEEE, 2017: 642-649.
+- 【Recurrent 3D-2D Dual Learning】Xiao S, Feng J, Liu L, et al. [Recurrent 3D-2D Dual Learning for Large-Pose Facial Landmark Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiao_Recurrent_3D-2D_Dual_ICCV_2017_paper.pdf)[C]//ICCV. 2017: 1642-1651.
 - Yuanyi Zhong, Jiansheng Chen, Bo Huang .[Towards End-to-End Face Recognition through Alignment Learning](https://arxiv.org/pdf/1701.07174) .[J] arXiv preprint arXiv:1701.07174.
 - Nenad Markuš, Ivan Gogić, Igor S. Pandžić, Jörgen Ahlberg .[Memory-Efficient Global Refinement of Decision-Tree Ensembles and its  Application to Face Alignment](https://arxiv.org/pdf/1702.08481) .[J] arXiv preprint arXiv:1702.08481.
 - Adrian Bulat, Georgios Tzimiropoulos .[Binarized Convolutional Landmark Localizers for Human Pose Estimation  and Face Alignment with Limited Resources](https://arxiv.org/pdf/1703.00862) .[J] arXiv preprint arXiv:1703.00862.
 - Arnaud Dapogny, Kvin Bailly, Sverine Dubuisson .[Face Alignment with Cascaded Semi-Parametric Deep Greedy Neural Forests](https://arxiv.org/pdf/1703.01597) .[J] arXiv preprint arXiv:1703.01597.
 - Adrian Bulat, Georgios Tzimiropoulos .[How far are we from solving the 2D & 3D Face Alignment problem? (and a  dataset of 230,000 3D facial landmarks)](https://arxiv.org/pdf/1703.07332) .[J] arXiv preprint arXiv:1703.07332.
+- 【GoDP】Wu Y, Shah S K, Kakadiaris I A. [GoDP: Globally Optimized Dual Pathway deep network architecture for facial landmark localization in-the-wild](https://arxiv.org/pdf/1704.02402)[J]. Image and Vision Computing, 2018, 73: 1-16.
 - Marek Kowalski, Jacek Naruniec, Tomasz Trzcinski .[Deep Alignment Network: A convolutional neural network for robust face  alignment](https://arxiv.org/pdf/1706.01789) .[J] arXiv preprint arXiv:1706.01789.
 - Marek Kowalski, Jacek Naruniec .[Face Alignment Using K-Cluster Regression Forests With Weighted  Splitting](https://arxiv.org/pdf/1706.01820) .[J] arXiv preprint arXiv:1706.01820.
 - Vishnu Naresh Boddeti, Myung-Cheol Roh, Jongju Shin, Takaharu Oguri, Takeo Kanade .[Face Alignment Robust to Pose, Expressions and Occlusions](https://arxiv.org/pdf/1707.05938) .[J] arXiv preprint arXiv:1707.05938.
