@@ -9,7 +9,7 @@ Face Super-Resolution && Face Deblurring;
 Face Generation && Face Synthesis;   
 Face Transfer;   
 Face Anti-Spoofing;   
-Face Retrieval;     
+> * **Face Retrieval**;     
 
 also, some papers and links collected from:
 - [1] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
@@ -440,6 +440,10 @@ also, some papers and links collected from:
 - Yi Sun, Xiaogang Wang, Xiaoou Tang .[Sparsifying Neural Network Connections for Face Recognition](https://arxiv.org/pdf/1512.01891) .[J] arXiv preprint arXiv:1512.01891.
 
 ### 2016
+- Masi I, Rawls S, Medioni G, et al. [Pose-aware face recognition in the wild]http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf()[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4838-4846.
+- Pal D K, Juefei-Xu F, Savvides M. [Discriminative invariant kernel features: a bells-and-whistles-free approach to unsupervised face recognition and pose estimation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pal_Discriminative_Invariant_Kernel_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 5590-5599.
+- Wen Y, Li Z, Qiao Y. [Latent factor guided convolutional neural networks for age-invariant face recognition](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wen_Latent_Factor_Guided_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4893-4901.
+- Sun Y, Wang X, Tang X. [Sparsifying neural network connections for face recognition](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sun_Sparsifying_Neural_Network_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4856-4864.
 - 【OpenFace】【Pipelines】Amos B, Ludwiczuk B, Satyanarayanan M. [Openface: A general-purpose face recognition library with mobile applications](https://cmusatyalab.github.io/openface/)[J]. CMU School of Computer Science, 2016.<br>[paper:[bakup](http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf)]
 - 【Center Face】【Center loss】Wen Y, Zhang K, Li Z, et al. [A discriminative feature learning approach for deep face recognition](http://ydwen.github.io/papers/WenECCV16.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2016: 499-515.<br> [code:[ydwen/caffe-face](https://github.com/ydwen/caffe-face); [pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)]
 - 【MegaFace】Kemelmacher-Shlizerman I, Seitz S M, Miller D, et al. [The megaface benchmark: 1 million faces for recognition at scale](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4873-4882.
@@ -660,6 +664,10 @@ also, some papers and links collected from:
 - Feng Liu, Dan Zeng, Jing Li, Qijun Zhao .[On 3D Face Reconstruction via Cascaded Regression in Shape Space](https://arxiv.org/pdf/1509.06161) .[J] arXiv preprint arXiv:1509.06161.
 
 ### 2016
+- Piotraschke M, Blanz V. [Automated 3d face reconstruction from multiple images using quality measures](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Piotraschke_Automated_3D_Face_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3418-3427.
+- Bolkart T, Wuhrer S. [A robust multilinear model learning framework for 3d faces](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bolkart_A_Robust_Multilinear_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4911-4919.
+- Roth J, Tong Y, Liu X. [Adaptive 3D face reconstruction from unconstrained photo collections](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Roth_Adaptive_3D_Face_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4197-4206.
+- Booth J, Roussos A, Zafeiriou S, et al. [A 3d morphable model learnt from 10,000 faces](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Booth_A_3D_Morphable_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 5543-5552.
 - Elad Richardson, Matan Sela, Ron Kimmel .[3D Face Reconstruction by Learning from Synthetic Data](https://arxiv.org/pdf/1609.04387) .[J] arXiv preprint arXiv:1609.04387.
 - Elad Richardson, Matan Sela, Roy Or-El, Ron Kimmel .[Learning Detailed Face Reconstruction from a Single Image](https://arxiv.org/pdf/1611.05053) .[J] arXiv preprint arXiv:1611.05053.
 - 【3DMM-CNN】Tran A T, Hassner T, Masi I, et al. [Regressing robust and discriminative 3D morphable models with a very deep neural network](https://arxiv.org/abs/1612.04904)[C]//Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017: 1493-1502.
@@ -769,6 +777,29 @@ also, some papers and links collected from:
 
 ---
 ## Face Retrieval
+### 2008
+- Jose Ignacio Orlicki (CoreLabs, ITBA), Pablo Ignacio Fierens (ITBA), José Ignacio Alvarez-Hamelin (ITBA, CONICET) .[Faceted Ranking of Egos in Collaborative Tagging Systems](https://arxiv.org/pdf/0809.04668) .[J] arXiv preprint arXiv:0809.04668.
+
+### 2012
+- Deepak Agarwal, Bee-Chung Chen, Xuanhui Wang .[Multi-Faceted Ranking of News Articles using Post-Read Actions](https://arxiv.org/pdf/1205.00591) .[J] arXiv preprint arXiv:1205.00591.
+- Chang Huang, Shenghuo Zhu, Kai Yu .[Large Scale Strongly Supervised Ensemble Metric Learning, with  Applications to Face Verification and Retrieval](https://arxiv.org/pdf/1212.06094) .[J] arXiv preprint arXiv:1212.06094.
+
+### 2014
+- D. Johnvictor, G. Selvavinayagam .[Survey on Sparse Coded Features for Content Based Face Image Retrieval](https://arxiv.org/pdf/1402.04888) .[J] arXiv preprint arXiv:1402.04888.
+
+### 2016
+- Ognjen Arandjelovic .[Learnt quasi-transitive similarity for retrieval from large collections  of faces](https://arxiv.org/pdf/1603.00560) .[J] arXiv preprint arXiv:1603.00560.
+- Binod Bhattarai, Gaurav Sharma, Frederic Jurie .[CP-mtML: Coupled Projection multi-task Metric Learning for Large Scale  Face Retrieval](https://arxiv.org/pdf/1604.02975) .[J] arXiv preprint arXiv:1604.02975.
+
+### 2017
+- BingZhang Hu, Feng Zheng, Ling Shao .[Dual-reference Face Retrieval](https://arxiv.org/pdf/1706.00631) .[J] arXiv preprint arXiv:1706.00631.
+- Xin Jin, Shiming Ge, Chenggen Song .[Privacy Preserving Face Retrieval in the Cloud for Mobile Users](https://arxiv.org/pdf/1708.02872) .[J] arXiv preprint arXiv:1708.02872.
+- Shiv Ram Dubey .[Face Retrieval using Frequency Decoded Local Descriptor](https://arxiv.org/pdf/1709.06508) .[J] arXiv preprint arXiv:1709.06508.
+- Shiv Ram Dubey .[Local Directional Relation Pattern for Unconstrained and Robust Face  Retrieval](https://arxiv.org/pdf/1709.09518) .[J] arXiv preprint arXiv:1709.09518.
+
+### 2018
+- Shiv Ram Dubey, Snehasis Mukherjee .[LDOP: Local Directional Order Pattern for Robust Face Retrieval](https://arxiv.org/pdf/1803.07441) .[J] arXiv preprint arXiv:1803.07441.
+- Shiv Ram Dubey, Soumendu Chakraborty .[Average Biased ReLU Based CNN Descriptor for Improved Face Retrieval](https://arxiv.org/pdf/1804.02051) .[J] arXiv preprint arXiv:1804.02051.
 
 ---
 ## Piplines
