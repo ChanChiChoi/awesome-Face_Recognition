@@ -12,17 +12,17 @@ Face Anti-Spoofing;
 > * **Face Retrieval**;     
 
 also, some papers and links collected from:
-- [1] [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face)
-- [2] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
-- [3] [ShownX/FacePaperCollection](https://github.com/ShownX/FacePaperCollection)
-- [4] [HansonSun/FaceRecognition-Papers](https://github.com/HansonSun/FaceRecognition-Papers)
-- [5] [shaoxiaohu/CVPR2016](https://github.com/shaoxiaohu/CVPR2016)
-- [6] [zhanglaplace/PaperPaper](https://github.com/zhanglaplace/PaperPaper)
-- [7] [gdshen/paper_notes](https://github.com/gdshen/paper_notes)
- [8] [lcybuzz/Personal-Face-Related-Paper-Record](https://github.com/lcybuzz/Personal-Face-Related-Paper-Record)
- [9] [betars/Face-Resources](https://github.com/betars/Face-Resources)
- [10] [xuewengeophysics/Awesome-Face-Recognition](https://github.com/xuewengeophysics/Awesome-Face-Recognition)
- [11] [face-rec.org/Video-Based Face Recognition Algorithms](http://www.face-rec.org/algorithms/#Video)
+- [1] [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face)  
+- [2] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)  
+- [3] [ShownX/FacePaperCollection](https://github.com/ShownX/FacePaperCollection)  
+- [4] [HansonSun/FaceRecognition-Papers](https://github.com/HansonSun/FaceRecognition-Papers)  
+- [5] [shaoxiaohu/CVPR2016](https://github.com/shaoxiaohu/CVPR2016)  
+- [6] [zhanglaplace/PaperPaper](https://github.com/zhanglaplace/PaperPaper)    
+- [7] [gdshen/paper_notes](https://github.com/gdshen/paper_notes)  
+ [8] [lcybuzz/Personal-Face-Related-Paper-Record](https://github.com/lcybuzz/Personal-Face-Related-Paper-Record)  
+ [9] [betars/Face-Resources](https://github.com/betars/Face-Resources)  
+ [10] [xuewengeophysics/Awesome-Face-Recognition](https://github.com/xuewengeophysics/Awesome-Face-Recognition)  
+ [11] [face-rec.org/Video-Based Face Recognition Algorithms](http://www.face-rec.org/algorithms/#Video)  
  
 ---
 ## Face Detection
