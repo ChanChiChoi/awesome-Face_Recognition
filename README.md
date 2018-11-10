@@ -659,6 +659,15 @@ also, some papers and links collected from:
 
 
 ## DataSets
+> * **2D face recognition**   
+> * **Video face recognition **   
+> * **3D face recognition **   
+> * **Anti-spoofing**   
+> * **cross age and cross pose**   
+> * **Face Detection**   
+> * **Face Attributes**   
+> * **Others**   
+
 #### 2D face recognition
 
 | Datasets                   | Description                                                  | Links                                                        | Publish Time |
