@@ -15,6 +15,8 @@ also, some papers and links collected from:
 - [1] [L706077/DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
 - [2] [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face)
 - [3] [ShownX/FacePaperCollection](https://github.com/ShownX/FacePaperCollection)
+- [4] [shaoxiaohu/CVPR2016](https://github.com/shaoxiaohu/CVPR2016)
+
 
 ---
 ## Face Detection
@@ -69,6 +71,8 @@ also, some papers and links collected from:
 - Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang .[WIDER FACE: A Face Detection Benchmark](https://arxiv.org/pdf/1511.06523) .[J] arXiv preprint arXiv:1511.06523.
 
 ### 2016
+- Qin H, Yan J, Li X, et al. [Joint training of cascaded cnn for face detection](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qin_Joint_Training_of_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3456-3465.
+- Yang S, Luo P, Loy C C, et al. [Wider face: A face detection benchmark](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 5525-5533.
 - Michael J. Wilber, Vitaly Shmatikov, Serge Belongie .[Can we still avoid automatic face detection?](https://arxiv.org/pdf/1602.04504) .[J] arXiv preprint arXiv:1602.04504.
 - Sayantan Sarkar, Vishal M. Patel, Rama Chellappa .[Deep Feature-based Face Detection on Mobile Devices](https://arxiv.org/pdf/1602.04868) .[J] arXiv preprint arXiv:1602.04868.
 - Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[HyperFace: A Deep Multi-task Learning Framework for Face Detection,  Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249) .[J] arXiv preprint arXiv:1603.01249.
@@ -190,6 +194,11 @@ also, some papers and links collected from:
 - Xiangyu Zhu, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li .[Face Alignment Across Large Poses: A 3D Solution](https://arxiv.org/pdf/1511.07212) .[J] arXiv preprint arXiv:1511.07212.
 
 ### 2016
+- Zhu X, Lei Z, Liu X, et al. [Face alignment across large poses: A 3d solution](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Face_Alignment_Across_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 146-155.
+- Zhu S, Li C, Loy C C, et al. [Unconstrained face alignment via cascaded compositional learning](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3409-3417.
+- Zhang J, Kan M, Shan S, et al. [Occlusion-free face alignment: deep regression networks coupled with de-corrupt autoencoders](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Occlusion-Free_Face_Alignment_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3428-3437.
+- Trigeorgis G, Snape P, Nicolaou M A, et al. [Mnemonic descent method: A recurrent process applied for end-to-end face alignment](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4177-4187.
+- Jourabloo A, Liu X. [Large-pose face alignment via CNN-based dense 3D model fitting](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 4188-4196.
 - 【MDM】Trigeorgis G, Snape P, Nicolaou M A, et al. [Mnemonic descent method: A recurrent process applied for end-to-end face alignment](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 4177-4187.<br>[code: [trigeorgis/mdm](https://github.com/trigeorgis/mdm)]
 - Amit Kumar, Rajeev Ranjan, Vishal Patel, Rama Chellappa .[Face Alignment by Local Deep Descriptor Regression](https://arxiv.org/pdf/1601.07950) .[J] arXiv preprint arXiv:1601.07950.
 - Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao .[Joint Face Detection and Alignment using Multi-task Cascaded  Convolutional Networks](https://arxiv.org/pdf/1604.02878) .[J] arXiv preprint arXiv:1604.02878.
