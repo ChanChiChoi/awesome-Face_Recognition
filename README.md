@@ -657,11 +657,11 @@ also, some papers and links collected from:
 ---
 ## Face Retrieval
 
-
+---
 ## DataSets
 > * **2D face recognition**   
-> * **Video face recognition **   
-> * **3D face recognition **   
+> * **Video face recognition**   
+> * **3D face recognition**   
 > * **Anti-spoofing**   
 > * **cross age and cross pose**   
 > * **Face Detection**   
