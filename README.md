@@ -261,6 +261,7 @@ also, some papers and links collected from:
 - Yousra Ben Jemaa, Sana Khanfir .[Automatic local Gabor Features extraction for face recognition](https://arxiv.org/pdf/0907.04984) .[J] arXiv preprint arXiv:0907.04984.
 
 ### 2010
+- Nguyen H V, Bai L. [Cosine similarity metric learning for face verification](https://www.researchgate.net/profile/Li_Bai/publication/220745463_Cosine_Similarity_Metric_Learning_for_Face_Verification/links/54dcd4880cf25b09b912d2ed.pdf)[C]//Asian conference on computer vision. Springer, Berlin, Heidelberg, 2010: 709-720.
 - Dakshina Ranjan Kisku, Hunny Mehrotra, Jamuna Kanta Sing, Phalguni Gupta .[SVM-based Multiview Face Recognition by Generalization of Discriminant  Analysis](https://arxiv.org/pdf/1001.04140) .[J] arXiv preprint arXiv:1001.04140.
 - Dakshina Ranjan Kisku, Massimo Tistarelli, Jamuna Kanta Sing, Phalguni Gupta .[Face Recognition by Fusion of Local and Global Matching Scores using DS  Theory: An Evaluation with Uni-classifier and Multi-classifier Paradigm](https://arxiv.org/pdf/1002.00382) .[J] arXiv preprint arXiv:1002.00382.
 - Dakshina Ranjan Kisku, Ajita Rattani, Enrico Grosso, Massimo Tistarelli .[Face Identification by SIFT-based Complete Graph Topology](https://arxiv.org/pdf/1002.00411) .[J] arXiv preprint arXiv:1002.00411.
