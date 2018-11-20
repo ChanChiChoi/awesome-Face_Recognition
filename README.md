@@ -107,7 +107,7 @@ also, some papers and links collected from:
 - Liying Chi, Hongxin Zhang, Mingxiu Chen .[End-To-End Face Detection and Recognition](https://arxiv.org/pdf/1703.10818) .[J] arXiv preprint arXiv:1703.10818.
 - Upal Mahbub, Sayantan Sarkar, Rama Chellappa .[Partial Face Detection in the Mobile Domain](https://arxiv.org/pdf/1704.02117) .[J] arXiv preprint arXiv:1704.02117.
 - Zhen-Hua Feng, Josef Kittler, Muhammad Awais, Patrik Huber, Xiao-Jun Wu .[Face Detection, Bounding Box Aggregation and Pose Estimation for Robust  Facial Landmark Localisation in the Wild](https://arxiv.org/pdf/1705.02402) .[J] arXiv preprint arXiv:1705.02402.
-- 【Face R-CNN】Hao Wang, Zhifeng Li, Xing Ji, Yitong Wang .[Face R-CNN](https://arxiv.org/pdf/1706.01061) .[J] arXiv preprint arXiv:1706.01061. 
+- 【Face R-CNN】【Tencent AI Lab】Hao Wang, Zhifeng Li, Xing Ji, Yitong Wang .[Face R-CNN](https://arxiv.org/pdf/1706.01061) .[J] arXiv preprint arXiv:1706.01061. 
 - Shuo Yang, Yuanjun Xiong, Chen Change Loy, Xiaoou Tang .[Face Detection through Scale-Friendly Deep Convolutional Networks](https://arxiv.org/pdf/1706.02863) .[J] arXiv preprint arXiv:1706.02863.
 - Zekun Hao, Yu Liu, Hongwei Qin, Junjie Yan, Xiu Li, Xiaolin Hu .[Scale-Aware Face Detection](https://arxiv.org/pdf/1706.09876) .[J] arXiv preprint arXiv:1706.09876.
 - Changyong Yu, Yunde Jia .[Anisotropic Diffusion-based Kernel Matrix Model for Face Liveness  Detection](https://arxiv.org/pdf/1707.02692) .[J] arXiv preprint arXiv:1707.02692.
