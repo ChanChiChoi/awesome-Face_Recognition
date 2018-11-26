@@ -54,6 +54,7 @@ also, some papers and links collected from:
 - P. Kiran Sree, I. Ramesh Babu .[Face Detection from still and Video Images using Unsupervised Cellular  Automata with K means clustering algorithm](https://arxiv.org/pdf/1312.06834) .[J] arXiv preprint arXiv:1312.06834.
 
 ### 2014
+- Chen D, Ren S, Wei Y, et al. [Joint cascade face detection and alignment](http://soc.fudan.edu.cn/vip/attachments/download/3890/Joint_Cascade_Face_Detection.pdf)[C]//European Conference on Computer Vision. Springer, Cham, 2014: 109-122.
 - Omaima N. A. AL-Allaf .[Review of Face Detection Systems Based Artificial Neural Networks  Algorithms](https://arxiv.org/pdf/1404.01292) .[J] arXiv preprint arXiv:1404.01292.
 - Adrian Barbu, Nathan Lay, Gary Gramajo .[Face Detection with a 3D Model](https://arxiv.org/pdf/1404.03596) .[J] arXiv preprint arXiv:1404.03596.
 - Saptarshi Chakraborty, Dhrubajyoti Das .[An Overview of Face Liveness Detection](https://arxiv.org/pdf/1405.02227) .[J] arXiv preprint arXiv:1405.02227.
@@ -65,6 +66,7 @@ also, some papers and links collected from:
 
 ### 2015
 - 【Cascade】Li H, Lin Z, Shen X, et al. [A convolutional neural network cascade for face detection](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 5325-5334.<br>[code:[anson0910/CNN_face_detection](https://github.com/anson0910/CNN_face_detection)]
+- Yang B, Yan J, Lei Z, et al. [Convolutional channel features](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yang_Convolutional_Channel_Features_ICCV_2015_paper.pdf)[C]//Proceedings of the IEEE international conference on computer vision. 2015: 82-90.
 - 【Multiview Face Detection】Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .[Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766) .[J] arXiv preprint arXiv:1502.02766.<br>[code: [guoyilin/FaceDetection_CNN](https://github.com/guoyilin/FaceDetection_CNN)]
 - Anjith George, Anirban Dasgupta, Aurobinda Routray .[A Framework for Fast Face and Eye Detection](https://arxiv.org/pdf/1505.03344) .[J] arXiv preprint arXiv:1505.03344.
 - Golnaz Ghiasi, Charless C. Fowlkes .[Occlusion Coherence: Detecting and Localizing Occluded Faces](https://arxiv.org/pdf/1506.08347) .[J] arXiv preprint arXiv:1506.08347.
@@ -87,6 +89,7 @@ also, some papers and links collected from:
 - Huaizu Jiang, Erik Learned-Miller .[Face Detection with the Faster R-CNN](https://arxiv.org/pdf/1606.03473) .[J] arXiv preprint arXiv:1606.03473.
 - Chenchen Zhu, Yutong Zheng, Khoa Luu, Marios Savvides .[CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face  Detection](https://arxiv.org/pdf/1606.05413) .[J] arXiv preprint arXiv:1606.05413.
 - Dong Chen, Gang Hua, Fang Wen, Jian Sun .[Supervised Transformer Network for Efficient Face Detection](https://arxiv.org/pdf/1607.05477) .[J] arXiv preprint arXiv:1607.05477.
+- Yu J, Jiang Y, Wang Z, et al. [UnitBox: An Advanced Object Detection Network(https://arxiv.org/pdf/1608.01471)[J]. arXiv preprint arXiv:1608.01471, 2016.
 - Michael McCoyd, David Wagner .[Spoofing 2D Face Detection: Machines See People Who Aren't There](https://arxiv.org/pdf/1608.02128) .[J] arXiv preprint arXiv:1608.02128.
 - Shaohua Wan, Zhijun Chen, Tao Zhang, Bo Zhang, Kong-kat Wong .[Bootstrapping Face Detection with Hard Negative Examples](https://arxiv.org/pdf/1608.02236) .[J] arXiv preprint arXiv:1608.02236.
 - Michael Opitz, Georg Waltner, Georg Poier, Horst Possegger, Horst Bischof .[Grid Loss: Detecting Occluded Faces](https://arxiv.org/pdf/1609.00129) .[J] arXiv preprint arXiv:1609.00129.
