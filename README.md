@@ -89,7 +89,7 @@ also, some papers and links collected from:
 - Huaizu Jiang, Erik Learned-Miller .[Face Detection with the Faster R-CNN](https://arxiv.org/pdf/1606.03473) .[J] arXiv preprint arXiv:1606.03473.
 - Chenchen Zhu, Yutong Zheng, Khoa Luu, Marios Savvides .[CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face  Detection](https://arxiv.org/pdf/1606.05413) .[J] arXiv preprint arXiv:1606.05413.
 - Dong Chen, Gang Hua, Fang Wen, Jian Sun .[Supervised Transformer Network for Efficient Face Detection](https://arxiv.org/pdf/1607.05477) .[J] arXiv preprint arXiv:1607.05477.
-- Yu J, Jiang Y, Wang Z, et al. [UnitBox: An Advanced Object Detection Network(https://arxiv.org/pdf/1608.01471)[J]. arXiv preprint arXiv:1608.01471, 2016.
+- Yu J, Jiang Y, Wang Z, et al. [UnitBox: An Advanced Object Detection Network](https://arxiv.org/pdf/1608.01471)[J]. arXiv preprint arXiv:1608.01471, 2016.
 - Michael McCoyd, David Wagner .[Spoofing 2D Face Detection: Machines See People Who Aren't There](https://arxiv.org/pdf/1608.02128) .[J] arXiv preprint arXiv:1608.02128.
 - Shaohua Wan, Zhijun Chen, Tao Zhang, Bo Zhang, Kong-kat Wong .[Bootstrapping Face Detection with Hard Negative Examples](https://arxiv.org/pdf/1608.02236) .[J] arXiv preprint arXiv:1608.02236.
 - Michael Opitz, Georg Waltner, Georg Poier, Horst Possegger, Horst Bischof .[Grid Loss: Detecting Occluded Faces](https://arxiv.org/pdf/1609.00129) .[J] arXiv preprint arXiv:1609.00129.
