@@ -128,7 +128,7 @@ also, some papers and links collected from:
 - 【face R-FCN】Yitong Wang, Xing Ji, Zheng Zhou, Hao Wang, Zhifeng Li .[Detecting Faces Using Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1709.05256) .[J] arXiv preprint arXiv:1709.05256.
 - Mahmoud Afifi, Marwa Nasser, Mostafa Korashy, Katherine Rohde, Aly Abdelrahim .[Can We Boost the Power of the Viola-Jones Face Detector Using  Pre-processing? An Empirical Study](https://arxiv.org/pdf/1709.07720) .[J] arXiv preprint arXiv:1709.07720.
 - Luiz Souza, Mauricio Pamplona, Luciano Oliveira, João Papa .[How far did we get in face spoofing detection?](https://arxiv.org/pdf/1710.09868) .[J] arXiv preprint arXiv:1710.09868.
-- Jianfeng Wang, Ye Yuan, Gang Yu .[Face Attention Network: An Effective Face Detector for the Occluded  Faces](https://arxiv.org/pdf/1711.07246) .[J] arXiv preprint arXiv:1711.07246.
+- 【FAN】Jianfeng Wang, Ye Yuan, Gang Yu .[Face Attention Network: An Effective Face Detector for the Occluded  Faces](https://arxiv.org/pdf/1711.07246) .[J] arXiv preprint arXiv:1711.07246.
 - Jialiang Zhang, Xiongwei Wu, Jianke Zhu, Steven C.H. Hoi .[Feature Agglomeration Networks for Single Stage Face Detection](https://arxiv.org/pdf/1712.00721) .[J] arXiv preprint arXiv:1712.00721.
 - Zexun Zhou, Zhongshi He, Ziyu Chen, Yuanyuan Jia, Haiyan Wang, Jinglong Du, Dingding Chen .[FHEDN: A based on context modeling Feature Hierarchy Encoder-Decoder  Network for face detection](https://arxiv.org/pdf/1712.03687) .[J] arXiv preprint arXiv:1712.03687.
 - Siqi Yang, Arnold Wiliem, Shaokang Chen, Brian C. Lovell .[Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks](https://arxiv.org/pdf/1712.08263) .[J] arXiv preprint arXiv:1712.08263.
