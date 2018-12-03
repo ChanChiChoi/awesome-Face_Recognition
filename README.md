@@ -372,7 +372,7 @@ also, some papers and links collected from:
 - Spits Warnars .[Human Face as human single identity](https://arxiv.org/pdf/1405.06168) .[J] arXiv preprint arXiv:1405.06168.
 - Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li .[Shared Representation Learning for Heterogeneous Face Recognition](https://arxiv.org/pdf/1406.01247) .[J] arXiv preprint arXiv:1406.01247.
 - 【DeepID】Yi Sun, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Representation by Joint Identification-Verification](https://arxiv.org/pdf/1406.04773) .[J] arXiv preprint arXiv:1406.04773.
-- 【DeepFace】【Identification】Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf .[Web-Scale Training for Face Identification](https://arxiv.org/pdf/1406.05266) .[J] arXiv preprint arXiv:1406.05266.
+- 【DeepFace-Based】【Identification】Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf .[Web-Scale Training for Face Identification](https://arxiv.org/pdf/1406.05266) .[J] arXiv preprint arXiv:1406.05266.
 - Fumin Shen, Chunhua Shen, Heng Tao Shen .[Face Image Classification by Pooling Raw Features](https://arxiv.org/pdf/1406.06811) .[J] arXiv preprint arXiv:1406.06811.
 - Fumin Shen, Chunhua Shen, Heng Tao Shen .[Face Identification with Second-Order Pooling](https://arxiv.org/pdf/1406.06818) .[J] arXiv preprint arXiv:1406.06818.
 - Zhenyao Zhu, Ping Luo, Xiaogang Wang, Xiaoou Tang .[Deep Learning Multi-View Representation for Face Recognition](https://arxiv.org/pdf/1406.06947) .[J] arXiv preprint arXiv:1406.06947.
