@@ -5,7 +5,7 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **[Face Recognition && Face Identification && Face Verification && Face Representation](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition)**;  
 > * **[Face Reconstruction](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction)**;   
 > * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking)**;   
-> * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring)**;   
+> * **[Face Super-Resolution && Face Deblurring && Face Hallucination](hhttps://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination)**;   
 > * **[Face Generation && Face Synthesis](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis)**;   
 > * **[Face Transfer](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer) && Face swapping**;   
 > * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing)**;   
@@ -755,7 +755,6 @@ also, some papers and links collected from:
 - Shizhan Zhu, Sifei Liu, Chen Change Loy, Xiaoou Tang .[Deep Cascaded Bi-Network for Face Hallucination](https://arxiv.org/pdf/1607.05046) .[J] arXiv preprint arXiv:1607.05046.
 - Shanjun Mao, Yiping Zhang, Zhihong Zhang, Da Zhou .[A Boosting Method to Face Image Super-resolution](https://arxiv.org/pdf/1609.01805) .[J] arXiv preprint arXiv:1609.01805.
 - Jose Lezama, Qiang Qiu, Guillermo Sapiro .[Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-spectral  Hallucination and Low-rank Embedding](https://arxiv.org/pdf/1611.06638) .[J] arXiv preprint arXiv:1611.06638.
-
 - Grigorios G. Chrysos, Stefanos Zafeiriou .[Deep Face Deblurring](https://arxiv.org/pdf/1704.08772) .[J] arXiv preprint arXiv:1704.08772.
 - Zhimin Chen, Yuguang Tong .[Face Super-Resolution Through Wasserstein GANs](https://arxiv.org/pdf/1705.02438) .[J] arXiv preprint arXiv:1705.02438.
 - Yibing Song, Jiawei Zhang, Shengfeng He, Linchao Bao, Qingxiong Yang .[Learning to Hallucinate Face Images via Component Generation and  Enhancement](https://arxiv.org/pdf/1708.00223) .[J] arXiv preprint arXiv:1708.00223.
@@ -842,13 +841,13 @@ also, some papers and links collected from:
 - Fei Peng, Le-bing Zhang, Min Long .[FD-GAN: Face-demorphing generative adversarial network for restoring accomplice's facial image](https://arxiv.org/pdf/1811.07665) .[J] arXiv preprint arXiv:1811.07665.
 - Adam Kortylewski, Andreas Schneider, Thomas Gerig, Clemens Blumer, Bernhard Egger, Corius Reyneke, Andreas Morel-Forster, Thomas Vetter .[Priming Deep Neural Networks with Synthetic Faces for Enhanced Performance](https://arxiv.org/pdf/1811.08565) .[J] arXiv preprint arXiv:1811.08565.
 - Chi Nhan Duong, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le .[Automatic Face Aging in Videos via Deep Reinforcement Learning](https://arxiv.org/pdf/1811.11082) .[J] arXiv preprint arXiv:1811.11082.
+
 ---
 ## Face Transfer
 - Long Zhao, Fangda Han, Mubbasir Kapadia, Vladimir Pavlovic, Dimitris Metaxas .[Sketch-based Face Editing in Video Using Identity Deformation Transfer](https://arxiv.org/pdf/1703.08738) .[J] arXiv preprint arXiv:1703.08738.
 - Runze Xu, Zhiming Zhou, Weinan Zhang, Yong Yu .[Face Transfer with Generative Adversarial Network](https://arxiv.org/pdf/1710.06090) .[J] arXiv preprint arXiv:1710.06090.
 - Taihong Xiao, Jiapeng Hong, Jinwen Ma .[ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple  Face Attributes](https://arxiv.org/pdf/1803.10562) .[J] arXiv preprint arXiv:1803.10562.
 - Wayne Wu, Yunxuan Zhang, Cheng Li, Chen Qian, Chen Change Loy .[ReenactGAN: Learning to Reenact Faces via Boundary Transfer](https://arxiv.org/pdf/1807.11079) .[J] arXiv preprint arXiv:1807.11079.
-
 
 ## Face Swapping
 - Sao Mai Nguyen (INRIA Bordeaux - Sud-Ouest), Masaki Ogino, Minoru Asada .[Real-time face swapping as a tool for understanding infant  self-recognition](https://arxiv.org/pdf/1112.02095) .[J] arXiv preprint arXiv:1112.02095.
