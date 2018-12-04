@@ -751,9 +751,15 @@ also, some papers and links collected from:
 
 ---
 ## Face Super-Resolution && Face Deblurring  && Face Hallucination
+- Reuben Farrugia, Christine Guillemot .[Face Hallucination using Linear Models of Coupled Sparse Support](https://arxiv.org/pdf/1512.06009) .[J] arXiv preprint arXiv:1512.06009.
+- Shizhan Zhu, Sifei Liu, Chen Change Loy, Xiaoou Tang .[Deep Cascaded Bi-Network for Face Hallucination](https://arxiv.org/pdf/1607.05046) .[J] arXiv preprint arXiv:1607.05046.
 - Shanjun Mao, Yiping Zhang, Zhihong Zhang, Da Zhou .[A Boosting Method to Face Image Super-resolution](https://arxiv.org/pdf/1609.01805) .[J] arXiv preprint arXiv:1609.01805.
+- Jose Lezama, Qiang Qiu, Guillermo Sapiro .[Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-spectral  Hallucination and Low-rank Embedding](https://arxiv.org/pdf/1611.06638) .[J] arXiv preprint arXiv:1611.06638.
+
 - Grigorios G. Chrysos, Stefanos Zafeiriou .[Deep Face Deblurring](https://arxiv.org/pdf/1704.08772) .[J] arXiv preprint arXiv:1704.08772.
 - Zhimin Chen, Yuguang Tong .[Face Super-Resolution Through Wasserstein GANs](https://arxiv.org/pdf/1705.02438) .[J] arXiv preprint arXiv:1705.02438.
+- Yibing Song, Jiawei Zhang, Shengfeng He, Linchao Bao, Qingxiong Yang .[Learning to Hallucinate Face Images via Component Generation and  Enhancement](https://arxiv.org/pdf/1708.00223) .[J] arXiv preprint arXiv:1708.00223.
+- Qingxing Cao, Liang Lin, Yukai Shi, Xiaodan Liang, Guanbin Li .[Attention-Aware Face Hallucination via Deep Reinforcement Learning](https://arxiv.org/pdf/1708.03132) .[J] arXiv preprint arXiv:1708.03132.
 - E. Ustinova, V. Lempitsky .[Deep multi-frame face super-resolution](https://arxiv.org/pdf/1709.03196) .[J] arXiv preprint arXiv:1709.03196.
 - Lingxiao Wang, Yali Li, Shengjin Wang .[DeepDeblur: Fast one-step blurry face images restoration](https://arxiv.org/pdf/1711.09515) .[J] arXiv preprint arXiv:1711.09515.
 - Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, Jian Yang .[FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](https://arxiv.org/pdf/1711.10703) .[J] arXiv preprint arXiv:1711.10703.
@@ -761,9 +767,14 @@ also, some papers and links collected from:
 -  .[Motion deblurring of faces](https://arxiv.org/pdf/1803.03330) .[J] arXiv preprint arXiv:1803.03330.
 -  .[Deep Semantic Face Deblurring](https://arxiv.org/pdf/1803.03345) .[J] arXiv preprint arXiv:1803.03345.
 - Klemen Grm, Simon Dobrišek, Walter J. Scheirer, Vitomir Štruc .[Face hallucination using cascaded super-resolution and identity priors](https://arxiv.org/pdf/1805.10938) .[J] arXiv preprint arXiv:1805.10938.
+- Junjun Jiang, Yi Yu, Jinhui Hu, Suhua Tang, Jiayi Ma .[Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face  Hallucination](https://arxiv.org/pdf/1806.10726) .[J] arXiv preprint arXiv:1806.10726.
+- Chih-Chung Hsu, Chia-Wen Lin, Weng-Tai Su, Gene Cheung .[SiGAN: Siamese Generative Adversarial Network for Identity-Preserving  Face Hallucination](https://arxiv.org/pdf/1807.08370) .[J] arXiv preprint arXiv:1807.08370.
+- Junjun Jiang, Yi Yu, Suhua Tang, Jiayi Ma, Akiko Aizawa, Kiyoharu Aizawa .[Context-Patch Face Hallucination Based on Thresholding  Locality-constrained Representation and Reproducing Learning](https://arxiv.org/pdf/1809.00665) .[J] arXiv preprint arXiv:1809.00665.
+- Shu Liang, Ira Kemelmacher-Shlizerman, Linda G. Shapiro .[3D Face Hallucination from a Single Depth Frame](https://arxiv.org/pdf/1809.04764) .[J] arXiv preprint arXiv:1809.04764.
 - Kaipeng Zhang, Zhanpeng Zhang, Chia-Wen Cheng, Winston H. Hsu, Yu Qiao, Wei Liu, Tong Zhang .[Super-Identity Convolutional Neural Network for Face Hallucination](https://arxiv.org/pdf/1811.02328) .[J] arXiv preprint arXiv:1811.02328.
 - Lianping Yang, Bin Shao, Ting Sun, Song Ding, Xiangde Zhang .[Hallucinating very low-resolution and obscured face images](https://arxiv.org/pdf/1811.04645) .[J] arXiv preprint arXiv:1811.04645.
 - Sandipan Banerjee, Walter J. Scheirer, Kevin W. Bowyer, Patrick J. Flynn .[On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs](https://arxiv.org/pdf/1811.07104) .[J] arXiv preprint arXiv:1811.07104.
+- Yibing Song, Jiawei Zhang, Lijun Gong, Shengfeng He, Linchao Bao, Jinshan Pan, Qingxiong Yang, Ming-Hsuan Yang .[Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement](https://arxiv.org/pdf/1811.09019) .[J] arXiv preprint arXiv:1811.09019.
 
 ---
 ## Face Generation && Face Synthesis
@@ -830,8 +841,7 @@ also, some papers and links collected from:
 - Dimitrios Kollias, Shiyang Cheng, Evangelos Ververas, Irene Kotsia, Stefanos Zafeiriou .[Generating faces for affect analysis](https://arxiv.org/pdf/1811.05027) .[J] arXiv preprint arXiv:1811.05027.
 - Fei Peng, Le-bing Zhang, Min Long .[FD-GAN: Face-demorphing generative adversarial network for restoring accomplice's facial image](https://arxiv.org/pdf/1811.07665) .[J] arXiv preprint arXiv:1811.07665.
 - Adam Kortylewski, Andreas Schneider, Thomas Gerig, Clemens Blumer, Bernhard Egger, Corius Reyneke, Andreas Morel-Forster, Thomas Vetter .[Priming Deep Neural Networks with Synthetic Faces for Enhanced Performance](https://arxiv.org/pdf/1811.08565) .[J] arXiv preprint arXiv:1811.08565.
-- Yibing Song, Jiawei Zhang, Lijun Gong, Shengfeng He, Linchao Bao, Jinshan Pan, Qingxiong Yang, Ming-Hsuan Yang .[Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement](https://arxiv.org/pdf/1811.09019) .[J] arXiv preprint arXiv:1811.09019.
-
+- Chi Nhan Duong, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le .[Automatic Face Aging in Videos via Deep Reinforcement Learning](https://arxiv.org/pdf/1811.11082) .[J] arXiv preprint arXiv:1811.11082.
 ---
 ## Face Transfer
 - Long Zhao, Fangda Han, Mubbasir Kapadia, Vladimir Pavlovic, Dimitris Metaxas .[Sketch-based Face Editing in Video Using Identity Deformation Transfer](https://arxiv.org/pdf/1703.08738) .[J] arXiv preprint arXiv:1703.08738.
