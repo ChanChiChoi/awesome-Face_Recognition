@@ -6,8 +6,8 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **[Face Reconstruction](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction)**;   
 > * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking)**;   
 > * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination)**;   
-> * **[Face Generation && Face Synthesis](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis)**;   
-> * **[Face Transfer](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer) && Face swapping**;   
+> * **[Face Generation && Face Synthesis && Face Completion && Face Restoration](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration)**;   
+> * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) && Face swapping**;   
 > * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing)**;   
 > * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
 > * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets)**
