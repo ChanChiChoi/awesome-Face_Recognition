@@ -707,10 +707,8 @@ also, some papers and links collected from:
 ---
 ## Face(Facial) attribute && Face(Facial) analysis
 - Vinay Bettadapura .[Face Expression Recognition and Analysis: The State of the Art](https://arxiv.org/pdf/1203.06722) .[J] arXiv preprint arXiv:1203.06722.
-- H. Emrah Tasli, Paul Ivan .[Turkish Presidential Elections TRT Publicity Speech Facial Expression  Analysis](https://arxiv.org/pdf/1408.03573) .[J] arXiv preprint arXiv:1408.03573.
 - Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang .[Learning Deep Representation for Face Alignment with Auxiliary  Attributes](https://arxiv.org/pdf/1408.03967) .[J] arXiv preprint arXiv:1408.03967.
 - Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Attributes in the Wild](https://arxiv.org/pdf/1411.07766) .[J] arXiv preprint arXiv:1411.07766.
-- Huibin Li, Jian Sun, Dong Wang, Zongben Xu, Liming Chen .[Deep Representation of Facial Geometric and Photometric Attributes for  Automatic 3D Facial Expression Recognition](https://arxiv.org/pdf/1511.03015) .[J] arXiv preprint arXiv:1511.03015.
 - David Rim, Sina Honari, Md Kamrul Hasan, Chris Pal .[Improving Facial Analysis and Performance Driven Animation through  Disentangling Identity and Expression](https://arxiv.org/pdf/1512.08212) .[J] arXiv preprint arXiv:1512.08212.
 - Yang Zhong, Josephine Sullivan, Haibo Li .[Leveraging Mid-Level Deep Representations For Predicting Face Attributes  in the Wild](https://arxiv.org/pdf/1602.01827) .[J] arXiv preprint arXiv:1602.01827.
 - Yang Zhong, Josephine Sullivan, Haibo Li .[Face Attribute Prediction Using Off-the-Shelf CNN Features](https://arxiv.org/pdf/1602.03935) .[J] arXiv preprint arXiv:1602.03935.
@@ -741,7 +739,6 @@ also, some papers and links collected from:
 - Michel F. Valstar, Enrique Sánchez-Lozano, Jeffrey F. Cohn, László A. Jeni, Jeffrey M. Girard, Zheng Zhang, Lijun Yin, Maja Pantic .[FERA 2017 - Addressing Head Pose in the Third Facial Expression  Recognition and Analysis Challenge](https://arxiv.org/pdf/1702.04174) .[J] arXiv preprint arXiv:1702.04174.
 - Weidong Yin, Yanwei Fu, Leonid Sigal, Xiangyang Xue .[Semi-Latent GAN: Learning to generate and modify facial images from  attributes](https://arxiv.org/pdf/1704.02166) .[J] arXiv preprint arXiv:1704.02166.
 - Mahdi M. Kalayeh, Boqing Gong, Mubarak Shah .[Improving Facial Attribute Prediction using Semantic Segmentation](https://arxiv.org/pdf/1704.08740) .[J] arXiv preprint arXiv:1704.08740.
-- Dmytro Derkach, Federico M. Sukno .[Local Shape Spectrum Analysis for 3D Facial Expression Recognition](https://arxiv.org/pdf/1705.06900) .[J] arXiv preprint arXiv:1705.06900.
 - Yongyi Lu, Yu-Wing Tai, Chi-Keung Tang .[Conditional CycleGAN for Attribute Guided Face Image Generation](https://arxiv.org/pdf/1705.09966) .[J] arXiv preprint arXiv:1705.09966.
 - Hu Han, Anil K. Jain, Fang Wang, Shiguang Shan, Xilin Chen .[Heterogeneous Face Attribute Estimation: A Deep Multi-Task Learning  Approach](https://arxiv.org/pdf/1706.00906) .[J] arXiv preprint arXiv:1706.00906.
 - Ana Vukadin, Aida Slavic .[Challenges of facet analysis and concept placement in universal  classifications: the example of architecture in UDC](https://arxiv.org/pdf/1706.07931) .[J] arXiv preprint arXiv:1706.07931.
