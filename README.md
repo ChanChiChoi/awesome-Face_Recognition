@@ -706,29 +706,11 @@ also, some papers and links collected from:
 
 ---
 ## Face(Facial) attribute && Face(Facial) analysis
-- Phalguni Gupta, Dakshina Ranjan Kisku, Jamuna Kanta Sing, Massimo Tistarelli .[Maximized Posteriori Attributes Selection from Facial Salient Landmarks  for Face Recognition](https://arxiv.org/pdf/1004.01887) .[J] arXiv preprint arXiv:1004.01887.
-- S. Sakthivel, R. Lakshmipathi .[Weighted Attribute Fusion Model for Face Recognition](https://arxiv.org/pdf/1009.00623) .[J] arXiv preprint arXiv:1009.00623.
-- Mrinal Kanti Bhowmik, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri .[Polar Fusion Technique Analysis for Evaluating the Performances of Image  Fusion of Thermal and Visual Images for Human Face Recognition](https://arxiv.org/pdf/1106.03464) .[J] arXiv preprint arXiv:1106.03464.
-- Thai Le, Phat Tat, Hai Tran .[Facial Expression Classification Based on Multi Artificial Neural  Network and Two Dimensional Principal Component Analysis](https://arxiv.org/pdf/1107.03195) .[J] arXiv preprint arXiv:1107.03195.
-- Le Hoang Thai, Nguyen Do Thai Nguyen, Tran Son Hai .[A Facial Expression Classification System Integrating Canny, Principal  Component Analysis and Artificial Neural Network](https://arxiv.org/pdf/1111.04052) .[J] arXiv preprint arXiv:1111.04052.
 - Vinay Bettadapura .[Face Expression Recognition and Analysis: The State of the Art](https://arxiv.org/pdf/1203.06722) .[J] arXiv preprint arXiv:1203.06722.
-- Quan Wang .[Kernel Principal Component Analysis and its Applications in Face  Recognition and Active Shape Models](https://arxiv.org/pdf/1207.03538) .[J] arXiv preprint arXiv:1207.03538.
-- Alan Brunton, Augusto Salazar, Timo Bolkart, Stefanie Wuhrer .[Review of Statistical Shape Spaces for 3D Data with Comparative Analysis  for Human Faces](https://arxiv.org/pdf/1209.06491) .[J] arXiv preprint arXiv:1209.06491.
-- Arindam Kar, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri, Mahantapas Kundu .[A Face Recognition approach based on entropy estimate of the nonlinear  DCT features in the Logarithm Domain together with Kernel Entropy Component  Analysis](https://arxiv.org/pdf/1312.01520) .[J] arXiv preprint arXiv:1312.01520.
-- Arindam Kar, Debotosh Bhattacharjee, Dipak Kumar Basu, Mita Nasipuri, Mahantapas Kundu .[Human Face Recognition using Gabor based Kernel Entropy Component  Analysis](https://arxiv.org/pdf/1312.01685) .[J] arXiv preprint arXiv:1312.01685.
-- Dharini S., Guru Prasad M., Hari haran. V., Kiran Tej J. L., Kunal Ghosh .[Analysis and Understanding of Various Models for Efficient  Representation and Accurate Recognition of Human Faces](https://arxiv.org/pdf/1312.03787) .[J] arXiv preprint arXiv:1312.03787.
-- V. Karthikeyan, Manjupriya, C.K. Chithra, M. Divya .[Face Verification Using Kernel Principle Component Analysis](https://arxiv.org/pdf/1401.06108) .[J] arXiv preprint arXiv:1401.06108.
-- Hongli Liu, Weifeng Liu, Yanjiang Wang .[Multi-view Face Analysis Based on Gabor Features](https://arxiv.org/pdf/1403.01327) .[J] arXiv preprint arXiv:1403.01327.
 - H. Emrah Tasli, Paul Ivan .[Turkish Presidential Elections TRT Publicity Speech Facial Expression  Analysis](https://arxiv.org/pdf/1408.03573) .[J] arXiv preprint arXiv:1408.03573.
 - Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang .[Learning Deep Representation for Face Alignment with Auxiliary  Attributes](https://arxiv.org/pdf/1408.03967) .[J] arXiv preprint arXiv:1408.03967.
 - Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang .[Deep Learning Face Attributes in the Wild](https://arxiv.org/pdf/1411.07766) .[J] arXiv preprint arXiv:1411.07766.
-- Samir F. Hafez, Mazen M. Selim, Hala H. Zayed .[2D Face Recognition System Based on Selected Gabor Filters and Linear  Discriminant Analysis LDA](https://arxiv.org/pdf/1503.03741) .[J] arXiv preprint arXiv:1503.03741.
-- Abdelmajid Hassan Mansour, Gafar Zen Alabdeen Salh, Ali Shaif Alhalemi .[Facial Expressions recognition Based on Principal Component Analysis  (PCA)](https://arxiv.org/pdf/1506.01939) .[J] arXiv preprint arXiv:1506.01939.
-- Annan Li, Shiguang Shan, Xilin Chen, Bingpeng Ma, Shuicheng Yan, Wen Gao .[Cross-pose Face Recognition by Canonical Correlation Analysis](https://arxiv.org/pdf/1507.08076) .[J] arXiv preprint arXiv:1507.08076.
-- Eric Showers, Nathan Tindall, Todd Davies .[Equality of Participation Online Versus Face to Face: Condensed Analysis  of the Community Forum Deliberative Methods Demonstration](https://arxiv.org/pdf/1508.00883) .[J] arXiv preprint arXiv:1508.00883.
-- Hongyu Yang, Di Huang, Yunhong Wang, Heng Wang, Yuanyan Tang .[Face Aging Effect Simulation using Hidden Factor Analysis Joint Sparse  Representation](https://arxiv.org/pdf/1511.01186) .[J] arXiv preprint arXiv:1511.01186.
 - Huibin Li, Jian Sun, Dong Wang, Zongben Xu, Liming Chen .[Deep Representation of Facial Geometric and Photometric Attributes for  Automatic 3D Facial Expression Recognition](https://arxiv.org/pdf/1511.03015) .[J] arXiv preprint arXiv:1511.03015.
-- Zinelabidine Boulkenafet, Jukka Komulainen, Abdenour Hadid .[face anti-spoofing based on color texture analysis](https://arxiv.org/pdf/1511.06316) .[J] arXiv preprint arXiv:1511.06316.
 - David Rim, Sina Honari, Md Kamrul Hasan, Chris Pal .[Improving Facial Analysis and Performance Driven Animation through  Disentangling Identity and Expression](https://arxiv.org/pdf/1512.08212) .[J] arXiv preprint arXiv:1512.08212.
 - Yang Zhong, Josephine Sullivan, Haibo Li .[Leveraging Mid-Level Deep Representations For Predicting Face Attributes  in the Wild](https://arxiv.org/pdf/1602.01827) .[J] arXiv preprint arXiv:1602.01827.
 - Yang Zhong, Josephine Sullivan, Haibo Li .[Face Attribute Prediction Using Off-the-Shelf CNN Features](https://arxiv.org/pdf/1602.03935) .[J] arXiv preprint arXiv:1602.03935.
