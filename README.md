@@ -2,7 +2,7 @@
 this collecting the papers (main from arxiv.org) about bellow themes:  
 > * **[Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-detection)**;   
 > * **[Face Alignment](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment)**;   
-> * **[Face Recognition && Face Identification && Face Verification && Face Representation](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition)**;  
+> * **[Face Recognition && Face Identification && Face Verification && Face Representation && Face Attribute && Face Analysis](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-recognition)**;  
 > * **[Face Reconstruction](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-reconstruction)**;   
 > * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking)**;   
 > * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination)**;   
@@ -569,6 +569,7 @@ also, some papers and links collected from:
 - 【others】Yuan Y, Yang K, Zhang C. [eature Incay for Representation Regularization](https://arxiv.org/abs/1705.10284)[J]. arXiv preprint arXiv:1705.10284, 2017.
 - Karan Maheshwari, Nalini N .[Facial Recognition Enabled Smart Door Using Microsoft Face API](https://arxiv.org/pdf/1706.00498) .[J] arXiv preprint arXiv:1706.00498.
 - M. Y. Shams, A. S. Tolba, S.H. Sarhan .[A Vision System for Multi-View Face Recognition](https://arxiv.org/pdf/1706.00510) .[J] arXiv preprint arXiv:1706.00510.
+- Hu Han, Anil K. Jain, Fang Wang, Shiguang Shan, Xilin Chen. [Heterogeneous Face Attribute Estimation: A Deep Multi-Task Learning  Approach](https://arxiv.org/pdf/1706.00906) .[J] arXiv preprint arXiv:1706.00906.
 - Chris Larson, Josef Spjut, Ross Knepper, Robert Shepherd .[A Deformable Interface for Human Touch Recognition using Stretchable  Carbon Nanotube Dielectric Elastomer Sensors and Deep Neural Networks](https://arxiv.org/pdf/1706.02542) .[J] arXiv preprint arXiv:1706.02542.
 - Erfan Zangeneh (1), Mohammad Rahmati (1), Yalda Mohsenzadeh (2) ((1) Amirkabir University of Technology, (2) Massachusetts Institute of Technology) .[Low Resolution Face Recognition Using a Two-Branch Deep Convolutional  Neural Network Architecture](https://arxiv.org/pdf/1706.06247) .[J] arXiv preprint arXiv:1706.06247.
 - Johannes Reschke, Armin Sehr .[Face Recognition with Machine Learning in OpenCV_ Fusion of the results  with the Localization Data of an Acoustic Camera for Speaker Identification](https://arxiv.org/pdf/1707.00835) .[J] arXiv preprint arXiv:1707.00835.
@@ -637,8 +638,10 @@ also, some papers and links collected from:
 - Mei Wang, Weihong Deng .[Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655) .[J] arXiv preprint arXiv:1804.06655.
 - 【MobileFaceNets】【Angular margin】Chen S, Liu Y, Gao X, et al. [MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573)[J]. arXiv preprint arXiv:1804.07573, 2018.<br>[code:[sirius-ai/MobileFaceNet_TF](https://github.com/sirius-ai/MobileFaceNet_TF); &nbsp;&nbsp; [github_search](https://github.com/search?p=1&q=MobileFaceNets&type=Repositories)]
 - Debayan Deb, Susan Wiper, Alexandra Russo, Sixue Gong, Yichun Shi, Cori Tymoszek, Anil Jain .[Face Recognition: Primates in the Wild](https://arxiv.org/pdf/1804.08790) .[J] arXiv preprint arXiv:1804.08790.
+- Ruoqi Sun, Chen Huang, Jianping Shi, Lizhuang Ma .[Mask-aware Photorealistic Face Attribute Manipulation](https://arxiv.org/pdf/1804.08882) .[J] arXiv preprint arXiv:1804.08882.
 - Zhiyi Cheng, Xiatian Zhu, Shaogang Gong .[Surveillance Face Recognition Challenge](https://arxiv.org/pdf/1804.09691) .[J] arXiv preprint arXiv:1804.09691.
 - Bowen Wu, Huaming Wu, Monica M.Y. Zhang .[Scalable Angular Discriminative Deep Metric Learning for Face  Recognition](https://arxiv.org/pdf/1804.10899) .[J] arXiv preprint arXiv:1804.10899.
+- Fariborz Taherkhani, Nasser M. Nasrabadi, Jeremy Dawson. [A Deep Face Identification Network Enhanced by Facial Attributes  Prediction](https://arxiv.org/pdf/1805.00324) .[J] arXiv preprint arXiv:1805.00324.
 - Ziqing Feng, Qijun Zhao .[Robust Face Recognition with Deeply Normalized Depth Images](https://arxiv.org/pdf/1805.00406) .[J] arXiv preprint arXiv:1805.00406.
 - Bangjie Yin, Luan Tran, Haoxiang Li, Xiaohui Shen, Xiaoming Liu .[Towards Interpretable Face Recognition](https://arxiv.org/pdf/1805.00611) .[J] arXiv preprint arXiv:1805.00611.
 - Lingfeng Zhang, Ioannis A. Kakadiaris .[Fully Associative Patch-based 1-to-N Matcher for Face Recognition](https://arxiv.org/pdf/1805.06306) .[J] arXiv preprint arXiv:1805.06306.
@@ -835,6 +838,7 @@ also, some papers and links collected from:
 ### 2018
 - Xing Di, Vishal M. Patel .[Face Synthesis from Visual Attributes via Sketch using Conditional VAEs  and GANs](https://arxiv.org/pdf/1801.00077) .[J] arXiv preprint arXiv:1801.00077.
 - Fania Mokhayeri, Eric Granger, Guillaume-Alexandre Bilodeau .[Domain-Specific Face Synthesis for Video Face Recognition from a Single  Sample Per Person](https://arxiv.org/pdf/1801.01974) .[J] arXiv preprint arXiv:1801.01974.
+- Zeyuan Chen, Shaoliang Nie, Tianfu Wu, Christopher G. Healey. [High Resolution Face Completion with Multiple Controllable Attributes  via Fully End-to-End Progressive Generative Adversarial Networks](https://arxiv.org/pdf/1802.07632) .[J] arXiv preprint arXiv:1802.07632.
 - Shabab Bazrafkan, Hossein Javidnia, Peter Corcoran .[Face Synthesis with Landmark Points from Generative Adversarial Networks  and Inverse Latent Space Mapping](https://arxiv.org/pdf/1802.00390) .[J] arXiv preprint arXiv:1802.00390.
 - Jie Cao, Yibo Hu, Bing Yu, Ran He, Zhenan Sun .[Load Balanced GANs for Multi-view Face Image Synthesis](https://arxiv.org/pdf/1802.07447) .[J] arXiv preprint arXiv:1802.07447.
 - Sefik Emre Eskimez, Ross K Maddox, Chenliang Xu, Zhiyao Duan .[Generating Talking Face Landmarks from Speech](https://arxiv.org/pdf/1803.09803) .[J] arXiv preprint arXiv:1803.09803.
