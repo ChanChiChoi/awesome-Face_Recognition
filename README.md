@@ -692,7 +692,7 @@ also, some papers and links collected from:
 - Xiaobo Wang, Shuo Wang, Shifeng Zhang, Tianyu Fu, Hailin Shi, Tao Mei .[Support Vector Guided Softmax Loss for Face Recognition](https://arxiv.org/pdf/1812.11317) .[J] arXiv preprint arXiv:1812.11317.
 
 ---
-## Face(Facial) attribute && Face(Facial) analysis
+## Face(Facial) Attribute && Face(Facial) Analysis
 ### 2012
 - Vinay Bettadapura .[Face Expression Recognition and Analysis: The State of the Art](https://arxiv.org/pdf/1203.06722) .[J] arXiv preprint arXiv:1203.06722.
 
