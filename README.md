@@ -710,7 +710,7 @@ also, some papers and links collected from:
 - Thrupthi Ann John, Isha Dua, Vineeth N Balasubramanian, C. V. Jawahar .[Low-Cost Transfer Learning of Face Tasks](https://arxiv.org/pdf/1901.02675) .[J] arXiv preprint arXiv:1901.02675.
 - Yash Srivastava, Vaishnav Murali, Shiv Ram Dubey .[A Performance Comparison of Loss Functions for Deep Face Recognition](https://arxiv.org/pdf/1901.05903) .[J] arXiv preprint arXiv:1901.05903.
 - Xiang Xu, Ioannis A. Kakadiaris .[Open Source Face Recognition Performance Evaluation Package](https://arxiv.org/pdf/1901.09447) .[J] arXiv preprint arXiv:1901.09447.
-- Michele Merler, Nalini Ratha, Rogerio S. Feris, John R. Smith .[Diversity in Faces](https://arxiv.org/pdf/1901.10436) .[J] arXiv preprint arXiv:1901.10436.
+- 【Dataset】Michele Merler, Nalini Ratha, Rogerio S. Feris, John R. Smith .[Diversity in Faces](https://arxiv.org/pdf/1901.10436) .[J] arXiv preprint arXiv:1901.10436.
 
 
 ---
