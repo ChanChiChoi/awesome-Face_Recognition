@@ -752,6 +752,7 @@ also, some papers and links collected from:
 - 【Survey】Xiang Wang, Kai Wang, Shiguo Lian .[A Survey on Face Data Augmentation](https://arxiv.org/pdf/1904.11685) .[J] arXiv preprint arXiv:1904.11685.
 - Sixue Gong, Yichun Shi, Anil K. Jain, Nathan D. Kalka .[Recurrent Embedding Aggregation Network for Video Face Recognition](https://arxiv.org/pdf/1904.12019) .[J] arXiv preprint arXiv:1904.12019.
 - Tao Li, Lei Lin .[AnonymousNet: Natural Face De-Identification with Measurable Privacy](https://arxiv.org/pdf/1904.12620) .[J] arXiv preprint arXiv:1904.12620.
+- Yichun Shi, Anil K. Jain, Nathan D. Kalka .[Probabilistic Face Embeddings](https://arxiv.org/pdf/1904.09658) .[J] arXiv preprint arXiv:1904.09658.
 
 
 ---
@@ -1054,6 +1055,12 @@ also, some papers and links collected from:
 - Fatemeh Shiri, Xin Yu, Fatih Porikli, Richard Hartley, Piotr Koniusz .[Identity-preserving Face Recovery from Stylized Portraits](https://arxiv.org/pdf/1904.04241) .[J] arXiv preprint arXiv:1904.04241.
 - Fanzi Wu, Linchao Bao, Yajing Chen, Yonggen Ling, Yibing Song, Songnan Li, King Ngi Ngan, Wei Liu .[MVF-Net: Multi-View 3D Face Morphable Model Regression](https://arxiv.org/pdf/1904.04473) .[J] arXiv preprint arXiv:1904.04473.
 - Luan Tran, Feng Liu, Xiaoming Liu .[Towards High-fidelity Nonlinear 3D Face Morphable Model](https://arxiv.org/pdf/1904.04933) .[J] arXiv preprint arXiv:1904.04933.
+- Xiang Chen, Lingbo Qing, Xiaohai He, Xiaodong Luo, Yining Xu .[FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation](https://arxiv.org/pdf/1904.05729) .[J] arXiv preprint arXiv:1904.05729.
+- Xiaowei Yuan, In Kyu Park .[Face De-occlusion using 3D Morphable Model and Generative Adversarial Network](https://arxiv.org/pdf/1904.06109) .[J] arXiv preprint arXiv:1904.06109.
+- Xing Di, Benjamin S. Riggan, Shuowen Hu, Nathaniel J. Short, Vishal M. Patel .[Polarimetric Thermal to Visible Face Verification via Self-Attention Guided Synthesis](https://arxiv.org/pdf/1904.07344) .[J] arXiv preprint arXiv:1904.07344.
+- Abdullah Hamdi, Bernard Ghanem .[IAN: Combining Generative Adversarial Networks for Imaginative Face Generation](https://arxiv.org/pdf/1904.07916) .[J] arXiv preprint arXiv:1904.07916.
+- Kritaphat Songsri-in, Stefanos Zafeiriou .[Face Video Generation from a Single Image and Landmarks](https://arxiv.org/pdf/1904.11521) .[J] arXiv preprint arXiv:1904.11521.
+- Zhaoxiang Liu, Zezhou Chen, Jinqiang Bai, Shaohua Li, Shiguo Lian .[Deep Learning-based Face Pose Recovery](https://arxiv.org/pdf/1904.13102) .[J] arXiv preprint arXiv:1904.13102.
 
 ---
 ## Face Transfer && Face Editing
