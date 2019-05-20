@@ -8,7 +8,7 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **[Face Tracking](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-tracking)**;   
 > * **[Face Clustering](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-clustering)**;  
 > * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination)**;   
-> * **[Face Generation && Face Synthesis && Face Completion && Face Restoration](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration)**;   
+> * **[Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration--face-occlusion)**;   
 > * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) && Face swapping**;   
 > * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing)**;   
 > * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
@@ -547,7 +547,6 @@ also, some papers and links collected from:
 - Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis .[Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/pdf/1611.09577) .[J] arXiv preprint arXiv:1611.09577.
 - Guido Borghi, Marco Venturelli, Roberto Vezzani, Rita Cucchiara .[POSEidon: Face-from-Depth for Driver Pose Estimation](https://arxiv.org/pdf/1611.10195) .[J] arXiv preprint arXiv:1611.10195.
 - Viet-Hang Duong, Yuan-Shan Lee, Bach-Tung Pham, Seksan Mathulaprangsan, Pham The Bao, Jia-Ching Wang .[Complex Matrix Factorization for Face Recognition](https://arxiv.org/pdf/1612.02513) .[J] arXiv preprint arXiv:1612.02513.
-- Fang Zhao, Jiashi Feng, Jian Zhao, Wenhan Yang, Shuicheng Yan .[Robust LSTM-Autoencoders for Face De-Occlusion in the Wild](https://arxiv.org/pdf/1612.08534) .[J] arXiv preprint arXiv:1612.08534.
 - Zhen-Hua Feng, Josef Kittler, William Christmas, Xiao-Jun Wu .[A Unified Tensor-based Active Appearance Face Model](https://arxiv.org/pdf/1612.09548) .[J] arXiv preprint arXiv:1612.09548.
 - 【L-Softmax loss】Liu W, Wen Y, Yu Z, et al. [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/pdf/1612.02295.pdf)[J]arXiv preprint arXiv:1612.02295..<br>[code:[wy1iu/LargeMargin_Softmax_Loss](https://github.com/wy1iu/LargeMargin_Softmax_Loss);[luoyetx/mx-lsoftmax](https://github.com/luoyetx/mx-lsoftmax)]
 
@@ -968,7 +967,7 @@ also, some papers and links collected from:
 
 
 ---
-## Face Generation && Face Synthesis && Face Completion && Face Restoration
+## Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion
 ### 2010
 - Santanu Halder, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu, Mahantapas Kundu .[Face Synthesis (FASY) System for Generation of a Face Image from Human  Description](https://arxiv.org/pdf/1005.04034) .[J] arXiv preprint arXiv:1005.04034.
 - Santanu Halder, Debotosh Bhattacharjee, Mita Nasipuri, Dipak Kumar Basu, Mahantapas Kundu .[Face Synthesis (FASY) System for Determining the Characteristics of a  Face Image](https://arxiv.org/pdf/1007.00618) .[J] arXiv preprint arXiv:1007.00618.
@@ -984,6 +983,7 @@ also, some papers and links collected from:
 
 ### 2016
 - Mu Li, Wangmeng Zuo, David Zhang .[Convolutional Network for Attribute-driven and Identity-preserving Human  Face Generation](https://arxiv.org/pdf/1608.06434) .[J] arXiv preprint arXiv:1608.06434.
+- Fang Zhao, Jiashi Feng, Jian Zhao, Wenhan Yang, Shuicheng Yan .[Robust LSTM-Autoencoders for Face De-Occlusion in the Wild](https://arxiv.org/pdf/1612.08534) .[J] arXiv preprint arXiv:1612.08534.
 
 ### 2017
 - 【DR-GAN】Tran L, Yin X, Liu X. [Disentangled representation learning gan for pose-invariant face recognition](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)[C]//CVPR. 2017, 3(6): 7.
