@@ -192,7 +192,7 @@ also, some papers and links collected from:
 - Vishwanath A. Sindagi, Vishal M. Patel .[DAFE-FD: Density Aware Feature Enrichment for Face Detection](https://arxiv.org/pdf/1901.05375) .[J] arXiv preprint arXiv:1901.05375.
 - Shifeng Zhang, Rui Zhu, Xiaobo Wang, Hailin Shi, Tianyu Fu, Shuo Wang, Tao Mei, Stan Z. Li .[Improved Selective Refinement Network for Face Detection](https://arxiv.org/pdf/1901.06651) .[J] arXiv preprint arXiv:1901.06651.
 - Matteo Ferrara, Annalisa Franco, Davide Maltoni .[Face morphing detection in the presence of printing/scanning and heterogeneous image sources](https://arxiv.org/pdf/1901.08811) .[J] arXiv preprint arXiv:1901.08811.
-- Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1901.08971) .[J] arXiv preprint arXiv:1901.08971.
+- 【Dataset】Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1901.08971) .[J] arXiv preprint arXiv:1901.08971.
 - Nguyen Van Quang, Hiromasa Fujihara .[Revisiting a single-stage method for face detection](https://arxiv.org/pdf/1902.01559) .[J] arXiv preprint arXiv:1902.01559.
 - Jianglin Fu, Saeed Ranjbar Alvar, Ivan V. Bajic, Rodney G. Vaughan .[FDDB-360: Face Detection in 360-degree Fisheye Images](https://arxiv.org/pdf/1902.02777) .[J] arXiv preprint arXiv:1902.02777.
 - Bindita Chaudhuri, Noranart Vesdapunt, Baoyuan Wang .[Joint Face Detection and Facial Motion Retargeting for Multiple Faces](https://arxiv.org/pdf/1902.10744) .[J] arXiv preprint arXiv:1902.10744.
