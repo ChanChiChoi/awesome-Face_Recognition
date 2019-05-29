@@ -183,7 +183,7 @@ also, some papers and links collected from:
 - Mahyar Najibi, Bharat Singh, Larry S. Davis .[FA-RPN: Floating Region Proposals for Face Detection](https://arxiv.org/pdf/1812.05586) .[J] arXiv preprint arXiv:1812.05586.
 - 【Dataset】Jian Han, Sezer Karaoglu, Hoang-An Le, Theo Gevers .[Improving Face Detection Performance with 3D-Rendered Synthetic Data](https://arxiv.org/pdf/1812.07363) .[J] arXiv preprint arXiv:1812.07363.
 - Shi Luo, Xiongfei Li, Rui Zhu, Xiaoli Zhang .[SFA: Small Faces Attention Face Detector](https://arxiv.org/pdf/1812.08402) .[J] arXiv preprint arXiv:1812.08402.
-- 【Dataset】Guido Borghi .[Combining Deep and Depth: Deep Learning and Face Depth Maps for Driver Attention Monitoring](https://arxiv.org/pdf/1812.05831) .[J] arXiv preprint arXiv:1812.05831.
+- Guido Borghi .[Combining Deep and Depth: Deep Learning and Face Depth Maps for Driver Attention Monitoring](https://arxiv.org/pdf/1812.05831) .[J] arXiv preprint arXiv:1812.05831.
 
 ### 2019
 - Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramakrishnan .[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://arxiv.org/pdf/1901.01153) .[J] arXiv preprint arXiv:1901.01153.
