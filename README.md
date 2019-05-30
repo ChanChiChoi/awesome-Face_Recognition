@@ -68,12 +68,12 @@ also, some papers and links collected from:
 
 ### 2015
 - 【Cascade】Li H, Lin Z, Shen X, et al. [A convolutional neural network cascade for face detection](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 5325-5334.<br>[code:[anson0910/CNN_face_detection](https://github.com/anson0910/CNN_face_detection)]
-- Yang B, Yan J, Lei Z, et al. [Convolutional channel features](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yang_Convolutional_Channel_Features_ICCV_2015_paper.pdf)[C]//Proceedings of the IEEE international conference on computer vision. 2015: 82-90.
+- Yang B, Yan J, Lei Z, et al. [Convolutional channel features](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yang_Convolutional_Channel_Features_ICCV_2015_paper.pdf)[C]//Proceedings of the IEEE international conference on computer vision. 2015: 82-90.<br>[code:[bitbucket.org/binyangderek/ccf](https://bitbucket.org/binyangderek/ccf)]
 - 【Multiview Face Detection】Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li .[Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766) .[J] arXiv preprint arXiv:1502.02766.<br>[code: [guoyilin/FaceDetection_CNN](https://github.com/guoyilin/FaceDetection_CNN)]
 - Anjith George, Anirban Dasgupta, Aurobinda Routray .[A Framework for Fast Face and Eye Detection](https://arxiv.org/pdf/1505.03344) .[J] arXiv preprint arXiv:1505.03344.
 - Golnaz Ghiasi, Charless C. Fowlkes .[Occlusion Coherence: Detecting and Localizing Occluded Faces](https://arxiv.org/pdf/1506.08347) .[J] arXiv preprint arXiv:1506.08347.
 - Ilya Kalinovskii, Vladimir Spitsyn .[Compact Convolutional Neural Network Cascade for Face Detection](https://arxiv.org/pdf/1508.01292) .[J] arXiv preprint arXiv:1508.01292.
-- Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[A Deep Pyramid Deformable Part Model for Face Detection](https://arxiv.org/pdf/1508.04389) .[J] arXiv preprint arXiv:1508.04389.
+- Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[A Deep Pyramid Deformable Part Model for Face Detection](https://arxiv.org/pdf/1508.04389) .[J] arXiv preprint arXiv:1508.04389.<br>[code:[fddb/results](http://vis-www.cs.umass.edu/fddb/results.html)]
 - Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang .[From Facial Parts Responses to Face Detection: A Deep Learning Approach](https://arxiv.org/pdf/1509.06451) .[J] arXiv preprint arXiv:1509.06451.
 - Babins Shrestha, Nitesh Saxena, Hien Thi Thu Truong, N. Asokan .[Contextual Proximity Detection in the Face of Context-Manipulating  Adversaries](https://arxiv.org/pdf/1511.00905) .[J] arXiv preprint arXiv:1511.00905.
 - Sohini Roychowdhury .[Facial Expression Detection using Patch-based Eigen-face Isomap Networks](https://arxiv.org/pdf/1511.03363) .[J] arXiv preprint arXiv:1511.03363.
