@@ -81,7 +81,6 @@ also, some papers and links collected from:
 
 ### 2016
 - Qin H, Yan J, Li X, et al. [Joint training of cascaded cnn for face detection](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qin_Joint_Training_of_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3456-3465.
-- Yang S, Luo P, Loy C C, et al. [Wider face: A face detection benchmark](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 5525-5533.
 - Michael J. Wilber, Vitaly Shmatikov, Serge Belongie .[Can we still avoid automatic face detection?](https://arxiv.org/pdf/1602.04504) .[J] arXiv preprint arXiv:1602.04504.
 - Sayantan Sarkar, Vishal M. Patel, Rama Chellappa .[Deep Feature-based Face Detection on Mobile Devices](https://arxiv.org/pdf/1602.04868) .[J] arXiv preprint arXiv:1602.04868.
 - Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[HyperFace: A Deep Multi-task Learning Framework for Face Detection,  Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249) .[J] arXiv preprint arXiv:1603.01249.
