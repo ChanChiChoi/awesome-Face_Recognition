@@ -12,7 +12,7 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) && Face swapping**;   
 > * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing)**;   
 > * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
-> * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Application#face-application)**; 
+> * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-application)**; 
 > * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets)**
 
 also, some papers and links collected from:
