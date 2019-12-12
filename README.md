@@ -1340,7 +1340,6 @@ also, some papers and links collected from:
 - Haiping Zhu, Zhizhong Huang, Hongming Shan, Junping Zhang .[Look globally, age locally: Face aging with an attention mechanism](https://arxiv.org/pdf/1910.12771) .[J] arXiv preprint arXiv:1910.12771.
 - Milad Kiaee, Adam B Kashlak, Jisu Kim, Giseon Heo .[Diagnosis of Pediatric Obstructive Sleep Apnea via Face Classification with Persistent Homology and Convolutional Neural Networks](https://arxiv.org/pdf/1911.05628) [J]. arXiv preprint arXiv:1911.05628.
 - Xiuye Gu, Weixin Luo, Michael S. Ryoo, Yong Jae Lee .[Password-conditioned Anonymization and Deanonymization with Face Identity Transformers](https://arxiv.org/pdf/1911.11759) [J]. arXiv preprint arXiv:1911.11759.
-- Tomasz M. Rutkowski, Masato S. Abe, Marcin Koculak, Mihoko Otake-Matsuura .[Cognitive Assessment Estimation from Behavioral Responses in Emotional Faces Evaluation Task -- AI Regression Approach for Dementia Onset Prediction in Aging Societies](https://arxiv.org/pdf/1911.12135) [J]. arXiv preprint arXiv:1911.12135.
 
 
 ---
