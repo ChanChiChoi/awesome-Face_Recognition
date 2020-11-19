@@ -986,6 +986,8 @@ also, some papers and links collected from:
 - Hang Du, Hailin Shi, Dan Zeng, Tao Mei .[The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://arxiv.org/pdf/2009.13290) [J]. arXiv preprint arXiv:2009.13290.
 - Zhiqian You, Tingting Yang, Miao Jin .[Multi-channel Deep 3D Face Recognition](https://arxiv.org/pdf/2009.14743) [J]. arXiv preprint arXiv:2009.14743.
 - Alejandro Peña, Julian Fierrez, Agata Lapedriza, Aythami Morales .[Learning Emotional-Blinded Face Representations](https://arxiv.org/pdf/2009.08704) [J]. arXiv preprint arXiv:2009.08704.
+- Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu.[Partial FC: Training 10 Million Identities on a Single Machine
+](https://arxiv.org/abs/2010.05222)[J]. arXiv preprint arXiv:2010.05222.<br>[code:[deepinsight/insightface/recognition/partial_fc](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc); ]
 
 
 ---
