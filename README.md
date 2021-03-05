@@ -1854,6 +1854,7 @@ also, some papers and links collected from:
 
 
 
+
 ## Model Acceleration && Model Compression
 - Weidong Shi, Guanghui Ren, Yunpeng Chen, Shuicheng Yan .[ProxylessKD: Direct Knowledge Distillation with Inherited Classifier for Face Recognition](https://arxiv.org/pdf/2011.00265) [J]. arXiv preprint arXiv:2011.00265.
 
