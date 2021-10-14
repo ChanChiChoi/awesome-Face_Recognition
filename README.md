@@ -1109,6 +1109,7 @@ also, some papers and links collected from:
 - Qiang Meng, Xiaqing Xu, Xiaobo Wang, Yang Qian, Yunxiao Qin, Zezheng Wang, Chenxu Zhao, Feng Zhou, Zhen Lei .[PoseFace: Pose-Invariant Features and Pose-Adaptive Loss for Face Recognition](https://arxiv.org/pdf/2107.11721) [J]. arXiv preprint arXiv:2107.11721.
 - Fadi Boutros, Naser Damer, Meiling Fang, Florian Kirchbuchner, Arjan Kuijper .[MixFaceNets: Extremely Efficient Face Recognition Networks](https://arxiv.org/pdf/2107.13046) [J]. arXiv preprint arXiv:2107.13046.
 - Fariborz Taherkhani, Veeru Talreja, Jeremy Dawson, Matthew C. Valenti, Nasser M. Nasrabadi .[Profile to Frontal Face Recognition in the Wild Using Coupled Conditional GAN](https://arxiv.org/pdf/2107.13742) [J]. arXiv preprint arXiv:2107.13742.
+- Martin Knoche, Stefan Hörmann, Gerhard Rigoll .[Image Resolution Susceptibility of Face Recognition Models](https://arxiv.org/pdf/2107.03769) [J]. arXiv preprint arXiv:2107.03769.
 
 
 ---
@@ -2094,7 +2095,7 @@ also, some papers and links collected from:
 | **Oulu-NPU**      |           55/3            | [Download](https://sites.google.com/site/oulunpudatabase/)   | 2017 | **2 Print, 6 Replay** | 2017         |
 | **Siw**           |           165/4           | [Download](http://cvlab.cse.msu.edu/spoof-in-the-wild-siw-face-anti-spoofing-database.html) | 2018 | **2 Print, 4 Replay** | 2018         |
 
-#### cross age and cross pose
+#### cross age, cross pose and cross quality
 
 | Datasets     | Description                                                  | Links                                                        | Publish Time |
 | ------------ | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------ |
@@ -2103,6 +2104,7 @@ also, some papers and links collected from:
 | **MPRPH**    | The MORPH database contains **55,000** images of more than **13,000** people within the age ranges of **16** to **77** | [Download](http://www.faceaginggroup.com/morph/)             | 2016         |
 | **CPLFW**    | we construct a Cross-Pose LFW (CPLFW) which deliberately searches and selects **3,000 positive face pairs** with **pose difference** to add pose variation to intra-class variance. | [Download](http://www.whdeng.cn/cplfw/index.html)            | 2017         |
 | **CALFW**    | Thereby we construct a Cross-Age LFW (CALFW) which deliberately searches and selects **3,000 positive face pairs** with **age gaps** to add aging process intra-class variance. | [Download](http://www.whdeng.cn/calfw/index.html)            | 2017         |
+| **XQLFW**    | We construct a Cross-Quality LFW (XQLFW) evaluation protocol which contains of image pairs with a difference in image quality. This database can be used to measure robustness against image quality | [Download](https://martlgap.github.io/xqlfw/)            | 2021         |
 
 ### 📌Face Detection
 
