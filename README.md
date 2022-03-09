@@ -10,7 +10,7 @@ this collecting the papers (main from arxiv.org) about bellow themes:
 > * **[Face Super-Resolution && Face Deblurring && Face Hallucination](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-super-resolution--face-deblurring---face-hallucination)**;   
 > * **[Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occlusion](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-generation--face-synthesis--face-completion--face-restoration--face-de-occlusion--face-reenactment)**;   
 > * **[Face Transfer && Face Editing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-transfer--face-editing) && Face swapping**;   
-> * **[Face Anti-Spoofing](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing--face-attack--face-privacy)**;   
+> * **[Face Anti-Spoofing && Face Attack && Face Privacy](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-anti-spoofing--face-attack--face-privacy)**;   
 > * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
 > * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-application)**; 
 > * **[Model Accleration && Model Compression](https://github.com/ChanChiChoi/awesome-Face_Recognition#model-acceleration--model-compression)**; 
