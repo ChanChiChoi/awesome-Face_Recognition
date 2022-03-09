@@ -1980,7 +1980,7 @@ also, some papers and links collected from:
 - Mohammad Rostami, Leonidas Spinoulas, Mohamed Hussein, Joe Mathai, Wael Abd-Almageed .[Detection and Continual Learning of Novel Face Presentation Attacks](https://arxiv.org/pdf/2108.12081) [J]. arXiv preprint arXiv:2108.12081.
 - Hui Guo, Shu Hu, Xin Wang, Ming-Ching Chang, Siwei Lyu .[Robust Attentive Deep Neural Network for Exposing GAN-generated Faces](https://arxiv.org/pdf/2109.02167) [J]. arXiv preprint arXiv:2109.02167.
 - Huy H. Nguyen, Sébastien Marcel, Junichi Yamagishi, Isao Echizen .[Master Face Attacks on Face Recognition Systems](https://arxiv.org/pdf/2109.03398) [J]. arXiv preprint arXiv:2109.03398.
-- 
+ 
 
 ---
 ## Face Retrieval
