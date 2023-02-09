@@ -1623,6 +1623,8 @@ also, some papers and links collected from:
 - Bernhard Egger, William A. P. Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollhoefer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski, Sami Romdhani, Christian Theobalt, Volker Blanz, Thomas Vetter .[3D Morphable Face Models -- Past, Present and Future](https://arxiv.org/pdf/1909.01815) .[J] arXiv preprint arXiv:1909.01815.
 - Abdallah Dib, Gaurav Bharaj, Junghyun Ahn, Cedric Thebault, Philippe-Henri Gosselin, Louis Chevallier .[Face Reflectance and Geometry Modeling via Differentiable Ray Tracing](https://arxiv.org/pdf/1910.05200) .[J] arXiv preprint arXiv:1910.05200.
 - Yajing Chen, Fanzi Wu, Zeyu Wang, Yibing Song, Yonggen Ling, Linchao Bao .[Self-supervised Learning of Detailed 3D Face Reconstruction](https://arxiv.org/pdf/1910.11791) .[J] arXiv preprint arXiv:1910.11791.
+
+### 2020
 - Jiangke Lin, Yi Yuan, Tianjia Shao, Kun Zhou .[Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://arxiv.org/pdf/2003.05653) .[J] arXiv preprint arXiv:2003.05653
 - Zipeng Ye, Ran Yi, Minjing Yu, Juyong Zhang, Yu-Kun Lai, Yong-jin Liu .[3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face Photos](https://arxiv.org/pdf/2003.06841) .[J] arXiv preprint arXiv:2003.06841
 - Haotian Yang, Hao Zhu, Yanru Wang, Mingkai Huang, Qiu Shen, Ruigang Yang, Xun Cao .[FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://arxiv.org/pdf/2003.13989) .[J] arXiv preprint arXiv:2003.13989
@@ -1641,6 +1643,8 @@ also, some papers and links collected from:
 - Mallikarjun B R, Ayush Tewari, Hans-Peter Seidel, Mohamed Elgharib, Christian Theobalt .[Learning Complete 3D Morphable Face Models from Images and Videos](https://arxiv.org/pdf/2010.01679) [J]. arXiv preprint arXiv:2010.01679.
 - Pengpeng Liu, Xintong Han, Michael Lyu, Irwin King, Jia Xu .[Learning 3D Face Reconstruction with a Pose Guidance Network](https://arxiv.org/pdf/2010.04384) [J]. arXiv preprint arXiv:2010.04384.
 - Zhiqi Kang, Mostafa Sadeghi, Radu Horaud .[Face Frontalization Based on Robustly Fitting a Deformable Shape Model to 3D Landmarks](https://arxiv.org/pdf/2010.13676) [J]. arXiv preprint arXiv:2010.13676.
+
+### 2021
 - Araceli Morales, Gemma Piella, Federico M. Sukno .[Survey on 3D face reconstruction from uncalibrated images](https://arxiv.org/pdf/2011.05740) [J]. arXiv preprint arXiv:2011.05740.
 - Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li .[Face Forgery Detection by 3D Decomposition](https://arxiv.org/pdf/2011.09737) [J]. arXiv preprint arXiv:2011.09737.
 - Yichun Shi, Divyansh Aggarwal, Anil K. Jain .[Lifting 2D StyleGAN for 3D-Aware Face Generation](https://arxiv.org/pdf/2011.13126) [J]. arXiv preprint arXiv:2011.13126.
