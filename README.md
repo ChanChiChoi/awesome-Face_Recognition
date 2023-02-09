@@ -335,7 +335,10 @@ also, some papers and links collected from:
 - Alperen Kantarcı, Ferda Ofli, Muhammad Imran, Hazım Kemal Ekenel .[Bias-Aware Face Mask Detection Dataset](https://arxiv.org/pdf/2211.01207) [J]. arXiv preprint arXiv:2211.01207.
 - Barış Batuhan Topal, Deniz Yuret, Tevfik Metin Sezgin .[Domain-Adaptive Self-Supervised Pre-Training for Face & Body Detection in Drawings](https://arxiv.org/pdf/2211.10641) [J]. arXiv preprint arXiv:2211.10641.
 - Samuel Dooley, George Z. Wei, Tom Goldstein, John P. Dickerson .[Robustness Disparities in Face Detection](https://arxiv.org/pdf/2211.15937) [J]. arXiv preprint arXiv:2211.15937.
+- Haoyue Wang, Meiling Li, Sheng Li, Zhenxing Qian, Xinpeng Zhang .[Exploring Depth Information for Face Manipulation Detection](https://arxiv.org/pdf/2212.14230) [J]. arXiv preprint arXiv:2212.14230.
 
+
+### 2023
 
 ---
 ## Face Alignment
@@ -464,7 +467,10 @@ also, some papers and links collected from:
 - Ali Pourramezan Fard, Mohammah H. Mahoor .[ACR Loss: Adaptive Coordinate-based Regression Loss for Face Alignment](https://arxiv.org/pdf/2203.15835) [J]. arXiv preprint arXiv:2203.15835.
 - Siddartha Dalal, Sierra Vo, Michael Lesk, Wesley Yuan .[Finding Emotions in Faces: A Meta-Classifier](https://arxiv.org/pdf/2208.09678) [J]. arXiv preprint arXiv:2208.09678.
 - Hyung-Il Kim, Kimin Yun, Yong Man Ro .[Face Shape-Guided Deep Feature Alignment for Face Recognition Robust to Face Misalignment](https://arxiv.org/pdf/2209.07220) [J]. arXiv preprint arXiv:2209.07220.
+- Manuel Lage Cañellas, Constantino Álvarez Casado, Le Nguyen, Miguel Bordallo López .[Improving Depression estimation from facial videos with face alignment, training optimization and scheduling](https://arxiv.org/pdf/2212.06400) [J]. arXiv preprint arXiv:2212.06400.
+- Yangyu Huang, Xi Chen, Jongyoo Kim, Hao Yang, Chong Li, Jiaolong Yang, Dong Chen .[FreeEnricher: Enriching Face Landmarks without Additional Cost](https://arxiv.org/pdf/2212.09525) [J]. arXiv preprint arXiv:2212.09525.
 
+### 2023
 
 ---
 ## Face recognition && Face Representations
@@ -1325,7 +1331,13 @@ also, some papers and links collected from:
 - Martin Knoche, Torben Teepe, Stefan Hörmann, Gerhard Rigoll .[Explainable Model-Agnostic Similarity and Confidence in Face Verification](https://arxiv.org/pdf/2211.13735) [J]. arXiv preprint arXiv:2211.13735.
 - Fu-En Wang, Chien-Yi Wang, Min Sun, Shang-Hong Lai .[MixFairFace: Towards Ultimate Fairness via MixFair Adapter in Face Recognition](https://arxiv.org/pdf/2211.15181) [J]. arXiv preprint arXiv:2211.15181.
 - Klemen Grm, Berk Kemal Özata, Vitomir Štruc, Hazım Kemal Ekenel .[Meet-in-the-middle: Multi-scale upsampling and matching for cross-resolution face recognition](https://arxiv.org/pdf/2211.15225) [J]. arXiv preprint arXiv:2211.15225.
+- Zhonglin Sun, Georgios Tzimiropoulos .[Part-based Face Recognition with Vision Transformers](https://arxiv.org/pdf/2212.00057) [J]. arXiv preprint arXiv:2212.00057.
+- Lei Shang, Mouxiao Huang, Wu Shi, Yuchen Liu, Yang Liu, Fei Wang, Baigui Sun, Xuansong Xie, Yu Qiao .[Improving Training and Inference of Face Recognition Models via Random Temperature Scaling](https://arxiv.org/pdf/2212.01015) [J]. arXiv preprint arXiv:2212.01015.
+- Seyyed Mohammad Sadegh Moosavi Khorzooghi, Shirin Nilizadeh .[StyleGAN as a Utility-Preserving Face De-identification Method](https://arxiv.org/pdf/2212.02611) [J]. arXiv preprint arXiv:2212.02611.
+- Hui Hu, Jiawei Zhang, Zhen Han .[Mutimodal Ranking Optimization for Heterogeneous Face Re-identification](https://arxiv.org/pdf/2212.05510) [J]. arXiv preprint arXiv:2212.05510.
+- Xinyi Wang, Jianteng Peng, Sufang Zhang, Bihui Chen, Yi Wang, Yandong Guo .[A Survey of Face Recognition](https://arxiv.org/pdf/2212.13038) [J]. arXiv preprint arXiv:2212.13038.
 
+### 2023
 
 ---
 ## Face(Facial) Attribute && Face(Facial) Analysis && Face Quality && Face Parsing
@@ -1560,8 +1572,10 @@ also, some papers and links collected from:
 - Pedro C. Neto, Ana F. Sequeira, Jaime S. Cardoso, Philipp Terhörst .[PIC-Score: Probabilistic Interpretable Comparison Score for Optimal Matching Confidence in Single- and Multi-Biometric (Face) Recognition](https://arxiv.org/pdf/2211.12483) [J]. arXiv preprint arXiv:2211.12483.
 - Manideep Kolla, Aravinth Savadamuthu .[The Impact of Racial Distribution in Training Data on Face Recognition Bias: A Closer Look](https://arxiv.org/pdf/2211.14498) [J]. arXiv preprint arXiv:2211.14498.
 - Žiga Babnik, Vitomir Štruc .[Assessing Bias in Face Image Quality Assessment](https://arxiv.org/pdf/2211.15265) [J]. arXiv preprint arXiv:2211.15265.
+- Žiga Babnik, Peter Peer, Vitomir Štruc .[FaceQAN: Face Image Quality Assessment Through Adversarial Noise Exploration](https://arxiv.org/pdf/2212.02127) [J]. arXiv preprint arXiv:2212.02127.
+- Lei Li, Tianfang Zhang, Stefan Oehmcke, Fabian Gieseke, Christian Igel .[Mask-FPAN: Semi-Supervised Face Parsing in the Wild With De-Occlusion and UV GAN](https://arxiv.org/pdf/2212.09098) [J]. arXiv preprint arXiv:2212.09098.
 
-
+### 2023
 
 ---
 ## Face Reconstruction && Face 3D
@@ -1714,6 +1728,7 @@ also, some papers and links collected from:
 - Keqiang Sun, Shangzhe Wu, Ning Zhang, Zhaoyang Huang, Quan Wang, Hongsheng Li .[CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields](https://arxiv.org/pdf/2211.13251) [J]. arXiv preprint arXiv:2211.13251.
 - Haoran Bai, Di Kang, Haoxian Zhang, Jinshan Pan, Linchao Bao .[FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction](https://arxiv.org/pdf/2211.13874) [J]. arXiv preprint arXiv:2211.13874.
 
+### 2023
 
 ---
 ## Face Tracking
@@ -2167,8 +2182,12 @@ also, some papers and links collected from:
 - Heng Yu, Koichiro Niinuma, Laszlo A. Jeni .[CoNFies: Controllable Neural Face Avatars](https://arxiv.org/pdf/2211.08610) [J]. arXiv preprint arXiv:2211.08610.
 - Yunfan Liu, Qi Li, Zhenan Sun, Tieniu Tan .[Semantic-aware One-shot Face Re-enactment with Dense Correspondence Estimation](https://arxiv.org/pdf/2211.12674) [J]. arXiv preprint arXiv:2211.12674.
 - Binxin Yang, Xuejin Chen, Chaoqun Wang, Chi Zhang, Zihan Chen, Xiaoyan Sun .[Semantics-Preserving Sketch Embedding for Face Generation](https://arxiv.org/pdf/2211.13015) [J]. arXiv preprint arXiv:2211.13015.
+- Zhaoying Pan, Jinge Ma .[Face Animation with Multiple Source Images](https://arxiv.org/pdf/2212.00256) [J]. arXiv preprint arXiv:2212.00256.
+- Anni Tang, Tianyu He, Xu Tan, Jun Ling, Runnan Li, Sheng Zhao, Li Song, Jiang Bian .[Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://arxiv.org/pdf/2212.05005) [J]. arXiv preprint arXiv:2212.05005.
+- Zongsheng Yue, Chen Change Loy .[DifFace: Blind Face Restoration with Diffused Error Contraction](https://arxiv.org/pdf/2212.06512) [J]. arXiv preprint arXiv:2212.06512.
+- Andrew Melnik, Maksim Miasayedzenkau, Dzianis Makarovets, Dzianis Pirshtuk, Eren Akbulut, Dennis Holzmann, Tarek Renusch, Gustav Reichert, Helge Ritter .[Face Generation and Editing with StyleGAN: A Survey](https://arxiv.org/pdf/2212.09102) [J]. arXiv preprint arXiv:2212.09102.
 
- 
+### 2023 
 
 ---
 ## Face Transfer && Face Editing
@@ -2230,6 +2249,8 @@ also, some papers and links collected from:
 - Yuanming Li, Jeong-gi Kwak, David Han, Hanseok Ko .[Controllable Face Manipulation and UV Map Generation by Self-supervised Learning](https://arxiv.org/pdf/2209.12050) [J]. arXiv preprint arXiv:2209.12050.
 - Kaiwen Jiang, Shu-Yu Chen, Feng-Lin Liu, Hongbo Fu, Lin Gao .[NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://arxiv.org/pdf/2211.07968) [J]. arXiv preprint arXiv:2211.07968.
 - Chen Naveh, Yacov Hel-Or .[OrthoGAN: Multifaceted Semantics for Disentangled Face Editing](https://arxiv.org/pdf/2211.11825) [J]. arXiv preprint arXiv:2211.11825.
+- Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nießner .[ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/pdf/2212.01406) [J]. arXiv preprint arXiv:2212.01406.
+- Gyeongman Kim, Hajin Shim, Hyunsu Kim, Yunjey Choi, Junho Kim, Eunho Yang .[Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding](https://arxiv.org/pdf/2212.02802) [J]. arXiv preprint arXiv:2212.02802.
 
 
 
@@ -2264,6 +2285,9 @@ also, some papers and links collected from:
 - Felix Rosberg, Eren Erdal Aksoy, Fernando Alonso-Fernandez, Cristofer Englund .[FaceDancer: Pose- and Occlusion-Aware High Fidelity Face Swapping](https://arxiv.org/pdf/2210.10473) [J]. arXiv preprint arXiv:2210.10473.
 - Truong Vu, Kien Do, Khang Nguyen, Khoat Than .[Face Swapping as A Simple Arithmetic Operation](https://arxiv.org/pdf/2211.10812) [J]. arXiv preprint arXiv:2211.10812.
 - Zhian Liu, Maomao Li, Yong Zhang, Cairong Wang, Qi Zhang, Jue Wang, Yongwei Nie .[Fine-Grained Face Swapping via Regional GAN Inversion](https://arxiv.org/pdf/2211.14068) [J]. arXiv preprint arXiv:2211.14068.
+- Anubhav Jain, Nasir Memon, Julian Togelius .[A Dataless FaceSwap Detection Approach Using Synthetic Images](https://arxiv.org/pdf/2212.02571) [J]. arXiv preprint arXiv:2212.02571.
+- Hao Zeng, Wei Zhang, Changjie Fan, Tangjie Lv, Suzhen Wang, Zhimeng Zhang, Bowen Ma, Lincheng Li, Yu Ding, Xin Yu .[FlowFace: Semantic Flow-guided Shape-aware Face Swapping](https://arxiv.org/pdf/2212.02797) [J]. arXiv preprint arXiv:2212.02797.
+- Kihong Kim, Yunho Kim, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee .[DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://arxiv.org/pdf/2212.13344) [J]. arXiv preprint arXiv:2212.13344.
 
 
 
@@ -2538,7 +2562,17 @@ also, some papers and links collected from:
 - Yan Ju, Shan Jia, Jialing Cai, Haiying Guan, Siwei Lyu .[GLFF: Global and Local Feature Fusion for Face Forgery Detection](https://arxiv.org/pdf/2211.08615) [J]. arXiv preprint arXiv:2211.08615.
 - Jag Mohan Singh, Raghavendra Ramachandra .[Deep Composite Face Image Attacks: Generation, Vulnerability and Detection](https://arxiv.org/pdf/2211.11039) [J]. arXiv preprint arXiv:2211.11039.
 - Chu-Chun Chuang, Chien-Yi Wang, Shang-Hong Lai .[Generalized Face Anti-Spoofing via Multi-Task Learning and One-Side Meta Triplet Loss](https://arxiv.org/pdf/2211.15955) [J]. arXiv preprint arXiv:2211.15955.
+- Haixiao Yue, Keyao Wang, Guosheng Zhang, Haocheng Feng, Junyu Han, Errui Ding, Jingdong Wang .[Cyclically Disentangled Feature Translation for Face Anti-spoofing](https://arxiv.org/pdf/2212.03651) [J]. arXiv preprint arXiv:2212.03651.
+- YuYang Sun, ZhiYong Zhang, Isao Echizen, Huy H.Nguyen, ChangZhen Qiu, Lu Sun .[Face Forgery Detection Based on Facial Region Displacement Trajectory Series](https://arxiv.org/pdf/2212.03678) [J]. arXiv preprint arXiv:2212.03678.
+- Zitong Yu, Chenxu Zhao, Zhen Lei .[Face Presentation Attack Detection](https://arxiv.org/pdf/2212.03680) [J]. arXiv preprint arXiv:2212.03680.
+- Kaicheng Li, Hongyu Yang, Binghui Chen, Pengyu Li, Biao Wang, Di Huang .[Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing](https://arxiv.org/pdf/2212.03943) [J]. arXiv preprint arXiv:2212.03943.
+- Sergi D. Bray (1), Shane D. Johnson (1), Bennett Kleinberg (2) ((1) University College London, (2) Tilburg University) .[Testing Human Ability To Detect Deepfake Images of Human Faces](https://arxiv.org/pdf/2212.05056) [J]. arXiv preprint arXiv:2212.05056.
+- Matineh Pooshideh .[A Novel Active Solution for Two-Dimensional Face Presentation Attack Detection](https://arxiv.org/pdf/2212.06958) [J]. arXiv preprint arXiv:2212.06958.
+- Minh-Ha Le, Niklas Carlsson .[StyleID: Identity Disentanglement for Anonymizing Faces](https://arxiv.org/pdf/2212.13791) [J]. arXiv preprint arXiv:2212.13791.
+- Jianwei Fei, Yunshu Dai, Huaming Wang, Zhihua Xia .[Learning to mask: Towards generalized face forgery detection](https://arxiv.org/pdf/2212.14309) [J]. arXiv preprint arXiv:2212.14309.
+- Decheng Liu, Zeyang Zheng, Chunlei Peng, Yukai Wang, Nannan Wang, Xinbo Gao .[Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues](https://arxiv.org/pdf/2212.14629) [J]. arXiv preprint arXiv:2212.14629.
 
+### 2023
 
 ---
 ## Face Retrieval
@@ -2593,6 +2627,8 @@ also, some papers and links collected from:
 - Haiping Zhu, Zhizhong Huang, Hongming Shan, Junping Zhang .[Look globally, age locally: Face aging with an attention mechanism](https://arxiv.org/pdf/1910.12771) .[J] arXiv preprint arXiv:1910.12771.
 - Milad Kiaee, Adam B Kashlak, Jisu Kim, Giseon Heo .[Diagnosis of Pediatric Obstructive Sleep Apnea via Face Classification with Persistent Homology and Convolutional Neural Networks](https://arxiv.org/pdf/1911.05628) [J]. arXiv preprint arXiv:1911.05628.
 - Xiuye Gu, Weixin Luo, Michael S. Ryoo, Yong Jae Lee .[Password-conditioned Anonymization and Deanonymization with Face Identity Transformers](https://arxiv.org/pdf/1911.11759) [J]. arXiv preprint arXiv:1911.11759.
+
+### 2020
 - Mohammad Sabokrou, Masoud Pourreza, Xiaobai Li, Mahmood Fathy, Guoying Zhao .[Deep-HR: Fast Heart Rate Estimation from Face Video Under Realistic Conditions](https://arxiv.org/pdf/2002.04821) .[J] arXiv preprint arXiv:2002.04821
 - Debayan Deb, Divyansh Aggarwal, Anil K. Jain .[Child Face Age-Progression via Deep Feature Aging](https://arxiv.org/pdf/2003.08788) .[J] arXiv preprint arXiv:2003.08788
 - Nathalie Tkauc, Thao Tran, Kevin Hernandez-Diaz, Fernando Alonso-Fernandez .[Cloud-Based Face and Speech Recognition for Access Control Applications](https://arxiv.org/pdf/2004.11168) [J]. arXiv preprint arXiv:2004.11168.
@@ -2611,6 +2647,8 @@ also, some papers and links collected from:
 - Doruk Pancaroglu .[Artist, Style And Year Classification Using Face Recognition And Clustering With Convolutional Neural Networks](https://arxiv.org/pdf/2012.01009) [J]. arXiv preprint arXiv:2012.01009.
 - Djoanna Marie V. Salac .[PRESENT: An Android-Based Class Attendance Monitoring System Using Face Recognition Technology](https://arxiv.org/pdf/2012.01907) [J]. arXiv preprint arXiv:2012.01907.
 - Agelos Kratimenos, Georgios Pavlakos, Petros Maragos .[Independent Sign Language Recognition with 3D Body, Hands, and Face Reconstruction](https://arxiv.org/pdf/2012.05698) [J]. arXiv preprint arXiv:2012.05698.
+
+### 2021
 - Zekun Wang, Pengwei Wang, Peter C. Louis, Lee E. Wheless, Yuankai Huo .[WearMask: Fast In-browser Face Mask Detection with Serverless Edge Computing for COVID-19](https://arxiv.org/pdf/2101.00784) [J]. arXiv preprint arXiv:2101.00784.
 - Moein Razavi, Hamed Alikhani, Vahid Janfaza, Benyamin Sadeghi, Ehsan Alikhani .[An Automatic System to Monitor the Physical Distance and Face Mask Wearing of Construction Workers in COVID-19 Pandemic](https://arxiv.org/pdf/2101.01373) [J]. arXiv preprint arXiv:2101.01373.
 - Mayank Gupta, Lingjun Chen, Denny Yu, Vaneet Aggarwal .[A Supervised Learning Approach for Robust Health Monitoring using Face Videos](https://arxiv.org/pdf/2102.00322) [J]. arXiv preprint arXiv:2102.00322.
@@ -2630,6 +2668,8 @@ also, some papers and links collected from:
 - Majid Farzaneh .[ArcFace Knows the Gender, Too!](https://arxiv.org/pdf/2112.10101) [J]. arXiv preprint arXiv:2112.10101.
 - Haoyi Wang, Victor Sanchez, Chang-Tsun Li .[Improving Face-Based Age Estimation with Attention-Based Dynamic Patch Fusion](https://arxiv.org/pdf/2112.10167) [J]. arXiv preprint arXiv:2112.10167.
 - Muhammad Saad Saeed, Muhammad Haris Khan, Shah Nawaz, Muhammad Haroon Yousaf, Alessio Del Bue .[Fusion and Orthogonal Projection for Improved Face-Voice Association](https://arxiv.org/pdf/2112.10483) [J]. arXiv preprint arXiv:2112.10483.
+
+### 2022
 - Constantino Álvarez Casado, Miguel Bordallo López .[Face2PPG: An unsupervised pipeline for blood volume pulse extraction from faces](https://arxiv.org/pdf/2202.04101) [J]. arXiv preprint arXiv:2202.04101.
 - Jialiang Zhuang, Bin Li, Yun Zhang, Xiujuan Zheng .[InsightNet: non-contact blood pressure measuring network based on face video](https://arxiv.org/pdf/2203.03634) [J]. arXiv preprint arXiv:2203.03634.
 - Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze .[Faces: AI Blitz XIII Solutions](https://arxiv.org/pdf/2204.01081) [J]. arXiv preprint arXiv:2204.01081.
@@ -2646,8 +2686,9 @@ also, some papers and links collected from:
 - Ashwin Rao .[AttenFace: A Real Time Attendance System using Face Recognition](https://arxiv.org/pdf/2211.07582) [J]. arXiv preprint arXiv:2211.07582.
 - Daniel Arkushin, Bar Cohen, Shmuel Peleg, Ohad Fried .[ReFace: Improving Clothes-Changing Re-Identification With Face Features](https://arxiv.org/pdf/2211.13807) [J]. arXiv preprint arXiv:2211.13807.
 - Zhongyu Fang, Aoyun He, Qihui Yu, Baopeng Gao, Weiping Ding, Tong Zhang, Lei Ma .[FAF: A novel multimodal emotion recognition approach integrating face, body and text](https://arxiv.org/pdf/2211.15425) [J]. arXiv preprint arXiv:2211.15425.
+- Andreas Gavros, Foteini Gavrou .[Can a face tell us anything about an NBA prospect? -- A Deep Learning approach](https://arxiv.org/pdf/2212.06804) [J]. arXiv preprint arXiv:2212.06804.
 
-
+### 2023
 
 
 ## Model Acceleration && Model Compression
